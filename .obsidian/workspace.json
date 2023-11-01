@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "a10081d6ec7926c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "609d6beb42bbb46d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e407870d729badb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/디자인 패턴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5b4accc4c8bd211",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2daeb7d001db4d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f6842c0afb0e307",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f702db24645f9d87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb480b6f00c3260a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e49c65dc00784e25",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "65d977f6c269403d",
+    "type": "split",
+    "children": [
+      {
+        "id": "687399a8ed04c36e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17731d7e0c28f9fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JAVA/디자인 패턴.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "371092be019ac0ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JAVA/디자인 패턴.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b394e24f2155234",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f00bc51357098910",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JAVA/디자인 패턴.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "7e407870d729badb",
+  "lastOpenFiles": [
+    "Pasted image 20231030095332.png.md",
+    "JAVA/디자인 패턴.md",
+    "Spring/Spring Security/JWT.md",
+    "Spring/Spring Security/Spring Security.md",
+    "Spring/Spring Security",
+    "Spring/.md",
+    "JAVA/New Note.md",
+    "SiniNote.md",
+    "Dairy/Dairy.md",
+    "Dairy",
+    "Spring/Spring.md",
+    "Spring",
+    "README.md",
+    "JAVA/JAVA.md",
+    "JAVA",
+    "New Note.md"
+  ]
+}
