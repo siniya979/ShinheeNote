@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/디자인 패턴.md",
-                "mode": "source",
+                "file": "Spring/Spring Security/JWT.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/디자인 패턴.md",
+                "file": "Spring/Spring Security/JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/디자인 패턴.md",
+                "file": "Spring/Spring Security/JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/디자인 패턴.md"
+                "file": "Spring/Spring Security/JWT.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
-    "Pasted image 20231030095332.png.md",
     "JAVA/디자인 패턴.md",
+    "Pasted image 20231030095332.png.md",
     "Spring/Spring Security/JWT.md",
     "Spring/Spring Security/Spring Security.md",
     "Spring/Spring Security",
