@@ -40,6 +40,7 @@
     "//JAVA",
     "//JAVA",
     "//Spring",
+    "//Spring/Spring/JPA",
     "//Spring/Spring/JPA"
   ],
   "expandFolderOnClick": true,
