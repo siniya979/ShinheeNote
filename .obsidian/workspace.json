@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/디자인 패턴.md",
+                "file": "Spring/Spring Security/시큐리티.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "65d977f6c269403d",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/디자인 패턴.md",
+                "file": "Spring/Spring Security/시큐리티.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/디자인 패턴.md",
+                "file": "Spring/Spring Security/시큐리티.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/디자인 패턴.md"
+                "file": "Spring/Spring Security/시큐리티.md"
               }
             }
           }
@@ -158,13 +157,14 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
+    "Spring/Spring Security/시큐리티.md",
+    "Spring/Spring Security/JWT.md",
+    "JAVA/디자인 패턴.md",
     "JAVA/java/Date vs LocalDateTime.md",
     "JAVA/java/java.md",
     "JAVA/java",
     "JAVA/java/New Note.md",
-    "Spring/Spring Security/JWT.md",
     "README.md",
-    "JAVA/디자인 패턴.md",
     "Pasted image 20231030095332.png.md",
     "Spring/Spring Security/Spring Security.md",
     "Spring/Spring Security",
