@@ -49,9 +49,9 @@
     "/",
     "Dairy",
     "JAVA",
+    "JAVA/java",
     "Spring",
-    "Spring/Spring Security",
-    "JAVA/java"
+    "Spring/Spring Security"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
