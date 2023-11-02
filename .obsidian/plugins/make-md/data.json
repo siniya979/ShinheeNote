@@ -36,11 +36,11 @@
     "/",
     "//Dairy",
     "//Spring",
-    "//Spring/Spring/Spring Security",
     "//JAVA",
     "//JAVA",
     "//JAVA",
-    "//Spring/Spring/Spring Security"
+    "//Spring",
+    "//Spring/Spring/JPA"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -51,7 +51,8 @@
     "JAVA",
     "JAVA/java",
     "Spring",
-    "Spring/Spring Security"
+    "Spring/Spring Security",
+    "Spring/JPA"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -81,7 +82,8 @@
     "Spring",
     "Daily",
     "Spring Security",
-    "JAVA/java"
+    "JAVA/java",
+    "Spring/JPA"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
