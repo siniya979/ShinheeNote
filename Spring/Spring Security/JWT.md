@@ -146,5 +146,6 @@ B는 A의 공개키로 해당 메시지를 열어볼 수 있다.
 # Bearer 인증
 
 
-.httpBasic().disable(); 
+# Auth Token
+# Refresh Token
 
