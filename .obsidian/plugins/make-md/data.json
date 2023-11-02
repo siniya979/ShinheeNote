@@ -37,6 +37,8 @@
     "//Dairy",
     "//Spring",
     "//Spring/Spring/Spring Security",
+    "//JAVA",
+    "//JAVA",
     "//JAVA"
   ],
   "expandFolderOnClick": true,
@@ -47,7 +49,8 @@
     "Dairy",
     "JAVA",
     "Spring",
-    "Spring/Spring Security"
+    "Spring/Spring Security",
+    "JAVA/java"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -76,7 +79,8 @@
     "JAVA",
     "Spring",
     "Daily",
-    "Spring Security"
+    "Spring Security",
+    "JAVA/java"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
