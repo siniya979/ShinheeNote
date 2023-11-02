@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/JPA/New Note.md",
+                "file": "Spring/JPA/Entity Relations.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/JPA/New Note.md",
+                "file": "Spring/JPA/Entity Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/JPA/New Note.md",
+                "file": "Spring/JPA/Entity Relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/JPA/New Note.md"
+                "file": "Spring/JPA/Entity Relations.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
-    "Spring/JPA/New Note.md",
     "Spring/JPA/Entity Listener.md",
+    "Spring/JPA/Entity Relations.md",
+    "Spring/JPA/연관관계.md",
     "Spring/JPA/JPA.md",
     "Spring/JPA",
     "Spring/Spring Security/JWT.md",
