@@ -50,13 +50,13 @@
     "spaces://$tags",
     "spaces://$waypoints",
     "/",
+    "ClonePJ",
     "Dairy",
     "JAVA",
     "JAVA/java",
     "Spring",
-    "Spring/Spring Security",
     "Spring/JPA",
-    "ClonePJ"
+    "Spring/Spring Security"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
