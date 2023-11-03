@@ -43,7 +43,12 @@
     "//Spring/Spring/JPA",
     "//Spring/Spring/JPA",
     "//JAVA/JAVA/java",
-    "//Spring/Spring/Spring Security"
+    "//Spring/Spring/Spring Security",
+    "//Dairy",
+    "//Dairy",
+    "//Dairy",
+    "//Dairy/Dairy/잡동사니",
+    "//Dairy/Dairy/잡동사니"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -56,7 +61,8 @@
     "JAVA/java",
     "Spring",
     "Spring/JPA",
-    "Spring/Spring Security"
+    "Spring/Spring Security",
+    "Dairy/잡동사니"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -88,7 +94,8 @@
     "Spring Security",
     "JAVA/java",
     "Spring/JPA",
-    "ClonePJ"
+    "ClonePJ",
+    "Dairy/잡동사니"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
