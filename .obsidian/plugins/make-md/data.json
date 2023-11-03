@@ -47,8 +47,9 @@
     "//Dairy",
     "//Dairy",
     "//Dairy",
-    "//Dairy/Dairy/잡동사니",
-    "//Dairy/Dairy/잡동사니"
+    "//Dairy",
+    "//ShinHee",
+    "//ShinHee/ShinHee/Diary"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -56,13 +57,14 @@
     "spaces://$waypoints",
     "/",
     "ClonePJ",
-    "Dairy",
     "JAVA",
     "JAVA/java",
     "Spring",
     "Spring/JPA",
     "Spring/Spring Security",
-    "Dairy/잡동사니"
+    "ShinHee",
+    "ShinHee/잡동사니",
+    "ShinHee/Diary"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -95,7 +97,8 @@
     "JAVA/java",
     "Spring/JPA",
     "ClonePJ",
-    "Dairy/잡동사니"
+    "Dairy/잡동사니",
+    "ShinHee/Diary"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",

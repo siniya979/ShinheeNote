@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairy/잡동사니/New Note.md",
+                "file": "ShinHee/Diary/New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dairy/잡동사니/New Note.md",
+                "file": "ShinHee/Diary/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dairy/잡동사니/New Note.md",
+                "file": "ShinHee/Diary/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairy/잡동사니/New Note.md"
+                "file": "ShinHee/Diary/New Note.md"
               }
             }
           }
@@ -157,10 +157,12 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
-    "Dairy/잡동사니/New Note.md",
-    "Dairy/잡동사니/잡동사니.md",
-    "Dairy/잡동사니",
-    "Dairy/New Note.md",
+    "ShinHee/Diary/Diary.md",
+    "ShinHee/Diary",
+    "ShinHee/Diary/New Note.md",
+    "ShinHee/잡동사니/New Note.md",
+    "ShinHee/잡동사니/잡동사니.md",
+    "ShinHee/잡동사니",
     "Spring/JPA/Entity Listener.md",
     "JAVA/디자인 패턴.md",
     "JAVA/java/Date vs LocalDateTime.md",
@@ -182,8 +184,8 @@
     "Spring/Spring Security",
     "Spring/.md",
     "SiniNote.md",
-    "Dairy/Dairy.md",
-    "Dairy",
+    "ShinHee/ShinHee.md",
+    "ShinHee",
     "Spring/Spring.md",
     "Spring",
     "JAVA/JAVA.md",
