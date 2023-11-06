@@ -42,7 +42,6 @@
     "//Spring",
     "//Spring/Spring/JPA",
     "//Spring/Spring/JPA",
-    "//JAVA/JAVA/java",
     "//Spring/Spring/Spring Security",
     "//Dairy",
     "//Dairy",
@@ -52,7 +51,9 @@
     "//ShinHee/ShinHee/Diary",
     "//ShinHee/ShinHee/Diary",
     "//ShinHee/ShinHee/잡동사니",
-    "//ClonePJ"
+    "//ClonePJ",
+    "//JAVA/JAVA/java",
+    "//JAVA/JAVA/java"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -67,7 +68,8 @@
     "ShinHee/잡동사니",
     "Spring",
     "Spring/JPA",
-    "Spring/Spring Security"
+    "Spring/Spring Security",
+    "JAVA/java/자바의신"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -101,7 +103,8 @@
     "Spring/JPA",
     "ClonePJ",
     "Dairy/잡동사니",
-    "ShinHee/Diary"
+    "ShinHee/Diary",
+    "JAVA/java/자바의신"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
