@@ -1,6 +1,6 @@
 # Queue
 
-- 기본큐 [FIFO]
+## 기본큐 [FIFO]
 ```python
 import queue
 
@@ -12,6 +12,56 @@ data_queue.put("두번째 삽입")
 data_queue.get()
 data_queue.get()
 ```
-- Lifo큐 [LIFO]
-- Priority큐 [우선순위]
 
+> 결과 
+> 첫번째 삽입
+> 두번째 삽입 
+
+
+## Lifo큐 [LIFO]
+```python
+import queue
+
+data_queue = queue.LifoQueue()
+
+data_queue.put("첫번째 삽입")
+data_queue.put("두번째 삽입")
+
+data_queue.get()
+data_queue.get()
+```
+
+> 결과 
+> 두번째 삽입 
+> 첫번째 삽입
+
+## Priority 큐 [우선순위]
+```python
+import queue
+
+data_queue = queue.Queue()
+
+data_queue.put((10, "첫번째 삽입"))
+data_queue.put((5, "두번째 삽입"))
+data_queue.put((15, "세번째 삽입"))
+
+data_queue.get()
+data_queue.get()
+data_queue.get()
+```
+
+> 결과 
+> 두번째 삽입 
+> 첫번째 삽입
+> 세번째 삽입
+
+
+**큐 사용**
+멀티 태스킹을 위한 **프로세스 스케쥴링 방식**을 구현하기 위해 많이 사용됨
+
+```python
+
+queue_list = list()
+
+def en
+```
