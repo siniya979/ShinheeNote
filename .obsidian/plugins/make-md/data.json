@@ -59,12 +59,12 @@
     "ClonePJ",
     "JAVA",
     "JAVA/java",
+    "ShinHee",
+    "ShinHee/Diary",
+    "ShinHee/잡동사니",
     "Spring",
     "Spring/JPA",
-    "Spring/Spring Security",
-    "ShinHee",
-    "ShinHee/잡동사니",
-    "ShinHee/Diary"
+    "Spring/Spring Security"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
