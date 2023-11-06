@@ -11,11 +11,9 @@
             "id": "7e407870d729badb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "JAVA/java/자바의신/6장 조건문.md",
-                "mode": "source",
-                "source": false
+                "path": "ShinHee/잡동사니"
               }
             }
           }
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/java/자바의신/6장 조건문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/java/자바의신/6장 조건문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JAVA/java/자바의신/6장 조건문.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,8 +151,12 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
-    "JAVA/java/자바의신/4장 변수.md",
+    "SiniNote.md",
+    "ShinHee/잡동사니/New Note.md",
+    "ShinHee/잡동사니/New Note 1.md",
+    "ShinHee/Diary/.md",
     "JAVA/java/자바의신/6장 조건문.md",
+    "JAVA/java/자바의신/4장 변수.md",
     "JAVA/java/자바의신/자바의신.md",
     "JAVA/java/자바의신",
     "JAVA/java/Date vs LocalDateTime.md",
@@ -167,8 +165,6 @@
     "Spring/Spring Security/시큐리티.md",
     "Spring/JPA/Entity Listener.md",
     "Spring/JPA/Entity Relations.md",
-    "ShinHee/Diary/New Note.md",
-    "ShinHee/잡동사니/New Note.md",
     "ShinHee/Diary/Diary.md",
     "ShinHee/Diary",
     "ShinHee/잡동사니/잡동사니.md",
@@ -187,10 +183,8 @@
     "Spring/Spring Security/Spring Security.md",
     "Spring/Spring Security",
     "Spring/.md",
-    "SiniNote.md",
     "ShinHee/ShinHee.md",
     "ShinHee",
-    "Spring/Spring.md",
     "Spring",
     "JAVA"
   ]
