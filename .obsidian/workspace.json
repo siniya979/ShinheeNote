@@ -11,9 +11,11 @@
             "id": "7e407870d729badb",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "ShinHee/잡동사니"
+                "file": "Algorithm/FC_Study/New Note.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithm/FC_Study/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorithm/FC_Study/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algorithm/FC_Study/New Note.md"
+              }
             }
           }
         ]
@@ -151,6 +157,12 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
+    "Algorithm/FC_Study/New Note.md",
+    "Algorithm/FC_Study/FC_Study.md",
+    "Algorithm/FC_Study",
+    "Algorithm/Algorithm.md",
+    "Algorithm",
+    "JAVA/디자인 패턴.md",
     "SiniNote.md",
     "ShinHee/잡동사니/New Note.md",
     "ShinHee/잡동사니/New Note 1.md",
@@ -169,7 +181,6 @@
     "ShinHee/Diary",
     "ShinHee/잡동사니/잡동사니.md",
     "ShinHee/잡동사니",
-    "JAVA/디자인 패턴.md",
     "ClonePJ/ClonePJ.md",
     "ClonePJ",
     "New Note.md",
@@ -180,12 +191,7 @@
     "JAVA/java",
     "README.md",
     "Pasted image 20231030095332.png.md",
-    "Spring/Spring Security/Spring Security.md",
     "Spring/Spring Security",
-    "Spring/.md",
-    "ShinHee/ShinHee.md",
-    "ShinHee",
-    "Spring",
-    "JAVA"
+    "ShinHee"
   ]
 }
