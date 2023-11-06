@@ -49,7 +49,10 @@
     "//Dairy",
     "//Dairy",
     "//ShinHee",
-    "//ShinHee/ShinHee/Diary"
+    "//ShinHee/ShinHee/Diary",
+    "//ShinHee/ShinHee/Diary",
+    "//ShinHee/ShinHee/잡동사니",
+    "//ClonePJ"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
