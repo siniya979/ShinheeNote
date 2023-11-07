@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/java/자바의신/4장 변수.md",
+                "file": "New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/java/자바의신/4장 변수.md",
+                "file": "New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/java/자바의신/4장 변수.md",
+                "file": "New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/java/자바의신/4장 변수.md"
+                "file": "New Note.md"
               }
             }
           }
@@ -157,15 +157,17 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
-    "ShinHee/Diary/New Note.md",
+    "New Note.md",
     "Algorithm/FC_Study/자료구조.md",
+    "README.md",
+    "JAVA/java/자바의신/4장 변수.md",
+    "ShinHee/Diary/New Note.md",
     "Algorithm/FC_Study/FC_Study.md",
     "Algorithm/FC_Study",
     "Algorithm/Algorithm.md",
     "Algorithm",
     "ShinHee/잡동사니/New Note.md",
     "JAVA/java/자바의신/6장 조건문.md",
-    "JAVA/java/자바의신/4장 변수.md",
     "JAVA/java/자바의신/자바의신.md",
     "JAVA/java/자바의신",
     "JAVA/java/Date vs LocalDateTime.md",
@@ -181,13 +183,11 @@
     "JAVA/디자인 패턴.md",
     "ClonePJ/ClonePJ.md",
     "ClonePJ",
-    "New Note.md",
     "Spring/JPA/연관관계.md",
     "Spring/JPA/JPA.md",
     "Spring/JPA",
     "JAVA/java/java.md",
     "JAVA/java",
-    "README.md",
     "Pasted image 20231030095332.png.md",
     "Spring/Spring Security/Spring Security.md",
     "Spring/Spring Security",
