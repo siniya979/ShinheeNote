@@ -50,7 +50,8 @@
     "//ShinHee",
     "//Algorithm",
     "//Algorithm/Algorithm/FC_Study",
-    "//JAVA"
+    "//JAVA",
+    "//ClonePJ"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -65,7 +66,8 @@
     "JAVA/java/자바의신",
     "Spring",
     "Spring/JPA",
-    "Spring/Spring Security"
+    "Spring/Spring Security",
+    "spaces://#11월"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
