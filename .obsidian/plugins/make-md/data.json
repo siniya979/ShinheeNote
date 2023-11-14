@@ -48,7 +48,10 @@
     "//Algorithm",
     "//Algorithm/Algorithm/FC_Study",
     "//JAVA",
-    "//ClonePJ"
+    "//ClonePJ",
+    "//Algorithm/Algorithm/FC_Study",
+    "//ClonePJ",
+    "//Spring"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
