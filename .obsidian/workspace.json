@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
+                "file": "JAVA/자바의신/자바의 신 2권 요약.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
+                "file": "JAVA/자바의신/자바의 신 2권 요약.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
+                "file": "JAVA/자바의신/자바의 신 2권 요약.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md"
+                "file": "JAVA/자바의신/자바의 신 2권 요약.md"
               }
             }
           }
@@ -157,13 +157,14 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
+    "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
+    "JAVA/자바의신/자바의 신 2권 요약.md",
     "IT_World/나중에 참고.md",
     "IT_World/it 용어.md",
     "IT_World/IT_World.md",
     "IT_World",
     "SiniNote.md",
     "앞으로 공부할 것.md",
-    "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
     "ClonePJ/11월.md",
     "JAVA/자바의신/자바의신.md",
     "JAVA/자바의신",
@@ -188,7 +189,6 @@
     "Spring/JPA/Entity Relations.md",
     "ShinHee/Diary/Diary.md",
     "ShinHee/Diary",
-    "ShinHee/잡동사니/잡동사니.md",
     "ShinHee/잡동사니",
     "ClonePJ",
     "Spring/JPA",
