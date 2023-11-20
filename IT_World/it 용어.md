@@ -1,0 +1,1 @@
+와즘(Wasm) : 웹어셉블리(WebAssembly) 줄임말
