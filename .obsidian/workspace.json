@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT_World/나중에 참고.md",
+                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT_World/나중에 참고.md",
+                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT_World/나중에 참고.md",
+                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT_World/나중에 참고.md"
+                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
-    "IT_World/it 용어.md",
     "IT_World/나중에 참고.md",
+    "IT_World/it 용어.md",
     "IT_World/IT_World.md",
     "IT_World",
     "SiniNote.md",
