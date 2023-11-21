@@ -61,14 +61,14 @@
     "/",
     "Algorithm",
     "Algorithm/FC_Study",
+    "IT_World",
     "ClonePJ",
     "JAVA",
     "JAVA/java",
     "JAVA/자바의신",
     "Spring",
     "Spring/JPA",
-    "Spring/Spring Security",
-    "IT_World"
+    "Spring/Spring Security"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
