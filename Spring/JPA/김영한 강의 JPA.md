@@ -25,3 +25,14 @@ public class Member{
 }
 ```
 
+양방향 
+```java
+public class Team{
+	@Id @GeneratedValue
+	@Column(name = "Team_id")
+	private Long id;
+
+	@OneToMany(mappedBy = "team") // ㅅㄷㅁ
+	private List<Member> members = new ArrayList<>(); // 관례_초기화 
+}
+```
