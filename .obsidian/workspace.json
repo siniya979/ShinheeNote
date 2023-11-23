@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
+                "file": "Spring/JPA/김영한 강의 JPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
+                "file": "Spring/JPA/김영한 강의 JPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
+                "file": "Spring/JPA/김영한 강의 JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md"
+                "file": "Spring/JPA/김영한 강의 JPA.md"
               }
             }
           }
@@ -157,13 +157,13 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
+    "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
     "JAVA/자바의신/자바의 신 2권 요약.md",
     "Spring/JPA/김영한 강의 JPA.md",
     "JAVA/java/GC.md",
     "Spring/JPA/영속성 컨텍스트.md",
     "Spring/JPA/Entity Relations.md",
     "Spring/JPA/Entity Listener.md",
-    "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
     "IT_World/나중에 참고.md",
     "IT_World/it 용어.md",
     "IT_World/IT_World.md",
