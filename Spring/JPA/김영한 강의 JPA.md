@@ -32,7 +32,9 @@ public class Team{
 	@Column(name = "Team_id")
 	private Long id;
 
-	@OneToMany(mappedBy = "team") // ㅅㄷㅁ
+	@OneToMany(mappedBy = "team") 
 	private List<Member> members = new ArrayList<>(); // 관례_초기화 
 }
 ```
+
+연관관계의 주인과 mappedBy 
