@@ -9,3 +9,4 @@ EnumType.STRING : enum에 문자 그대로 db에 저장
 
 Lob은 필드타입이 문자면 CLOB 그 외 BLOB
 
+# 연관 관계 
