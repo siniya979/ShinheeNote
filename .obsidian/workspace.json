@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA.md",
+                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA.md",
+                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA.md",
+                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA.md"
+                "file": "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md"
               }
             }
           }
