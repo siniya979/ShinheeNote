@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA.md",
+                "file": "트러블슈팅/인텔리제이 오류.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA.md",
+                "file": "트러블슈팅/인텔리제이 오류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA.md",
+                "file": "트러블슈팅/인텔리제이 오류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA.md"
+                "file": "트러블슈팅/인텔리제이 오류.md"
               }
             }
           }
@@ -157,9 +157,13 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
+    "트러블슈팅/인텔리제이 오류.md",
+    "앞으로 공부할 것.md",
+    "트러블슈팅/트러블슈팅.md",
+    "트러블슈팅",
+    "Spring/JPA/김영한 강의 JPA.md",
     "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
     "JAVA/자바의신/자바의 신 2권 요약.md",
-    "Spring/JPA/김영한 강의 JPA.md",
     "JAVA/java/GC.md",
     "Spring/JPA/영속성 컨텍스트.md",
     "Spring/JPA/Entity Relations.md",
@@ -169,7 +173,6 @@
     "IT_World/IT_World.md",
     "IT_World",
     "SiniNote.md",
-    "앞으로 공부할 것.md",
     "ClonePJ/11월.md",
     "JAVA/자바의신/자바의신.md",
     "JAVA/자바의신",
@@ -186,12 +189,9 @@
     "ShinHee/잡동사니/New Note.md",
     "JAVA/java/자바의신/자바의신.md",
     "JAVA/java/자바의신",
-    "JAVA/java/Date vs LocalDateTime.md",
-    "Spring/Spring Security/JWT.md",
     "ShinHee/Diary",
     "ShinHee/잡동사니",
     "ClonePJ",
-    "Spring/JPA",
-    "JAVA/java"
+    "Spring/JPA"
   ]
 }

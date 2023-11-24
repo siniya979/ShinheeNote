@@ -49,10 +49,10 @@
     "//ShinHee/ShinHee/잡동사니",
     "//ShinHee",
     "//Algorithm/Algorithm/FC_Study",
-    "//JAVA",
-    "//Spring",
     "//Spring/Spring/JPA",
-    "//JAVA/JAVA/자바의신"
+    "//JAVA/JAVA/자바의신",
+    "//IT_World",
+    "//트러블슈팅"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -68,7 +68,8 @@
     "JAVA/자바의신",
     "Spring",
     "Spring/Spring Security",
-    "Spring/JPA"
+    "Spring/JPA",
+    "트러블슈팅"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -106,7 +107,8 @@
     "JAVA/java/자바의신",
     "Algorithm",
     "Algorithm/FC_Study",
-    "IT_World"
+    "IT_World",
+    "트러블슈팅"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
