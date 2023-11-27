@@ -51,6 +51,7 @@
     "//Algorithm/Algorithm/FC_Study",
     "//Spring/Spring/JPA",
     "//JAVA/JAVA/자바의신",
+    "//ClonePJ",
     "//Spring"
   ],
   "expandFolderOnClick": true,
@@ -60,11 +61,11 @@
     "/",
     "Algorithm",
     "Algorithm/FC_Study",
-    "ClonePJ",
     "IT_World",
+    "ClonePJ",
     "JAVA",
-    "JAVA/자바의신",
     "JAVA/java",
+    "JAVA/자바의신",
     "Spring",
     "Spring/JPA",
     "Spring/Spring Security",
@@ -108,9 +109,7 @@
     "Algorithm",
     "Algorithm/FC_Study",
     "IT_World",
-    "트러블슈팅",
-    "트러블슈팅/시니",
-    "트러블슈팅/시니"
+    "트러블슈팅"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
