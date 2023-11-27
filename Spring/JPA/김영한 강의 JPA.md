@@ -107,3 +107,5 @@ TABLE_PER_CLASS
 - 조회, 검색 안됨 
 - 직접 생성해서 사용할 일이 없으므로 추상 클래스 권장
 -
+# 프록시 
+em.getReference();
