@@ -100,4 +100,7 @@ TABLE_PER_CLASS
 
 - DTYPE은 운영상 어떤 전략이든 항상 존재하는 것이 좋다. 
 
-
+@MappedSuperClass
+- 상속관련 맵핑이랑 관련 없음 
+- 공통 매핑 정보가 필요할 때 사용 
+- 
