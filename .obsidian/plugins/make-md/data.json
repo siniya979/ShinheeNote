@@ -51,10 +51,7 @@
     "//Algorithm/Algorithm/FC_Study",
     "//Spring/Spring/JPA",
     "//JAVA/JAVA/자바의신",
-    "//ClonePJ",
-    "//Spring",
-    "//트러블슈팅",
-    "//트러블슈팅/트러블슈팅/시니"
+    "//Spring"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -66,8 +63,8 @@
     "ClonePJ",
     "IT_World",
     "JAVA",
-    "JAVA/java",
     "JAVA/자바의신",
+    "JAVA/java",
     "Spring",
     "Spring/JPA",
     "Spring/Spring Security",
