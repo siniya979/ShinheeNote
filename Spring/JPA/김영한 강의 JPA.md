@@ -75,9 +75,10 @@ members에는 값을 넣어도 등록이나 수정이 되지 않는다.
 
 # 상속 관계 
 
-JPA 기본 전략은 싱글테이블 s
+JPA 기본 전략은 싱글테이블 SINGLE_TABLE
 @Inheritance(strategy = InheritanceType.JOINED)
 위 속성 추가해주면 분활 테이블로 생성됨 (부모 테이블의 PK를 자식테이블이 PK로 가짐)
 
 @DiscriminatorColumn
 Dtype 컬럼이 부모테이블에 생기고 자식 테이블(엔티티)명이 저장된다.
+
