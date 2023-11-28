@@ -128,5 +128,12 @@ em.getReference(); 데이터베이스 조회를 미루는 가짜(프록시)
 but 실무에서 저렇게 복잡할 일 거의 없음 
 
 
-- 영속성 컨텍스트의 도움을 받을 수 없는 준영속 상태일때, 프록시를 초기화하면 문제 발생
--
+- 영속성 컨텍스트의 도움을 받을 수 없는 준영속 상태일때, 프록시를 초기화하면 문제 발생(하이버네이트는 org.hibernate.LazyInitioalizationException 예외를 터뜨린다. )
+
+getPersistenceUnitUtil.isLoaded(Object entity) 프록시 인스턴스 초기화 여부 확인
+entity.getClass().getName() 출력 : 프록시 클래스 확인 방법
+org.hibernate.Hiberante.initialize(entity) : 프록시 강제 초기화
+- JPA 표준은 강제 초기화 없음 
+
+
+# 즉시 로딩과 지연 로딩
