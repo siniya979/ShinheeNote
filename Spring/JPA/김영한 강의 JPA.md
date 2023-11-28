@@ -137,3 +137,9 @@ org.hibernate.Hiberante.initialize(entity) : 프록시 강제 초기화
 
 
 # 즉시 로딩과 지연 로딩
+
+fetch = FetchType.LAZY  
+- 실제 조회 메서드 전에는 프록시 객체로 가져옴 
+![](https://i.imgur.com/nFZCI42.png)
+실제 team을 사용하는 시점에 초기화
+
