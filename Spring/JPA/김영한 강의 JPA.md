@@ -166,7 +166,21 @@ select m from member m; 을 조회하는데
 
 # 영속성전이(CASCADE)와 고아 객체 
 - 특정 엔티티를 영속 상태로 만들 때 연관된 엔티티도 함께 영속 상태로 만들고 싶은 경우 
-- 연관관게랑 관련 없음 
+- 영속성 전이는 연관 관계를 매핑하는 것과 아무 관련이 없음
+- 엔티티를 영속화 할 때 연관된 엔티티도 함께 영속화하는 편리함을 제공할 뿐 
 - 예: 부모 엔티티를 저장할 때 자식 엔티티도 함께 저장 
 
-cascade = CascadeType.ALL
+cascade = CascadeType.ALL : 모두 적용 
+cascade = CascadeType.PERSIST : 영속 
+cascade = CascadeType.REMOVE : 삭제
+- all, persist 두 개 정도만 사용 
+
+언제 사용하는가?? 
+- 부모가 정말 하나의 부모와 자식을 관리할 때 의미 있음
+- ex) 게시판 - 첨부파일 ( 그 첨부파일을 다른 곳에서 관리하면 쓰면 안됨 )
+- 소유자가 하나일 때!! 
+
+고아 객체
+- 부모 엔티티와 연관관계가 끊어진 자식 엔티티를 자동으로 삭제 
+- orphanRemoval = true
+- 
