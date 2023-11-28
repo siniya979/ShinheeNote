@@ -162,4 +162,5 @@ select m from member m; 을 조회하는데
 
 해결법
 - 모든 연관관계 지연로딩으로 깐다 .
-- 1. fetchJoin 한다.  sl
+- 1. fetchJoin 한다.  "select m from Member m join fetch m.team"
+- 
