@@ -138,8 +138,16 @@ org.hibernate.Hiberante.initialize(entity) : 프록시 강제 초기화
 
 # 즉시 로딩과 지연 로딩
 
-fetch = FetchType.LAZY  
+fetch = FetchType.LAZY   ( 지연로딩 )
 - 실제 조회 메서드 전에는 프록시 객체로 가져옴 
 ![](https://i.imgur.com/nFZCI42.png)
 실제 team을 사용하는 시점에 초기화
 
+fetch = FetchType.EAGER ( 즉시로딩 )
+
+주의 
+- 가급적 지연 로딩만 사용(특히 실무에서)
+- 즉시 로딩 적용하면 예상하지 못한 SQL이 발생
+- 즉시 로딩은 JPQL에서 N+1 문제를 일으킨다.
+- @ManyToOne, @OneToOne은 기본이 즉시 로딩 -> LAZY로 설정 
+- @OneToMany, @Mant
