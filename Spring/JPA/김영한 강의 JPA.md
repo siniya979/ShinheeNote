@@ -123,3 +123,8 @@ em.getReference(); 데이터베이스 조회를 미루는 가짜(프록시)
 ![](https://i.imgur.com/LPOP7Tr.png)
 따라서 위 코드의 결과도 true , 프록시가 아닌 멤버 객체 보장 
 
+- 프록시로 조회가 되면 em.find 도 프록시로 조회가 됨 
+
+but 실무에서 저렇게 복잡할 일 거의 없음 
+
+
