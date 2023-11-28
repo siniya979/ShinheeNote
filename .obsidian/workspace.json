@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
+                "file": "Jeju.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
+                "file": "Jeju.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
+                "file": "Jeju.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md"
+                "file": "Jeju.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
-    "JAVA/java/GC.md",
     "Spring/JPA/김영한 강의 JPA - 기본편.md",
+    "Jeju.md",
+    "JAVA/java/GC.md",
     "트러블슈팅/인텔리제이 오류.md",
     "트러블슈팅/시니/인텔리제이 오류.md",
     "트러블슈팅/시니/시니.md",
@@ -186,7 +187,6 @@
     "Algorithm/FC_Study/자료구조.md",
     "README.md",
     "ShinHee/Diary/New Note.md",
-    "Algorithm/FC_Study/FC_Study.md",
     "Algorithm/FC_Study",
     "Algorithm",
     "JAVA/java/자바의신",
