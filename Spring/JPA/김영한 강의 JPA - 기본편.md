@@ -247,3 +247,8 @@ cascade = CascadeType.REMOVE : 삭제
 - @AttributeOverrides, @AttributeOverride를 사용해서 컬럼명 속성 재정의 할 수 있음 
 
 ## 값타입과 불변 객체 
+
+**값타인 공유 참조** 
+임베디드 타입 같은 값 타입을 여러 엔티티에서 공유하면 위험함 
+부작용(side effect) 발생 
+
