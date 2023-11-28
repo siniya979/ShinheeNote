@@ -251,4 +251,10 @@ cascade = CascadeType.REMOVE : 삭제
 **값타인 공유 참조** 
 임베디드 타입 같은 값 타입을 여러 엔티티에서 공유하면 위험함 
 부작용(side effect) 발생 
+![](https://i.imgur.com/80puI7O.png)
+위 코드의 경우 멤버 두개 모두 값이 바뀐다. 
 
+**값 타입 복사**
+- 값 타입의 실제 인스턴스인 값을 공유하는 것은 위험
+- 대신 값(인스턴스)를 복사해서 사용 
+  ![Uploading file...qcvrh]()
