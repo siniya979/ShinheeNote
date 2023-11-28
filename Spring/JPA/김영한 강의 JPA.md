@@ -151,3 +151,15 @@ fetch = FetchType.EAGER ( 즉시로딩 )
 - 즉시 로딩은 JPQL에서 N+1 문제를 일으킨다.
 - @ManyToOne, @OneToOne은 기본이 즉시 로딩 -> LAZY로 설정 
 - @OneToMany, @ManyToMany는 기본이 지연로딩
+
+N+1 
+최초 쿼리가 1 
+
+select m from member m; 을 조회하는데 
+속해 있는 멤버들이 속한 팀이 5개면 
+멤버 조회 쿼리 1번, 각 팀 아이디로 팀 정보 조회하는 쿼리가 각 5개 발생한다. 
+따라서 최조 쿼리 1 + 연관관계 정보 조회 쿼리 N개 = N+1 문제
+
+해결법
+- 모든 연관관계 지연로딩으로 깐다 .
+- 1. fetchJoin 한다.  sl
