@@ -190,3 +190,9 @@ cascade = CascadeType.REMOVE : 삭제
 - **참조하는 곳이 하나일 때 사용해야함
 - **특정 엔티티가 개인 소유할 때 사용** 
 - @OneToOne @OneToMany 만 가능
+
+영속성전이+고아객체 
+- 스스로 생명주기를 관리하는 엔티티는 em.persist()로 영속화, em.remove()로 제거 
+- 두 옵션을 모두 활성화하면 부모 엔티티를 통해서 자식의 생명주기를 관리할 수 있다.
+- 도메인 주도 설계(DDD)의 Aggregate Root 개념을 구현할 때 유용 
+
