@@ -183,4 +183,6 @@ cascade = CascadeType.REMOVE : 삭제
 고아 객체
 - 부모 엔티티와 연관관계가 끊어진 자식 엔티티를 자동으로 삭제 
 - orphanRemoval = true
-- 
+- ![](https://i.imgur.com/ngNykcl.png)
+
+
