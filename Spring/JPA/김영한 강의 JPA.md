@@ -165,4 +165,7 @@ select m from member m; 을 조회하는데
 - 1. fetchJoin 한다.  "select m from Member m join fetch m.team"
 
 # 영속성전이(CASCADE)와 고아 객체 
-- 특정 엔티티를 영속 상탤
+- 특정 엔티티를 영속 상태로 만들 때 연관된 엔티티도 함께 영속 상태로 만들고 싶은 경우 
+- 연관관게랑 관련 없음 
+- 예: 부모 엔티티를 저장할 때 자식 엔티티도 함께 저장 
+
