@@ -169,3 +169,4 @@ select m from member m; 을 조회하는데
 - 연관관게랑 관련 없음 
 - 예: 부모 엔티티를 저장할 때 자식 엔티티도 함께 저장 
 
+cascade = CascadeType.ALL
