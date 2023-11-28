@@ -61,7 +61,17 @@
     "spaces://$waypoints",
     "/",
     "Algorithm",
-    "Algorithm/FC_Study"
+    "Algorithm/FC_Study",
+    "ClonePJ",
+    "IT_World",
+    "JAVA",
+    "JAVA/java",
+    "JAVA/자바의신",
+    "Spring",
+    "Spring/JPA",
+    "Spring/Spring Security",
+    "트러블슈팅",
+    "트러블슈팅/시니"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
