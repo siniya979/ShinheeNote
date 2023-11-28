@@ -108,4 +108,4 @@ TABLE_PER_CLASS
 - 직접 생성해서 사용할 일이 없으므로 추상 클래스 권장
 -
 # 프록시 
-em.getReference();
+em.getReference(); 데이터베이스 조회를 미루는 가짜(프록시)
