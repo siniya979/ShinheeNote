@@ -299,5 +299,8 @@ cascade = CascadeType.REMOVE : 삭제
 새로 갈아껴야 함. 수정시 setter 안됨 새로 객체 생성해서 넣어줘야함 
 FavoritFood 의 경우 업데이트가 아니라 통째로 갈아 끼워야함
 
+![](https://i.imgur.com/B559mKl.png)
+삭제 쿼리 1번, 인서트 쿼리가 2번 
+
 
 
