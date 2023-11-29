@@ -338,4 +338,10 @@ FavoritFood 의 경우 업데이트가 아니라 통째로 갈아 끼워야함
 
 # 객체지향 쿼리 언어1 - 기본 문법
 
-벌크 연산 
+query.getResultList()
+query.getSingleResult() - 결과 없어도 Exception, 둘 이상이어도 Exception
+-> 논란이 많음 결과가 없어도 Exception이 터져서 
+
+(SpringBoot JPA 는 다름, 옵셔널 제공, 지금은 순수 Jpa )
+
+
