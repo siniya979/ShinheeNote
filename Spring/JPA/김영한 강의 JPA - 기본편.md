@@ -342,7 +342,7 @@ query.getResultList()
 query.getSingleResult() - 결과 없어도 Exception, 둘 이상이어도 Exception
 -> 논란이 많음 결과가 없어도 Exception이 터져서 
 
-(SpringBoot JPA 는 다름, 옵셔널 제공, 지금은 순수 Jpa )
+(Spring Data JPA 는 다름, 옵셔널 제공, 지금은 순수 Jpa )
 
 # 페이징 
 - setFirstResult(int startPositon) : 조회 시작 위치(0부터 시작)
