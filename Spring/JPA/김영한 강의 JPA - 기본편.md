@@ -287,4 +287,5 @@ cascade = CascadeType.REMOVE : 삭제
 
 # 값 타입 컬렉션
 - 값 타입을 하나 이상 저장할 때 사용
-- 
+- ElementCollection, @CollectionTable 사용
+- 데이터베이스ㅜ 
