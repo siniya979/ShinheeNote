@@ -294,7 +294,10 @@ cascade = CascadeType.REMOVE : 삭제
 값 타입 컬렉션 사용
 - 컬렉션은 지연 로딩 
 - 값 타입 컬렉션은 영속성 전이 + 고아객체 저게 기능을 필수로 가진다. 
-![](https://i.imgur.com/UacVICY.png)
+![](https://i.imgur.com/8T8L8tz.png)
+
 새로 갈아껴야 함. 수정시 setter 안됨 새로 객체 생성해서 넣어줘야함 
+FavoritFood 의 경우 업데이트가 아니라 통째로 갈아 끼워야함
+
 
 
