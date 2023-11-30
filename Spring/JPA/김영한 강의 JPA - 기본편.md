@@ -369,3 +369,7 @@ SELECT T.MEMBER FROM TEAM T JOIN T.MEMBERS M        -- 명시적 조인
 SELECT T.MEMBERS FROM TEAM T;                       -- 묵시적 조인
 ```
 
+- 영한님은 묵시적 조인 안 쓴다고 함 - 항상 명시적 조인 사용하기 
+
+## FetchJoin ( 매우 중요 )
+-
