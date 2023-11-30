@@ -344,6 +344,20 @@ query.getSingleResult() - 결과 없어도 Exception, 둘 이상이어도 Except
 
 (Spring Data JPA 는 다름, 옵셔널 제공, 지금은 순수 Jpa )
 
-# 페이징 
+## 페이징 
 - setFirstResult(int startPositon) : 조회 시작 위치(0부터 시작)
 - setMaxResults(int maxResult) :  조회할 데이터 수  
+
+
+
+## 경로 표현식  용어 정리
+- 상태 필드 : 단순히 값을 저장하기 위한 필드
+- 연관 필드 : 연관 관계를 위한 필드
+  - 단일 값 연관 필드 ( @ManyToOne, @OneToOne, 대상이 엔티티 )
+  - 컬렉션 값 연관 필드 ( @OneToMany, @ManyToMany, 대상이 컬렉션 )
+
+경로 표현식 특징 
+- 상태필드 : 경로 탐색의 끝, 탐색x
+- 단일 값 연관 경로 : **묵시적 내부 조인**(inner join) 발생, 탐색O
+- 컬렉션 값 연관 경로 : 묵시적 내부 조인 발생, 탐색 X 
+  - From 절에서 명시적 조인을 통해 별칭을 얻으면 별칭을 통해 탐색 가능 
