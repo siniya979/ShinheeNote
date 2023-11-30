@@ -361,3 +361,4 @@ query.getSingleResult() - 결과 없어도 Exception, 둘 이상이어도 Except
 - 단일 값 연관 경로 : **묵시적 내부 조인**(inner join) 발생, 탐색O
 - 컬렉션 값 연관 경로 : 묵시적 내부 조인 발생, 탐색 X 
   - From 절에서 명시적 조인을 통해 별칭을 얻으면 별칭을 통해 탐색 가능 
+
