@@ -364,3 +364,8 @@ query.getSingleResult() - 결과 없어도 Exception, 둘 이상이어도 Except
 
 < **명시적 조인을 사용해야함. 실무에서 묵시적 조인은 문제가 많을 수 있음** > 
 
+```SQL
+SELECT T.MEMBER FROM TEAM T JOIN T.MEMBERS M        -- 명시적 조인
+SELECT T.MEMBERS FROM TEAM T;                       -- 묵시적 조인
+```
+
