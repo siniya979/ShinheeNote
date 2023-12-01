@@ -385,6 +385,12 @@ SELECT T.MEMBERS FROM TEAM T;                       -- 묵시적 조인
 컬렉션 Fetch 조인 
 - 일대다 관계, 컬렉션 Fetch 조인 
 ```SQL
+[JPQL]
 SELECT t FROM Team t JOIN FETCH t.members WHERE t.name = '팀A'     
+[SQL]
 SELECT T.*, M.* FROM TEAM T INNER JOIN MEMBER M ON T.ID = M.TEAM_ID
+WHERE T.NAME ='팀A';
 ```
+
+- 문제점: 일대다 관계는 조인하면 데이터가 뻥튀기 될 수 있음 
+  ![](https://i.imgur.com/AzqVr8Q.png)
