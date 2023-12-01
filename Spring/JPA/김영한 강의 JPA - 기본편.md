@@ -431,3 +431,4 @@ fetch 조인의 특징과 한계
 	- 하이버네이트는 경고 로그를 남기고 메모리에서 페이징(**매우 위험**)
 
 hibernate.default_bath_fetch_size value = 100 
+
