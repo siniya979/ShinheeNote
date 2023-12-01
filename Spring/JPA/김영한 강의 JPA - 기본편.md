@@ -395,4 +395,16 @@ WHERE T.NAME ='팀A';
 - 문제점: 일대다 관계는 조인하면 데이터가 뻥튀기 될 수 있음 
   ![](https://i.imgur.com/AzqVr8Q.png)
 페치 조인과 DISTINCT
-- SQL의 SID
+- SQL의 DISTINCT 는 중복된 결과를 제거하는 명령
+- JPQL의 DISTICNT 2가지 기능 제공
+  1. SQL에 DISTICNT 추가 
+  2. 애플리케이션에서 엔티티 중복 제거 
+
+```sql 
+SELECT DISTINCT t FROM Team t JOIN FETCH t.members WHERE t.name = '팀A'     
+```
+- SQL에 DISTINCT 를 추가해도 데이터가 다르므로 SQL 결과에서 중복 제거 실패 
+  ![](https://i.imgur.com/CDSb8TN.png)
+- DISTINCT 가 추가로 애플리케이션에서 중복 제거 시도 
+- 같은 식별자를 가진 Team 엔티티 제거 
+- 
