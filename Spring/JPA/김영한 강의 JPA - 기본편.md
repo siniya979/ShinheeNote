@@ -408,4 +408,18 @@ SELECT DISTINCT t FROM Team t JOIN FETCH t.members WHERE t.name = '팀A'
 - DISTINCT 가 추가로 애플리케이션에서 중복 제거 시도 
 - 같은 식별자를 가진 Team 엔티티 제거 
 
+fetch 조인과 일반 조인의 차이
+- 일반 조인 실행시 연관 엔티티를 함께 조인하지 않음 
+
+```SQL
+[JPQL]
+SELECT t FROM Team t JOIN t.members WHERE t.name = '팀A'     
+[SQL]
+SELECT T.* FROM TEAM T INNER JOIN MEMBER M ON T.ID = M.TEAM_ID
+WHERE T.NAME ='팀A';
+```
+- 멤버를 가져오지 않음 
+- 페치 조인을 사용할 때만 연관된 엔티티도 함께 조회(즉시 로딩)
+- 페지 조인은 객체 그래프를 SQl 한 번에 조회하는 개념
+
 
