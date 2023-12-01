@@ -380,4 +380,11 @@ SELECT T.MEMBERS FROM TEAM T;                       -- 묵시적 조인
 엔티티 페치 조인 
 - 회원을 조회하면서 연관된 팀도 함께 조회
 - SQL을 보면 회원 뿐만 아니라 팀(T.*)도 함게 SELECT
-- 
+
+
+컬렉션 Fetch 조인 
+- 일대다 관계, 컬렉션 Fetch 조인 
+```SQL
+SELECT t FROM Team t JOIN FETCH t.members WHERE t.name = '팀A'     
+SELECT T.*, M.* FROM TEAM T INNER JOIN MEMBER M ON T.ID = M.TEAM_ID
+```
