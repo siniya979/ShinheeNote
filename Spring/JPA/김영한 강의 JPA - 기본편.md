@@ -407,4 +407,5 @@ SELECT DISTINCT t FROM Team t JOIN FETCH t.members WHERE t.name = '팀A'
   ![](https://i.imgur.com/CDSb8TN.png)
 - DISTINCT 가 추가로 애플리케이션에서 중복 제거 시도 
 - 같은 식별자를 가진 Team 엔티티 제거 
-- 
+
+
