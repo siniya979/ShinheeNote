@@ -379,4 +379,4 @@ SELECT T.MEMBERS FROM TEAM T;                       -- 묵시적 조인
 
 엔티티 페치 조인 
 - 회원을 조회하면서 연관된 팀도 함께 조회
-- 
+- SQL을 보면 회원 뿐만 아니라 팀도 함게 SELE
