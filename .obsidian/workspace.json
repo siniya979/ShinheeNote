@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ClonePJ/11월.md",
+                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ClonePJ/11월.md",
+                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ClonePJ/11월.md",
+                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ClonePJ/11월.md"
+                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
+    "ClonePJ/11월.md",
     "Spring/JPA/김영한 강의 JPA - 기본편.md",
     "Jeju.md",
     "Spring/JPA/영속성 컨텍스트.md",
@@ -168,7 +169,6 @@
     "트러블슈팅/시니",
     "Spring/JPA/Entity Listener.md",
     "Spring/JPA/Entity Relations.md",
-    "ClonePJ/11월.md",
     "앞으로 공부할 것.md",
     "트러블슈팅/트러블슈팅.md",
     "트러블슈팅",
