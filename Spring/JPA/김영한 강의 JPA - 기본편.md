@@ -394,3 +394,5 @@ WHERE T.NAME ='팀A';
 
 - 문제점: 일대다 관계는 조인하면 데이터가 뻥튀기 될 수 있음 
   ![](https://i.imgur.com/AzqVr8Q.png)
+페치 조인과 DISTINCT
+- SQL의 SID
