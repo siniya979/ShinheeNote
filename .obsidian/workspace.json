@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jeju.md",
+                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jeju.md",
+                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jeju.md",
+                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jeju.md"
+                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md"
               }
             }
           }
@@ -157,9 +157,9 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
+    "Jeju.md",
     "Spring/JPA/김영한 강의 JPA - 기본편.md",
     "ClonePJ/11월.md",
-    "Jeju.md",
     "Spring/JPA/영속성 컨텍스트.md",
     "JAVA/java/GC.md",
     "트러블슈팅/인텔리제이 오류.md",
