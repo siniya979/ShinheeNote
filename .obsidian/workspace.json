@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
+                "file": "Jeju.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
+                "file": "Jeju.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
+                "file": "Jeju.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md"
+                "file": "Jeju.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
-    "ClonePJ/11월.md",
     "Spring/JPA/김영한 강의 JPA - 기본편.md",
+    "ClonePJ/11월.md",
     "Jeju.md",
     "Spring/JPA/영속성 컨텍스트.md",
     "JAVA/java/GC.md",
