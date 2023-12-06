@@ -50,7 +50,10 @@
     "//ShinHee",
     "//Algorithm/Algorithm/FC_Study",
     "//Spring/Spring/JPA",
-    "//JAVA/JAVA/자바의신"
+    "//JAVA/JAVA/자바의신",
+    "//ClonePJ",
+    "//Spring",
+    "//JAVA"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -108,9 +111,7 @@
     "Algorithm",
     "Algorithm/FC_Study",
     "IT_World",
-    "트러블슈팅",
-    "토익스피킹",
-    "토익스피킹"
+    "트러블슈팅"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
