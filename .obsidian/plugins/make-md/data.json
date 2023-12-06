@@ -50,7 +50,10 @@
     "//ShinHee",
     "//Algorithm/Algorithm/FC_Study",
     "//Spring/Spring/JPA",
-    "//JAVA/JAVA/자바의신"
+    "//JAVA/JAVA/자바의신",
+    "//객체 지향의 사실과 오해",
+    "//도서",
+    "//도서"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -70,8 +73,8 @@
     "트러블슈팅",
     "트러블슈팅/시니",
     "토익스피킹",
-    "객체 지향의 사실과 오해",
-    "spaces://#01장"
+    "spaces://#01장",
+    "도서"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
