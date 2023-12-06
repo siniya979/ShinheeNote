@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
+                "file": "객체 지향의 사실과 오해/New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
+                "file": "객체 지향의 사실과 오해/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
+                "file": "객체 지향의 사실과 오해/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md"
+                "file": "객체 지향의 사실과 오해/New Note.md"
               }
             }
           }
@@ -157,10 +157,13 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
+    "객체 지향의 사실과 오해/New Note.md",
+    "객체 지향의 사실과 오해/객체 지향의 사실과 오해.md",
+    "객체 지향의 사실과 오해",
+    "Spring/JPA/김영한 강의 JPA - 기본편.md",
     "토익스피킹/토익스피킹.md",
     "토익스피킹",
     "Jeju.md",
-    "Spring/JPA/김영한 강의 JPA - 기본편.md",
     "ClonePJ/11월.md",
     "Spring/JPA/영속성 컨텍스트.md",
     "JAVA/java/GC.md",
@@ -186,12 +189,9 @@
     "JAVA/java/디자인 패턴.md",
     "JAVA/java/자바의신/자바의 신 1권 중요 체크 포인트.md",
     "JAVA/java/자바의신/6장 조건문.md",
-    "Algorithm/FC_Study/자료구조.md",
-    "README.md",
     "Algorithm/FC_Study",
     "Algorithm",
     "JAVA/java/자바의신",
-    "ShinHee/Diary",
-    "ShinHee/잡동사니"
+    "ShinHee/Diary"
   ]
 }
