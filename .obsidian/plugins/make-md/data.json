@@ -70,11 +70,10 @@
     "Spring",
     "Spring/JPA",
     "Spring/Spring Security",
+    "도서",
     "트러블슈팅",
     "트러블슈팅/시니",
-    "토익스피킹",
-    "spaces://#01장",
-    "도서"
+    "토익스피킹"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
