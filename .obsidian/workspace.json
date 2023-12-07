@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/객체 지향의 사실과 오해.md",
+                "file": "Spring/JPA/New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/객체 지향의 사실과 오해.md",
+                "file": "Spring/JPA/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/객체 지향의 사실과 오해.md",
+                "file": "Spring/JPA/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/객체 지향의 사실과 오해.md"
+                "file": "Spring/JPA/New Note.md"
               }
             }
           }
@@ -157,10 +157,11 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
+    "Spring/JPA/김영한 강의 JPA - 기본편.md",
+    "Spring/JPA/New Note.md",
     "도서/객체 지향의 사실과 오해.md",
     "도서/도서.md",
     "도서",
-    "Spring/JPA/김영한 강의 JPA - 기본편.md",
     "토익스피킹/토익스피킹.md",
     "토익스피킹",
     "Jeju.md",
@@ -188,7 +189,6 @@
     "JAVA/자바의신",
     "JAVA/java/디자인 패턴.md",
     "JAVA/java/자바의신/자바의 신 1권 중요 체크 포인트.md",
-    "JAVA/java/자바의신/6장 조건문.md",
     "Algorithm/FC_Study",
     "Algorithm",
     "JAVA/java/자바의신",
