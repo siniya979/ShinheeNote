@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/JPA/New Note.md",
+                "file": "도서/객체 지향의 사실과 오해.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/JPA/New Note.md",
+                "file": "도서/객체 지향의 사실과 오해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/JPA/New Note.md",
+                "file": "도서/객체 지향의 사실과 오해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/JPA/New Note.md"
+                "file": "도서/객체 지향의 사실과 오해.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
-    "Spring/JPA/김영한 강의 JPA - 기본편.md",
     "Spring/JPA/New Note.md",
+    "Spring/JPA/김영한 강의 JPA - 기본편.md",
     "도서/객체 지향의 사실과 오해.md",
     "도서/도서.md",
     "도서",
