@@ -6,3 +6,5 @@ MEMBER 가 ORDER 를 컬렉션으로 가지고 있어야 한다는 생각은 사
 MEMBER 랑 ORDER 는 동급으로, 주문을 할때 회원 정보가 필요하다로 생각해야한다.
 ORDER에서 조건 필터링에서 멤버로 필터링 하면 될 뿐이다. 
 
+![](https://i.imgur.com/ipeAqwV.png)
+
