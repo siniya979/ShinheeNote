@@ -12,3 +12,4 @@ ORDER에서 조건 필터링에서 멤버로 필터링 하면 될 뿐이다.
 
 ![](https://i.imgur.com/AVztked.png)
 ![](https://i.imgur.com/KAVs8tR.png)
+
