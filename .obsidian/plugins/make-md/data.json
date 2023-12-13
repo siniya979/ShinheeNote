@@ -72,12 +72,12 @@
     "JAVA/java",
     "JAVA/자바의신",
     "Spring",
-    "Spring/Spring Security",
     "Spring/JPA",
+    "Spring/Spring Security",
     "도서",
+    "토익스피킹",
     "트러블슈팅",
-    "트러블슈팅/시니",
-    "토익스피킹"
+    "트러블슈팅/시니"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
