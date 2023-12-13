@@ -55,7 +55,9 @@
     "//도서",
     "//도서",
     "//도서",
-    "//토익스피킹"
+    "//토익스피킹",
+    "//CICD",
+    "//TIL"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -76,7 +78,9 @@
     "토익스피킹",
     "트러블슈팅",
     "트러블슈팅/시니",
-    "CICD"
+    "CICD",
+    "TIL",
+    "TIL/2023_12"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -118,7 +122,9 @@
     "트러블슈팅",
     "객체 지향의 사실과 오해",
     "Blog",
-    "CICD"
+    "CICD",
+    "TIL",
+    "TIL/2023_12"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
