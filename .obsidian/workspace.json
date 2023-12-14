@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023_12/20231213 배포 자동화하기.md",
+                "file": "TIL/2023_12/2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023_12/20231213 배포 자동화하기.md",
+                "file": "TIL/2023_12/2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023_12/20231213 배포 자동화하기.md",
+                "file": "TIL/2023_12/2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023_12/20231213 배포 자동화하기.md"
+                "file": "TIL/2023_12/2023.md"
               }
             }
           }
@@ -157,11 +157,12 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
+    "TIL/2023_12/2023.md",
+    "TIL/2023_12/20231213 배포 자동화하기.md",
     "도서/도서.md",
     "도서/객체 지향의 사실과 오해.md",
     "도서",
     "TIL/2023_12/2023_12.md",
-    "TIL/2023_12/20231213 배포 자동화하기.md",
     "TIL/TIL.md",
     "TIL/2023_12",
     "TIL",
@@ -190,7 +191,6 @@
     "JAVA/자바의신/자바의 신 2권 요약.md",
     "IT_World/나중에 참고.md",
     "IT_World/it 용어.md",
-    "IT_World/IT_World.md",
     "IT_World",
     "JAVA/자바의신",
     "Algorithm/FC_Study"

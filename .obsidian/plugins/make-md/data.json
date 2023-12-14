@@ -51,7 +51,9 @@
     "//Algorithm/Algorithm/FC_Study",
     "//Spring/Spring/JPA",
     "//JAVA/JAVA/자바의신",
-    "//CICD"
+    "//CICD",
+    "//TIL",
+    "//TIL/TIL/2023_12"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -65,7 +67,15 @@
     "IT_World",
     "JAVA",
     "JAVA/java",
-    "JAVA/자바의신"
+    "JAVA/자바의신",
+    "Spring",
+    "Spring/JPA",
+    "Spring/Spring Security",
+    "TIL",
+    "TIL/2023_12",
+    "도서",
+    "트러블슈팅",
+    "트러블슈팅/시니"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -81,7 +91,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
