@@ -11,9 +11,11 @@
             "id": "7e407870d729badb",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "도서"
+                "file": "Spring/인프런)Spring/스프링 입문.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring/인프런)Spring/스프링 입문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring/인프런)Spring/스프링 입문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring/인프런)Spring/스프링 입문.md"
+              }
             }
           }
         ]
@@ -151,6 +157,11 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
+    "Spring/인프런)Spring/스프링 입문.md",
+    "Spring.canvas",
+    "Spring/인프런)Spring/인프런)Spring.md",
+    "Spring/인프런)Spring",
+    "Spring/인프런_스프링.md",
     "TIL/2023_12/20231213 배포 자동화하기.md",
     "TIL/2023_12/2023.md",
     "도서/도서.md",
@@ -182,11 +193,7 @@
     "트러블슈팅/트러블슈팅.md",
     "트러블슈팅",
     "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
-    "JAVA/자바의신/자바의 신 2권 요약.md",
-    "IT_World/나중에 참고.md",
-    "IT_World/it 용어.md",
     "IT_World",
-    "JAVA/자바의신",
-    "Algorithm/FC_Study"
+    "JAVA/자바의신"
   ]
 }

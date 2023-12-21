@@ -49,7 +49,6 @@
     "//ShinHee/ShinHee/잡동사니",
     "//ShinHee",
     "//Algorithm/Algorithm/FC_Study",
-    "//Spring/Spring/JPA",
     "//JAVA/JAVA/자바의신",
     "//CICD",
     "//TIL",
@@ -59,7 +58,9 @@
     "//TIL/TIL/2023_12",
     "//TIL",
     "//CICD",
-    "//도서"
+    "//도서",
+    "//Spring",
+    "//Spring/Spring/인프런)Spring"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -79,7 +80,8 @@
     "Spring/Spring Security",
     "도서",
     "트러블슈팅",
-    "트러블슈팅/시니"
+    "트러블슈팅/시니",
+    "Spring/인프런)Spring"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -120,7 +122,8 @@
     "IT_World",
     "트러블슈팅",
     "토익스피킹",
-    "토익스피킹"
+    "토익스피킹",
+    "Spring/인프런)Spring"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
