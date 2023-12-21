@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT_World/나중에 참고.md",
+                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT_World/나중에 참고.md",
+                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT_World/나중에 참고.md",
+                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT_World/나중에 참고.md"
+                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md"
               }
             }
           }
@@ -157,6 +157,10 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
+    "Spring/JPA/New Note.md",
+    "Spring/JPA/김영한 강의 JPA - 기본편.md",
+    "Spring/JPA/영속성 컨텍스트.md",
+    "IT_World/나중에 참고.md",
     "Spring/인프런)Spring/스프링 입문.md",
     "Spring.canvas",
     "Spring/인프런)Spring/인프런)Spring.md",
@@ -171,16 +175,13 @@
     "TIL/TIL.md",
     "TIL/2023_12",
     "TIL",
-    "Spring/JPA/New Note.md",
     "CICD/CICD.md",
     "CICD",
     "토익스피킹/토익스피킹.md",
     "토익스피킹",
     "Canvas.canvas",
-    "Spring/JPA/김영한 강의 JPA - 기본편.md",
     "Jeju.md",
     "ClonePJ/11월.md",
-    "Spring/JPA/영속성 컨텍스트.md",
     "JAVA/java/GC.md",
     "트러블슈팅/인텔리제이 오류.md",
     "트러블슈팅/시니/인텔리제이 오류.md",
@@ -192,7 +193,6 @@
     "앞으로 공부할 것.md",
     "트러블슈팅/트러블슈팅.md",
     "트러블슈팅",
-    "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
     "IT_World",
     "JAVA/자바의신"
   ]
