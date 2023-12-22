@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
+                "file": "Spring/인프런)Spring/스프링 입문.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
+                "file": "Spring/인프런)Spring/스프링 입문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md",
+                "file": "Spring/인프런)Spring/스프링 입문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/JPA/김영한 강의 JPA - 기본편.md"
+                "file": "Spring/인프런)Spring/스프링 입문.md"
               }
             }
           }
@@ -157,9 +157,9 @@
   },
   "active": "7e407870d729badb",
   "lastOpenFiles": [
+    "Spring/JPA/영속성 컨텍스트.md",
     "Spring/JPA/New Note.md",
     "Spring/JPA/김영한 강의 JPA - 기본편.md",
-    "Spring/JPA/영속성 컨텍스트.md",
     "IT_World/나중에 참고.md",
     "Spring/인프런)Spring/스프링 입문.md",
     "Spring.canvas",
