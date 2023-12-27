@@ -10,9 +10,21 @@
 ![](https://i.imgur.com/zzKEqBY.png)
 
 
-S : Single Responsibility principle 단일 책임 원칙 
+**S : Single Responsibility principle 단일 책임 원칙**
 테스트는 명료하고 간단하게 작성해야하기 때문에, 단일 책임 원칙을 지키게 된다. 
 테스트가 너무 많아져서 이게 무슨 목적의 클래스이니 눈에 안들어오는 지점이 생긴다.
 이 때가 클래스를 분할해야 하는 시점, 그러면서 책임이 자연스럽게 분배 된다. 
 
-O : Open/Closed principle ㄱ
+**O : Open/Closed principle 개방 폐쇄 원칙** 
+테스트 컴포넌트와 프로덕션 컴포넌트를 나눠 작업하게 되고 필요에 따라 이 컴포넌트를 자유자재로 탈부착이 가능하도록 개발하게 된다. 
+
+**L : Liskov Subsitution principle 리스코프 치환 원칙** 
+즉 슈퍼 클래스의 계약을 서브 클래스가 제대로 치환하고 있는지 확인하라! 
+이상적으로 테스트는 모든 케이스에 대해 커버하고 있으므로, 서브 클래스에 대한 치환 여부를 테스트가 알아서 판단해준다. 
+
+**I : Interface segregation principle 인터페이스 분리 원칙** 
+테스트는 그 자체로 인터페이스를 직접 사용해볼 수 있는 환경. 불필요한 의존성을 실제로 확인할 수 있는 샌드박스 
+ 
+**D : Dependency Inversion principle 의존성 역전 원칙** 
+가짜 객체를 이용하여 테스트를 작성하려면, 의존성이 역전되어 있어야 하는 경우가 생김 
+
