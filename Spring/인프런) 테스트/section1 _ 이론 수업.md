@@ -138,3 +138,13 @@ A는 B를 사용하기만 해도 A는 B에 의존한다 할 수 있다.
 폭탄 돌리기가 될 수 있음 
 
 2. 의존성 주입 + 의존성 역전으로 해결 
+
+**테스트 가능성(testability)**
+
+> 얼마나 쉽게 input을 변경하고, output을 검증할 수 있는가? 
+![](https://i.imgur.com/P6uHWJT.png)
+
+![](https://i.imgur.com/ArfEuGB.png)
+
+호출자가 input 때문에 메서드의 내부 알고리즘을 확인함 -> 캡슐화 깨짐 
+
