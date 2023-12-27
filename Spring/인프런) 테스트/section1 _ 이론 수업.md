@@ -132,3 +132,9 @@ A는 B를 사용하기만 해도 A는 B에 의존한다 할 수 있다.
 
 ![](https://i.imgur.com/s2FOeTq.png)
 ![](https://i.imgur.com/5qRLbRX.png)
+
+1. 의존성 주입으로 해결 
+![](https://i.imgur.com/XhwM36U.png)
+폭탄 돌리기가 될 수 있음 
+
+2. 의존성 주입 + 의존성 역전으로 해결 
