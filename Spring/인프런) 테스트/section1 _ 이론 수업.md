@@ -60,3 +60,12 @@
 
 
 ## 테스트에 필요한 개념 
+
+1. 개념 
+**SUT ( System under test )** : 테스트 하려는 대상 
+![](https://i.imgur.com/GqE78jD.png)
+
+**BDD ( given - when - then )**
+
+상호 작용 테스트 
+: 대상 함수의 구현을 호출하지 않으면서 그 함수가 어떻게 호줄되는지 검증하는 기법 
