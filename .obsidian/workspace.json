@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "609d6beb42bbb46d",
+        "id": "e1092d00192cfee9",
         "type": "tabs",
         "children": [
           {
-            "id": "7e407870d729badb",
+            "id": "8628bbc8b3a65fc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/인프런) 테스트/New Note.md",
+                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/인프런) 테스트/New Note.md",
+                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/인프런) 테스트/New Note.md",
+                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/인프런) 테스트/New Note.md"
+                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md"
               }
             }
           }
@@ -155,15 +155,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7e407870d729badb",
+  "active": "8628bbc8b3a65fc7",
   "lastOpenFiles": [
-    "Spring/인프런) 테스트/New Note.md",
+    "Spring/JPA/영속성 컨텍스트.md",
+    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "Spring/인프런) 테스트/인프런) 테스트.md",
     "Spring/인프런) 테스트",
     "Spring/Canvas.md",
     "Spring/JPA/김영한 강의 JPA - 기본편.md",
     "Spring/JPA/New Note.md",
-    "Spring/JPA/영속성 컨텍스트.md",
     "IT_World/나중에 참고.md",
     "Spring/인프런)Spring/스프링 입문.md",
     "Spring.canvas",

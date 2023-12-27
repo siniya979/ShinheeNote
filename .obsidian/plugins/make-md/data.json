@@ -60,7 +60,9 @@
     "//CICD",
     "//도서",
     "//IT_World",
-    "//Spring"
+    "//Spring",
+    "//Spring/Spring/JPA",
+    "//Spring/Spring/인프런) 테스트"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
