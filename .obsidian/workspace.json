@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "JAVA/기사/재사용 가능한 자바 코드 작성 가이드라인 8가지.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "JAVA/기사/재사용 가능한 자바 코드 작성 가이드라인 8가지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "JAVA/기사/재사용 가능한 자바 코드 작성 가이드라인 8가지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md"
+                "file": "JAVA/기사/재사용 가능한 자바 코드 작성 가이드라인 8가지.md"
               }
             }
           }
@@ -157,8 +157,12 @@
   },
   "active": "8628bbc8b3a65fc7",
   "lastOpenFiles": [
-    "Spring/JPA/영속성 컨텍스트.md",
+    "JAVA/기사/New Note.md",
+    "JAVA/기사/재사용 가능한 자바 코드 작성 가이드라인 8가지.md",
     "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+    "JAVA/기사/기사.md",
+    "JAVA/기사",
+    "Spring/JPA/영속성 컨텍스트.md",
     "Spring/인프런) 테스트/인프런) 테스트.md",
     "Spring/인프런) 테스트",
     "Spring/Canvas.md",
@@ -189,11 +193,7 @@
     "JAVA/java/GC.md",
     "트러블슈팅/인텔리제이 오류.md",
     "트러블슈팅/시니/인텔리제이 오류.md",
-    "트러블슈팅/시니/시니.md",
-    "트러블슈팅/시니/Git Hub SSH  토큰.md",
     "트러블슈팅/시니",
-    "Spring/JPA/Entity Listener.md",
-    "트러블슈팅",
-    "IT_World"
+    "트러블슈팅"
   ]
 }
