@@ -78,13 +78,13 @@
     "JAVA/java",
     "JAVA/자바의신",
     "Spring",
-    "Spring/Spring Security",
     "Spring/JPA",
+    "Spring/Spring Security",
+    "Spring/인프런) 테스트",
     "Spring/인프런)Spring",
     "도서",
     "트러블슈팅",
-    "트러블슈팅/시니",
-    "Spring/인프런) 테스트"
+    "트러블슈팅/시니"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
