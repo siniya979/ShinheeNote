@@ -197,4 +197,16 @@ ORM (RDB와 연결) / ODM (NoSQL)
 User가 UUID 를 직접 의존하면 테스트할때 mock으로 대체시키고 싶지만 UUID가 final이라 Mock 객체로 만들 수가 없다. 왜냐면 final class란 이 클래스를 대체할 수 없게 하겠다는 선언이기 때문이다. 따라서 이 상황 자체가 잘못된 것이다. 
 
 ![](https://i.imgur.com/CKQl39h.png)
-구현체가 UUID에 의존하게 해서 간접 의존하게 하는 방
+구현체가 UUID에 의존하게 해서 간접 의존하게 하는 방식으로 해결할 수 있다(의존성역전)
+테스트 할 때는 지정한 값만 내려주는 MOCK을 사용. 
+
+DRY < DAMP 
+테스트와 코드 공유 : DRY가 아니라 DAMP! 
+DRY : Don't Repeat Yourself 반복하지 마라.
+DAMP : Descriptive And Meaningful Phrase 서술적이고 의미있는 문구 
+
+테스트할 때 만큼은 중복이 되더라도 가독성이 좋은 것이 낫다. 
+
+**논리 로직을 피하라 (+for, if ... )**
+> 테스트에 논리를 넣지 말자
+> 
