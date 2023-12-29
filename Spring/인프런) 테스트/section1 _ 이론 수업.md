@@ -185,5 +185,16 @@ ORM (RDB와 연결) / ODM (NoSQL)
 
 **기타 조언** 
 
-- private 메소드는 테스트하지 않아도 된다. 
+**private 메소드는 테스트하지 않아도 된다.** 
+> private 메소드를 테스트하고 싶은 느낌이 든다면, 사실 private 메소드가 아니어야 한다는 의미거나, 다른 클래스로 분리/책임을 위임하여 public 으로 만들라는 신호다.
 
+**final 메소드를 stub하는 상황을 피해야한다.**
+> final 메소드를 stub 해야하는 상황이 생긴다면, 설계가 잘못된 상황입니다. 
+
+![](https://i.imgur.com/WXLIA1t.png)
+.
+![](https://i.imgur.com/4plpOZ2.png)
+User가 UUID 를 직접 의존하면 테스트할때 mock으로 대체시키고 싶지만 UUID가 final이라 Mock 객체로 만들 수가 없다. 왜냐면 final class란 이 클래스를 대체할 수 없게 하겠다는 선언이기 때문이다. 따라서 이 상황 자체가 잘못된 것이다. 
+
+![](https://i.imgur.com/CKQl39h.png)
+구현체가 UUID에 의존하게 해서 간접 의존하게 하는 방
