@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "SQL/Type.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "SQL/Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "SQL/Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md"
+                "file": "SQL/Type.md"
               }
             }
           }
@@ -157,8 +157,11 @@
   },
   "active": "8628bbc8b3a65fc7",
   "lastOpenFiles": [
-    "앞으로 공부할 것.md",
+    "SQL/Type.md",
     "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+    "SQL/SQL.md",
+    "SQL",
+    "앞으로 공부할 것.md",
     "JAVA/기사/재사용 가능한 자바 코드 작성 가이드라인 8가지.md",
     "JAVA/기사/New Note.md",
     "JAVA/기사/기사.md",
@@ -191,9 +194,6 @@
     "Canvas.canvas",
     "Jeju.md",
     "ClonePJ/11월.md",
-    "JAVA/java/GC.md",
-    "트러블슈팅/인텔리제이 오류.md",
-    "트러블슈팅/시니",
-    "트러블슈팅"
+    "트러블슈팅/시니"
   ]
 }

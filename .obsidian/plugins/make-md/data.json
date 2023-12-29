@@ -56,11 +56,11 @@
     "//TIL",
     "//CICD",
     "//도서",
-    "//IT_World",
     "//Spring",
     "//Spring/Spring/JPA",
     "//JAVA",
-    "//Spring/Spring/인프런) 테스트"
+    "//Spring/Spring/인프런) 테스트",
+    "//SQL"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -83,7 +83,8 @@
     "Spring/Spring Security",
     "도서",
     "트러블슈팅",
-    "트러블슈팅/시니"
+    "트러블슈팅/시니",
+    "SQL"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -127,7 +128,8 @@
     "토익스피킹",
     "Spring/인프런)Spring",
     "Spring/Test",
-    "JAVA/기사"
+    "JAVA/기사",
+    "SQL"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
