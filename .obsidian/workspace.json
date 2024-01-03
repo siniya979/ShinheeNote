@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IntelliJ/What is the Module in IntelliJ.md",
+                "file": "JAVA/java/Date vs LocalDateTime.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IntelliJ/What is the Module in IntelliJ.md",
+                "file": "JAVA/java/Date vs LocalDateTime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IntelliJ/What is the Module in IntelliJ.md",
+                "file": "JAVA/java/Date vs LocalDateTime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IntelliJ/What is the Module in IntelliJ.md"
+                "file": "JAVA/java/Date vs LocalDateTime.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "8628bbc8b3a65fc7",
   "lastOpenFiles": [
+    "JAVA/java/GC.md",
     "IntelliJ/What is the Module in IntelliJ.md",
     "IntelliJ/IntelliJ.md",
     "IntelliJ",
@@ -187,7 +188,6 @@
     "Spring/인프런) 테스트",
     "Spring/Canvas.md",
     "Spring/JPA/김영한 강의 JPA - 기본편.md",
-    "Spring/JPA/New Note.md",
     "Spring/인프런)Spring",
     "도서",
     "TIL/2023_12",
