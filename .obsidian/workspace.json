@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "IntelliJ/디렉토리 구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "IntelliJ/디렉토리 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "IntelliJ/디렉토리 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "IntelliJ/디렉토리 구조.md"
               }
             }
           }
@@ -157,18 +157,22 @@
   },
   "active": "8628bbc8b3a65fc7",
   "lastOpenFiles": [
+    "IntelliJ/디렉토리 구조.md",
+    "IntelliJ/IntelliJ.md",
+    "IntelliJ",
+    "SiniNote.md",
+    "Spring/인프런) 테스트/섹션2_테스트코드.md",
+    "Algorithm/FC_Study/자료구조.md",
+    "README.md",
     "도서/객체 지향의 사실과 오해.md",
     "앞으로 공부할 것.md",
     "트러블슈팅/시니/Git Hub SSH  토큰.md",
     "트러블슈팅/시니/인텔리제이 오류.md",
     "IT_World/나중에 참고.md",
     "IT_World/it 용어.md",
-    "README.md",
-    "Algorithm/FC_Study/자료구조.md",
     "ClonePJ/11월.md",
     "Spring.canvas",
     "SQL/Type.md",
-    "Spring/인프런) 테스트/섹션2_테스트코드.md",
     "Jeju.md",
     "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "Spring/인프런) 테스트/.md",
@@ -184,16 +188,12 @@
     "Spring/Canvas.md",
     "Spring/JPA/김영한 강의 JPA - 기본편.md",
     "Spring/JPA/New Note.md",
-    "Spring/인프런)Spring/스프링 입문.md",
-    "Spring/인프런)Spring/인프런)Spring.md",
     "Spring/인프런)Spring",
-    "Spring/인프런_스프링.md",
     "도서",
     "TIL/2023_12",
     "TIL",
     "CICD",
     "토익스피킹",
-    "Canvas.canvas",
-    "트러블슈팅/시니"
+    "Canvas.canvas"
   ]
 }
