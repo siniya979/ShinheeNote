@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IntelliJ/디렉토리 구조.md",
+                "file": "IntelliJ/What is the Module in IntelliJ.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IntelliJ/디렉토리 구조.md",
+                "file": "IntelliJ/What is the Module in IntelliJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IntelliJ/디렉토리 구조.md",
+                "file": "IntelliJ/What is the Module in IntelliJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IntelliJ/디렉토리 구조.md"
+                "file": "IntelliJ/What is the Module in IntelliJ.md"
               }
             }
           }
@@ -157,7 +157,7 @@
   },
   "active": "8628bbc8b3a65fc7",
   "lastOpenFiles": [
-    "IntelliJ/디렉토리 구조.md",
+    "IntelliJ/What is the Module in IntelliJ.md",
     "IntelliJ/IntelliJ.md",
     "IntelliJ",
     "SiniNote.md",
