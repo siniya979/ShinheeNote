@@ -3,5 +3,7 @@
   "make-md",
   "obsidian-style-settings",
   "obsidian-imgur-plugin",
-  "better-word-count"
+  "better-word-count",
+  "obsidian-code-block-enhancer",
+  "obsidian-emoji-toolbar"
 ]
