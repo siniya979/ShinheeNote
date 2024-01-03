@@ -29,4 +29,9 @@ Repository를 해결해야 한다. 의존성으로 발생하는 문제는 의존
 
 ![](https://i.imgur.com/JBurU9L.png)
 
-이렇게 하면 fake 객체 사용 가
+이렇게 하면 fake 객체 사용 가능 
+![](https://i.imgur.com/mREADPb.png)
+
+
+최종 
+![](https://i.imgur.com/wK40l9B.png)
