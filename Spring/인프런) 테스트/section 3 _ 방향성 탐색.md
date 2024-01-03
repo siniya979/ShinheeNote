@@ -15,3 +15,5 @@
 개선된 아키텍처
 
 ![](https://i.imgur.com/HHJwCTA.png)
+![](https://i.imgur.com/5KDktnQ.png)
+또한 도메인 레이어에서는 Lombok을 제외한 어노테이션이 달려있지 않게 만든다. (OOP)
