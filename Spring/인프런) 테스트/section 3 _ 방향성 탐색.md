@@ -35,3 +35,14 @@ Repository를 해결해야 한다. 의존성으로 발생하는 문제는 의존
 
 최종 
 ![](https://i.imgur.com/wK40l9B.png)
+
+
+![](https://i.imgur.com/MDce4Wc.png)
+모든 외부 연동 - infrastructure 
+
+
+테스트 범위 
+![](https://i.imgur.com/rRm2g2X.png)
+API와 Repository의 impl은 테스트 범위 해당 x 
+
+
