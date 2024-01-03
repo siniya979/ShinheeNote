@@ -17,3 +17,16 @@
 ![](https://i.imgur.com/HHJwCTA.png)
 ![](https://i.imgur.com/5KDktnQ.png)
 또한 도메인 레이어에서는 Lombok을 제외한 어노테이션이 달려있지 않게 만든다. (OOP)
+![](https://i.imgur.com/JrzIOZo.png)
+
+Repository를 해결해야 한다. 의존성으로 발생하는 문제는 의존성 역전을 활용해서 해결. 
+
+![](https://i.imgur.com/GwrEXnE.png)
+
+![](https://i.imgur.com/bUVoQX6.png)
+
+컨트롤러를 테스트하기 위해 3개의 의존성을 전부 가져오는 것은 비효율적
+
+![](https://i.imgur.com/JBurU9L.png)
+
+이렇게 하면 fake 객체 사용 가
