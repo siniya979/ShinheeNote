@@ -28,8 +28,5 @@ public interface PostRepository {
 public class CertificationService {
 
 	private final JavaMailSender javaMailSender;
-
-	
-
 }
 ```
