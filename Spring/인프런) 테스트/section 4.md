@@ -44,3 +44,25 @@ public interface UserRepository {
 
 UserEntity에 대응하는 User 클래스를 만든다. 
 
+```java
+public interface UserRepository {
+	Optional<User> findById(long id);
+	Optional<User> findByIdAndStatus(long id, UserStatus userStatus);
+	Optional<User> findByEmailAndStatus(String email, UserStatus userStatus);
+	UserEntity save(User user);
+}
+```
+
+jpa 엔티티에 jpa 엔티티를 도메인 엔티티로 바꿔주는 메소드를 만든다. toModel()
+```java
+public User toMode(){
+	return User.builder()
+		.id()
+		.email(email)
+		.address(address)
+		.certificationCode(certificationCode)
+		.status(status)
+		.lastLoginAt(lastLoginAt)
+		.build();
+}
+```
