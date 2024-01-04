@@ -66,3 +66,15 @@ public User toMode(){
 		.build();
 }
 ```
+
+```java 
+@Repository 
+@RequiredArgsConstructor
+public class UserRepositoryImpl implements UserRepository {
+
+	private final UserJpaRepository userJpaRepository;
+
+	@Override
+	public Optional
+}
+```
