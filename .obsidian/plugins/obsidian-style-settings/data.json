@@ -9,9 +9,9 @@
   "minimal-style@@code-comment@@dark": "#ECC06F",
   "minimal-style@@code-keyword@@dark": "#C56BD6",
   "minimal-style@@code-important@@dark": "#E3E800",
-  "minimal-style@@code-operator@@dark": "#ED00FF",
-  "minimal-style@@code-property@@dark": "#47A4E3",
+  "minimal-style@@code-operator@@dark": "#C5CBD6",
+  "minimal-style@@code-property@@dark": "#C5CBD6",
   "minimal-style@@code-punctuation@@dark": "#FF9F34",
   "minimal-style@@code-tag@@dark": "#FF7A7A",
-  "minimal-style@@code-value@@dark": "#00E1FF"
+  "minimal-style@@code-value@@dark": "#F36473"
 }
