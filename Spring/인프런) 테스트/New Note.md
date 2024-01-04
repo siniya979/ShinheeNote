@@ -8,5 +8,14 @@ UserRepository 의 위치가 infrastructure 에 있는게 부적절하다고 느
 
 ```java 
 @Repository
-@RequriedArgu
+@RequriedArgsConstructor
+public class PostRepositoryImpl implements PostRepository { 
+	private final PostJpaRepository postJpaRepository;
+}
+```
+
+```java 
+public interface PostRepository { 
+
+}
 ```
