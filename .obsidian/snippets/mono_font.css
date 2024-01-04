@@ -1,0 +1,8 @@
+body {
+  font-family: Hack, D2Coding, monospace;
+}
+
+.theme-dark {
+  --default-font: Hack, D2Coding, monospace;
+  --font-family-editor: Hack, D2Coding, monospace;
+}

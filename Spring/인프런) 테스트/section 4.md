@@ -93,10 +93,23 @@ public class UserRepositoryImpl implements UserRepository {
 
 	@Override
 	public User save(User user){
-		return userJpaRepository.save(user.);
+		return userJpaRepository.save(userEntity.fromModel );
 	}
 }
 ```
 
 
-save 의 경우 
+save 의 경우 User 도메인에서 영속성 객체로 바꿔주는 방법을 생각할 수도 있지만, 도메인은 인프라 레이어의 정보를 모르는 것이 좋다. 그래서 영속성 객체에서 모델을 받아 변환하는 코드를 삽입해준다. 
+
+```java 
+public User toMode(){
+	return User.builder()
+		.id()
+		.email(email)
+		.address(address)
+		.certificationCode(certificationCode)
+		.status(status)
+		.lastLoginAt(lastLoginAt)
+		.build();
+}
+```
