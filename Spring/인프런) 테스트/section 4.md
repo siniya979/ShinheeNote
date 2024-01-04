@@ -31,3 +31,11 @@ public class CertificationService {
 }
 ```
 # 도메인과 영속성 객체 구분하기
+
+```java
+public interface UserRepository {
+	Optional<U>
+}
+```
+
+UserEntity에 대응하는 User 클래스를 만든다. 
