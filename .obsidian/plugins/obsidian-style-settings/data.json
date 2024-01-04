@@ -1,5 +1,6 @@
 {
   "minimal-style@@minimal-code-scroll": true,
   "things-style@@fancy-code": true,
-  "minimal-style@@code-size": "15px"
+  "minimal-style@@code-size": "15px",
+  "minimal-style@@code-background@@dark": "#272C35"
 }
