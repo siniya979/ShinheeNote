@@ -44,4 +44,3 @@ public interface UserRepository {
 
 UserEntity에 대응하는 User 클래스를 만든다. 
 
-![](https://i.imgur.com/pUXbFfP.png)
