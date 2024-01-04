@@ -75,6 +75,24 @@ public class UserRepositoryImpl implements UserRepository {
 	private final UserJpaRepository userJpaRepository;
 
 	@Override
-	public Optional
+	public Optional<User> findById(long id){
+		return userJpaRepository.findById(id).map(UserEntity::toModel);
+	}
+
+	@Override
+	public Optional<User> findByIdAndStatus(long id, UserStatus userStatus){
+		return userJpaRepository.findByIdAndStatus(id, userStatus)
+								.map(UserEntity::toModel);
+	}
+
+	@Override
+	public Optional<User> findByEmailAndStatus(String email, UserStatus userStatus){
+		return userJpaRepository.findById(id).mpa(UserEntity::toModel);
+	}
+
+	@Override
+	public User save(User user){
+		return userJpaRepository.findById(id).mpa(UserEntity::toModel);
+	}
 }
 ```
