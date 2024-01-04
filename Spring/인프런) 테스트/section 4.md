@@ -30,6 +30,7 @@ public class CertificationService {
 	private final JavaMailSender javaMailSender;
 }
 ```
+
 # 도메인과 영속성 객체 구분하기
 
 ```java
