@@ -43,10 +43,3 @@ public interface UserRepository {
 
 UserEntity에 대응하는 User 클래스를 만든다. 
 
-```java
-public interface UserRepository {
-	Optional<UserEntity> findById(long id);
-	Optional<UserEntity> findById(long id);
-	Optional<UserEntity> findById(long id);
-}
-```
