@@ -87,12 +87,16 @@ public class UserRepositoryImpl implements UserRepository {
 
 	@Override
 	public Optional<User> findByEmailAndStatus(String email, UserStatus userStatus){
-		return userJpaRepository.findById(id).mpa(UserEntity::toModel);
+		return userJpaRepository.findByEmailAndStatus(email, userStatus)
+								.map(UserEntity::toModel);
 	}
 
 	@Override
 	public User save(User user){
-		return userJpaRepository.findById(id).mpa(UserEntity::toModel);
+		return userJpaRepository.save(user.);
 	}
 }
 ```
+
+
+save 의 경우 
