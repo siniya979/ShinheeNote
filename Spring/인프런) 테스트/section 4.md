@@ -34,7 +34,7 @@ public class CertificationService {
 
 ```java
 public interface UserRepository {
-	Optional<U>
+	Optional<UserEntity> findById(long id);
 }
 ```
 
