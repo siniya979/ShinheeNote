@@ -1,3 +1,5 @@
 {
-  "minimal-style@@minimal-code-scroll": true
+  "minimal-style@@minimal-code-scroll": true,
+  "things-style@@fancy-code": true,
+  "minimal-style@@code-size": "15px"
 }
