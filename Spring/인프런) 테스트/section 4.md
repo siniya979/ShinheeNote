@@ -93,7 +93,7 @@ public class UserRepositoryImpl implements UserRepository {
 
 	@Override
 	public User save(User user){
-		return userJpaRepository.save(userEntity.fromModel );
+		return userJpaRepository.save(userEntity.fromModel(user)).toModel();
 	}
 }
 ```
@@ -104,6 +104,10 @@ save 의 경우 User 도메인에서 영속성 객체로 바꿔주는 방법을 
 ```java 
 public UserEntity fromModel(User user){
 	UserEntitiy userEntity = new UserEntity();
-	return 
+	userEntity.id = user.getId();
+	userEntity.email =user.getEmail();
+	...(중략)...
+	userEntity.lastLoginAt = user.getLastLoginAt();
+	return userEntity;
 }
 ```
