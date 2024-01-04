@@ -2,5 +2,13 @@
   "minimal-style@@minimal-code-scroll": true,
   "things-style@@fancy-code": true,
   "minimal-style@@code-size": "15px",
-  "minimal-style@@code-background@@dark": "#272C35"
+  "minimal-style@@code-background@@dark": "#272C35",
+  "minimal-style@@code-function@@dark": "#48A5E5",
+  "minimal-style@@code-string@@dark": "#8CC56F",
+  "minimal-style@@code-normal@@dark": "#C5CBD6",
+  "minimal-style@@code-comment@@dark": "#002EFF",
+  "minimal-style@@code-keyword@@dark": "#B70E0E",
+  "minimal-style@@code-important@@dark": "#E3E800",
+  "minimal-style@@code-operator@@dark": "#ED00FF",
+  "minimal-style@@code-property@@dark": "#7267D0"
 }

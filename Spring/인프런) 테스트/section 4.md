@@ -43,3 +43,9 @@ public interface UserRepository {
 
 UserEntity에 대응하는 User 클래스를 만든다. 
 
+```java
+@PostMapping("/owers/new")
+public String UserRepository {@Valid Owner owner ) {
+	if()
+}
+```
