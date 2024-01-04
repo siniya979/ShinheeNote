@@ -19,3 +19,17 @@ public interface PostRepository {
 
 }
 ```
+
+
+기존 메일 서비스도 따로 자체적인 서비스로 분리함
+```java
+@Service 
+@RequiredArgsConstructor
+public class CertificationService {
+
+	private final JavaMailSender javaMailSender;
+
+	
+
+}
+```
