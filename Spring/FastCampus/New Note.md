@@ -33,3 +33,10 @@ JPA BUDDY  플러그인 활용버
 
 @ToString includes lazy loaded fields and/or associations. this can cause performance and memory consumption issues.
 
+![](https://i.imgur.com/E04Z2lV.png)
+
+연관 관계를 맺고 있을 때 순환 참조 대참사를 야기할 수 있으므로 해당 필드에 대해서는 @ToString을 Exclude 해주면 된다. 
+즉 A와 B가 서로 양방향 연관 관계라면 ToString 을 한 쪽에서 끊어줘야 한다. 그렇지 않으면 계속 참조를 위해 순환이 된다. 
+
+
+
