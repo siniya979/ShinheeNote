@@ -21,3 +21,15 @@ IntelliJ Run 탭에서 실행할 수도 있지만, Services 탭에서 실행시�
 - Run에서 빌드 작업 혹은 테스트를 할 때 생기는 로그와 서비스 실행 로그와 분리해서 볼 수 있다. 
 - 멀티 모듈 프로젝트로 구성해서 인텔리제이 윈도우 안에서 여러 개의 부트 프로젝트를 관리할 때 한 화면에서 한 번에 관리할 수 있다. 
 
+
+JPA BUDDY  플러그인 활용버 
+
+
+
+
+# @ToString
+
+@ToString은 lazy loaded 필드 혹은 연관 관게를 가지고 있으므로, 퍼포먼스나 메모리 저하를 야기할 수 있습니다. 
+
+@ToString includes lazy loaded fields and/or associations. this can cause performance and memory consumption issues.
+
