@@ -13,5 +13,6 @@
   "minimal-style@@code-property@@dark": "#C5CBD6",
   "minimal-style@@code-punctuation@@dark": "#FF9F34",
   "minimal-style@@code-tag@@dark": "#FF7A7A",
-  "minimal-style@@code-value@@dark": "#F36473"
+  "minimal-style@@code-value@@dark": "#F36473",
+  "minimal-style@@code-normal@@light": "#040000"
 }
