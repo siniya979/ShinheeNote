@@ -85,7 +85,8 @@
     "도서",
     "SQL",
     "트러블슈팅",
-    "트러블슈팅/시니"
+    "트러블슈팅/시니",
+    "spaces://#HTTP"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
