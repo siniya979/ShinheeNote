@@ -33,7 +33,7 @@ public class CertificationService {
 
 # 도메인과 영속성 객체 구분하기
 
-```java
+``` Java
 public interface UserRepository {
 	Optional<UserEntity> findById(long id);
 	Optional<UserEntity> findByIdAndStatus(long id, UserStatus userStatus);
@@ -101,7 +101,7 @@ public class UserRepositoryImpl implements UserRepository {
 
 save 의 경우 User 도메인에서 영속성 객체로 바꿔주는 방법을 생각할 수도 있지만, 도메인은 인프라 레이어의 정보를 모르는 것이 좋다. 그래서 영속성 객체에서 모델을 받아 변환하는 코드를 삽입해준다. 
 
-```java 
+``` java 
 public UserEntity fromModel(User user){
 	UserEntitiy userEntity = new UserEntity();
 	userEntity.id = user.getId();
