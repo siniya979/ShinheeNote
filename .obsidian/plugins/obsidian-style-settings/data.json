@@ -14,5 +14,11 @@
   "minimal-style@@code-punctuation@@dark": "#FF9F34",
   "minimal-style@@code-tag@@dark": "#FF7A7A",
   "minimal-style@@code-value@@dark": "#F36473",
-  "minimal-style@@code-normal@@light": "#040000"
+  "minimal-style@@code-normal@@light": "#040000",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "anp-codeblock-preview-hl-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-preview": "anp-codeblock-preview-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-edit": "anp-codeblock-edit-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anp-code-text-color@@light": "#03070A"
 }
