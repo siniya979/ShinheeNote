@@ -6,6 +6,7 @@
       {
         "id": "e1092d00192cfee9",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "8628bbc8b3a65fc7",
@@ -24,6 +25,7 @@
       {
         "id": "3e0537366f807657",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "fa4f68c29f242bd5",
@@ -174,7 +176,7 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "fa4f68c29f242bd5",
+  "active": "8628bbc8b3a65fc7",
   "lastOpenFiles": [
     "Spring/패캠) 남궁성.md",
     "파일 저장 로직 따라가기.md",
