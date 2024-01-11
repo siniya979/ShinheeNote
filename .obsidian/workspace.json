@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "파일 저장 로직 따라가기.md",
+                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "파일 저장 로직 따라가기.md",
+                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "파일 저장 로직 따라가기.md",
+                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "파일 저장 로직 따라가기.md"
+                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md"
               }
             }
           }
@@ -178,14 +178,14 @@
   },
   "active": "8628bbc8b3a65fc7",
   "lastOpenFiles": [
-    "Spring/패캠) 남궁성.md",
-    "파일 저장 로직 따라가기.md",
-    "Spring/FastCampus/New Note 1.md",
     "Spring/인프런) 테스트/section 2_테스트코드.md",
-    "Spring/FastCampus/New Note.md",
-    "Spring/인프런) 테스트/section 4.md",
-    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
+    "Spring/인프런) 테스트/section 4.md",
+    "파일 저장 로직 따라가기.md",
+    "Spring/패캠) 남궁성.md",
+    "Spring/FastCampus/New Note 1.md",
+    "Spring/FastCampus/New Note.md",
+    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "conflict-files-obsidian-git.md",
     ".md",
     "Spring/FastCampus/FastCampus.md",
