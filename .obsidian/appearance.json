@@ -1,8 +1,8 @@
 {
   "accentColor": "#969696",
-  "cssTheme": "AnuPpuccin",
-  "theme": "moonstone",
-  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSize": 13,
   "enabledCssSnippets": [],
   "monospaceFontFamily": "Inter",
   "baseFontSizeAction": true
