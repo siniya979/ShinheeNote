@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa45d9fdaa401cd",
+        "id": "e1092d00192cfee9",
         "type": "tabs",
         "children": [
           {
-            "id": "e5af92d26a7b43e5",
+            "id": "8628bbc8b3a65fc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "파일 저장 로직 따라가기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "파일 저장 로직 따라가기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "파일 저장 로직 따라가기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "파일 저장 로직 따라가기.md"
               }
             }
           }
@@ -149,45 +155,45 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e49c65dc00784e25",
+  "active": "8628bbc8b3a65fc7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Spring/FastCampus/New Note.md",
     "Spring/패캠) 남궁성.md",
+    "파일 저장 로직 따라가기.md",
     "Spring/FastCampus/New Note 1.md",
-    "Spring/FastCampus/.md",
-    "Spring/FastCampus/FastCampus.md",
-    "Spring/FastCampus",
+    "Spring/인프런) 테스트/section 2_테스트코드.md",
+    "Spring/FastCampus/New Note.md",
     "Spring/인프런) 테스트/section 4.md",
     "Spring/인프런) 테스트/section1 _ 이론 수업.md",
-    "Spring/인프런)Spring/스프링 입문.md",
-    "Spring/인프런) 테스트/인프런) 테스트.md",
     "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
-    "Spring/인프런) 테스트/section 2_테스트코드.md",
-    "Spring/인프런) 테스트",
-    "SiniNote.md",
-    "SQL/Type.md",
-    "SQL/SQL.md",
-    "SQL",
-    "JAVA/기사/재사용 가능한 자바 코드 작성 가이드라인 8가지.md",
-    "JAVA/기사/기사.md",
+    "conflict-files-obsidian-git.md",
+    ".md",
+    "Spring/FastCampus/FastCampus.md",
+    "Spring/FastCampus",
+    "README.md",
+    "Spring/JPA/New Note.md",
+    "Spring/JPA/영속성 컨텍스트.md",
+    "Spring/Spring Security/JWT.md",
+    "Spring/Spring Security/시큐리티.md",
+    "JAVA/자바의신/자바의 신 2권 요약.md",
+    "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
     "JAVA/기사/New Note.md",
-    "JAVA/기사",
+    "JAVA/기사/재사용 가능한 자바 코드 작성 가이드라인 8가지.md",
+    "JAVA/java/디자인 패턴.md",
+    "JAVA/java/Date vs LocalDateTime.md",
+    "JAVA/java/GC.md",
     "IntelliJ/What is the Module in IntelliJ.md",
     "IntelliJ/IntelliJ.md",
     "IntelliJ",
-    "Spring/JPA/영속성 컨텍스트.md",
-    "Spring/JPA/New Note.md",
-    "Spring/JPA/김영한 강의 JPA - 기본편.md",
-    "IT_World/나중에 참고.md",
+    "SiniNote.md",
+    "Algorithm/FC_Study/자료구조.md",
     "Spring.canvas",
-    "Spring/인프런)Spring/인프런)Spring.md",
+    "SQL",
+    "JAVA/기사",
+    "Spring/인프런) 테스트",
     "Spring/인프런)Spring",
-    "Spring/인프런_스프링.md",
     "도서",
     "TIL/2023_12",
     "TIL",
-    "CICD",
     "Canvas.canvas"
   ]
 }
