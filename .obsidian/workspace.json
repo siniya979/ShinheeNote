@@ -4,39 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e1092d00192cfee9",
+        "id": "5aa45d9fdaa401cd",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "8628bbc8b3a65fc7",
+            "id": "e5af92d26a7b43e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3e0537366f807657",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "fa4f68c29f242bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "파일 저장 로직 따라가기.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +62,7 @@
             }
           },
           {
-            "id": "c684d7eec15413da",
+            "id": "e49c65dc00784e25",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -114,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -172,49 +146,48 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "markdown-importer:마크다운 형식 가져오기 열기": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8628bbc8b3a65fc7",
+  "active": "e49c65dc00784e25",
   "lastOpenFiles": [
-    "Spring/인프런) 테스트/section 2_테스트코드.md",
-    "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
-    "Spring/인프런) 테스트/section 4.md",
     "파일 저장 로직 따라가기.md",
+    "conflict-files-obsidian-git.md",
+    "Spring/FastCampus/New Note.md",
     "Spring/패캠) 남궁성.md",
     "Spring/FastCampus/New Note 1.md",
-    "Spring/FastCampus/New Note.md",
-    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
-    "conflict-files-obsidian-git.md",
-    ".md",
+    "Spring/FastCampus/.md",
     "Spring/FastCampus/FastCampus.md",
     "Spring/FastCampus",
-    "README.md",
-    "Spring/JPA/New Note.md",
-    "Spring/JPA/영속성 컨텍스트.md",
-    "Spring/Spring Security/JWT.md",
-    "Spring/Spring Security/시큐리티.md",
-    "JAVA/자바의신/자바의 신 2권 요약.md",
-    "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
-    "JAVA/기사/New Note.md",
+    "Spring/인프런) 테스트/section 4.md",
+    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+    "Spring/인프런)Spring/스프링 입문.md",
+    "Spring/인프런) 테스트/인프런) 테스트.md",
+    "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
+    "Spring/인프런) 테스트/section 2_테스트코드.md",
+    "Spring/인프런) 테스트",
+    "SiniNote.md",
+    "SQL/Type.md",
+    "SQL/SQL.md",
+    "SQL",
     "JAVA/기사/재사용 가능한 자바 코드 작성 가이드라인 8가지.md",
-    "JAVA/java/디자인 패턴.md",
-    "JAVA/java/Date vs LocalDateTime.md",
-    "JAVA/java/GC.md",
+    "JAVA/기사/기사.md",
+    "JAVA/기사/New Note.md",
+    "JAVA/기사",
     "IntelliJ/What is the Module in IntelliJ.md",
     "IntelliJ/IntelliJ.md",
     "IntelliJ",
-    "SiniNote.md",
-    "Algorithm/FC_Study/자료구조.md",
+    "Spring/JPA/영속성 컨텍스트.md",
+    "Spring/JPA/New Note.md",
+    "Spring/JPA/김영한 강의 JPA - 기본편.md",
+    "IT_World/나중에 참고.md",
     "Spring.canvas",
-    "SQL",
-    "JAVA/기사",
-    "Spring/인프런) 테스트",
+    "Spring/인프런)Spring/인프런)Spring.md",
     "Spring/인프런)Spring",
     "도서",
     "TIL/2023_12",
     "TIL",
+    "CICD",
     "Canvas.canvas"
   ]
 }
