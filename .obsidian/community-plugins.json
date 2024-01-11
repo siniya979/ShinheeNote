@@ -1,9 +1,9 @@
 [
   "obsidian-git",
-  "make-md",
   "obsidian-style-settings",
   "obsidian-imgur-plugin",
   "better-word-count",
   "obsidian-emoji-toolbar",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "make-md"
 ]
