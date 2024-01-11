@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "3e0537366f807657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa4f68c29f242bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "파일 저장 로직 따라가기.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +174,7 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "8628bbc8b3a65fc7",
+  "active": "fa4f68c29f242bd5",
   "lastOpenFiles": [
     "Spring/패캠) 남궁성.md",
     "파일 저장 로직 따라가기.md",
