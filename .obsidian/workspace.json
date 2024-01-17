@@ -11,8 +11,12 @@
             "id": "e5af92d26a7b43e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "앞으로 공부할 것.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "앞으로 공부할 것.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "앞으로 공부할 것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "앞으로 공부할 것.md"
               }
             }
           }
@@ -141,6 +147,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -149,7 +156,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e49c65dc00784e25",
+  "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
     "파일 저장 로직 따라가기.md",
     "conflict-files-obsidian-git.md",
