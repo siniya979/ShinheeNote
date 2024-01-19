@@ -13,5 +13,7 @@
 2. Java Exception 에러 출력 
 - e.getMessage() : 에러와 원인을 간단하게 출력
 - e.toStirng() : 에러의 Exception 내용과 원인을 출력
-- 
+- e.printStackTrace() : 에러의 발생근원지를 찾아서 단계별로 에러 출력 
+
+> log4j에서는 e.printStackTrace()를 log 안에 담을수 없기 떄문에 log.error("error : ", e); 로 사용
 
