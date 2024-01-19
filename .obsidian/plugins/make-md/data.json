@@ -50,19 +50,16 @@
     "//ShinHee",
     "//Algorithm/Algorithm/FC_Study",
     "//JAVA/JAVA/자바의신",
-    "//CICD",
     "//TIL",
     "//TIL/TIL/2023_12",
     "//TIL",
     "//TIL/TIL/2023_12",
     "//TIL/TIL/2023_12",
     "//TIL",
-    "//CICD",
     "//도서",
     "//Spring",
     "//Spring",
-    "//Spring/Spring/FastCampus",
-    "//Spring/Spring/인프런) 테스트"
+    "//JAVA"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -87,7 +84,8 @@
     "Spring/인프런)Spring",
     "도서",
     "트러블슈팅",
-    "트러블슈팅/시니"
+    "트러블슈팅/시니",
+    "Spring/Spring"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -130,7 +128,8 @@
     "토익스피킹",
     "토익스피킹",
     "Spring/인프런)Spring",
-    "Spring/FastCampus"
+    "Spring/FastCampus",
+    "Spring/Spring"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
