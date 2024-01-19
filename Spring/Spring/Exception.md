@@ -26,3 +26,14 @@
 
 예외 처리 방법 
 
+예를 들어 NoSuchElementFoundException 가 발생한다면 접속 환경에 따라 다른 에러 처리를 받게 된다. 웹 페이지로 접속했다면 whitelabel Error Page를 반환 받는다. 
+
+![](https://i.imgur.com/r5YuAI3.png)
+
+Spring은 만들어질 때(1.0)부터 에러 처리를 위한 BasicErrorController를 구현해두었고, 스프링 부트는 예외가 발생하면 기본적으로 /error로 에러 요청을 다시 전달하도록 WAS 설정을 해두었다.
+
+> 참고로 이는 스프링 부트의 WebMvcAutoConfiguration를 통해 자동 설정이 되는 WAS의 설정이다.
+
+
+
+

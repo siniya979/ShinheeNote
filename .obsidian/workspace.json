@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring/Exception.md",
+                "file": "Spring/JPA/New Note 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring/Exception.md",
+                "file": "Spring/JPA/New Note 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring/Exception.md",
+                "file": "Spring/JPA/New Note 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring/Exception.md"
+                "file": "Spring/JPA/New Note 1.md"
               }
             }
           }
@@ -158,6 +158,7 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "Spring/JPA/New Note 1.md",
     "Spring/Spring/Exception.md",
     "Spring/New Note.md",
     "Spring/Spring/Spring.md",
@@ -189,7 +190,6 @@
     "IntelliJ/What is the Module in IntelliJ.md",
     "IntelliJ/IntelliJ.md",
     "IntelliJ",
-    "Spring/JPA/영속성 컨텍스트.md",
     "Spring.canvas",
     "Spring/인프런)Spring",
     "도서",
