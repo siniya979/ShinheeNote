@@ -17,3 +17,6 @@
 
 > log4j에서는 e.printStackTrace()를 log 안에 담을수 없기 떄문에 log.error("error : ", e); 로 사용
 
+3. Checked Exception VS Unchekced Exception
+![](https://i.imgur.com/LoORtVj.png)
+Checked Exception과 Unchecked Exception의 가장 명확한 구분 기준은 ‘꼭 처리를 해야 하느냐’ 입니다.
