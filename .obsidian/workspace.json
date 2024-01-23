@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/JPA/New Note 1.md",
+                "file": "240123.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/JPA/New Note 1.md",
+                "file": "240123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/JPA/New Note 1.md",
+                "file": "240123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/JPA/New Note 1.md"
+                "file": "240123.md"
               }
             }
           }
@@ -158,12 +158,13 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "240123.md",
+    "앞으로 공부할 것.md",
     "Spring/JPA/New Note 1.md",
     "Spring/Spring/Exception.md",
     "Spring/New Note.md",
     "Spring/Spring/Spring.md",
     "Spring/Spring",
-    "앞으로 공부할 것.md",
     "파일 저장 로직 따라가기.md",
     "conflict-files-obsidian-git.md",
     "Spring/FastCampus/New Note.md",
@@ -188,7 +189,6 @@
     "JAVA/기사/New Note.md",
     "JAVA/기사",
     "IntelliJ/What is the Module in IntelliJ.md",
-    "IntelliJ/IntelliJ.md",
     "IntelliJ",
     "Spring.canvas",
     "Spring/인프런)Spring",
