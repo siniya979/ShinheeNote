@@ -4,5 +4,9 @@ IoC 컨테이너는 두 가지 유형이 존재한다.
 1. BeanFactory
 2. ApplcationContext 
 
+이는 스프링에서 IoC 컨테이너를 사용할 때 BeanFactory 또는 ApplicationContext 를 사용해야 하는 지 여부를 의미한다. BeanFactory 는 IoC 컨테이너의 가장 기본적인 버전이다. 그리고 ApplicationContext 는 BeanFactory 의 기능을 확장한다. 다음은 Spring IoC 의 주요 기능들의 일부다. 
 
+* 객체 생성
+* 객체 관리
+* 
 
