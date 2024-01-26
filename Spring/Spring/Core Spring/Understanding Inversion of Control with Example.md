@@ -109,3 +109,29 @@ Sim sim = new Vodafone();
 > 
 <hr>
 
+> **Bean 정의** : Spring에서 애플리케이션의 핵심 구조를 형성하고 Spring IoC 컨테이너에 의해 관리되는 객체를 빈이라고 합니다. Bean은 Spring IoC 컨테이너에 의해 인스턴스화되고, 어셈블링(조립)되고, 관리되는 객체입니다.
+
+```JAVA
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Mobile {
+	public static void main(String[] args) {
+		// Using ApplicationContext tom implement Spring IoC
+		ApplicationContext applicationContext = new ClassPathXmlApplicationContext("beans.xml");
+		
+		// Get the bean
+		Sim sim = applicationContext.getBean("sim", Sim.class);
+		
+		// Calling the methods
+		sim.calling();
+		sim.data();
+	}
+}
+```
+
+> 결과 (Output)** <br>
+> Jio Calling
+> Jio Data
+
+그리고 
