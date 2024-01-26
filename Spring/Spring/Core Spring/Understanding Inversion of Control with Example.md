@@ -85,4 +85,20 @@ public class Mobile {
 Sim sim = new Vodafone();
 ```
 
-코드 소스를 변경해야 할 것이다. 그러나 우리는 이 소스 코드를 손대지 않고 그대로 유지하고 싶기에 소스 코드는 고정되어야 한다. 어떻게 해결할 수 있을까? 여기서 Spring IoC 컨테이너가 등장한다. 이 예시에서 ApplicationContext 를 이용해 IoC 컨테이너를 구현할 것이다. 
+코드 소스를 변경해야 할 것이다. 그러나 우리는 이 소스 코드를 손대지 않고 그대로 유지하고 싶기에 소스 코드는 고정되어야 한다. 어떻게 해결할 수 있을까? 여기서 Spring IoC 컨테이너가 등장한다. 이 예시에서 ApplicationContext 를 이용해 IoC 컨테이너를 구현할 것이다. 첫번째로, beans.xml 이라는 XML 파일을 생성한다.
+
+**Example**: beans.xml File
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<bean id="sim" class="Jio"></bean>
+
+</beans>
+```
+
+< **설명** > 
+**beans.xml 파일에서** **beans 를** 생성했다 . 따라서 ID 내부에서는 고유 ID를 전달해야 하고 클래스 내부에서는 Bean을 생성하려는 클래스 이름을 전달해야 합니다. 나중에 main 메소드 내에서 다음 프로그램에서 설명할 내용을 조정할 수 있습니다.
