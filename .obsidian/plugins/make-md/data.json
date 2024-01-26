@@ -55,7 +55,9 @@
     "//TIL",
     "//TIL/TIL/2023_12",
     "//TIL/TIL/2023_12",
-    "//TIL"
+    "//TIL",
+    "//Spring",
+    "//Spring/Spring/Spring"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -64,7 +66,6 @@
     "/",
     "Algorithm",
     "Algorithm/FC_Study",
-    "CICD",
     "IT_World",
     "IntelliJ",
     "JAVA",
@@ -81,7 +82,8 @@
     "Spring/인프런)Spring",
     "도서",
     "트러블슈팅",
-    "트러블슈팅/시니"
+    "트러블슈팅/시니",
+    "CICD"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,

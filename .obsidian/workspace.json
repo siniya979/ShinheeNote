@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "240123.md",
+                "file": "Spring/Spring/IoC Container.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240123.md",
+                "file": "Spring/Spring/IoC Container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240123.md",
+                "file": "Spring/Spring/IoC Container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240123.md"
+                "file": "Spring/Spring/IoC Container.md"
               }
             }
           }
@@ -158,6 +158,8 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "Spring/Spring/의존성 주입 (Dependency Injection).md",
+    "Spring/Spring/IoC Container.md",
     "240123.md",
     "앞으로 공부할 것.md",
     "Spring/JPA/New Note 1.md",
@@ -186,9 +188,7 @@
     "SQL",
     "JAVA/기사/재사용 가능한 자바 코드 작성 가이드라인 8가지.md",
     "JAVA/기사/기사.md",
-    "JAVA/기사/New Note.md",
     "JAVA/기사",
-    "IntelliJ/What is the Module in IntelliJ.md",
     "IntelliJ",
     "Spring.canvas",
     "Spring/인프런)Spring",
