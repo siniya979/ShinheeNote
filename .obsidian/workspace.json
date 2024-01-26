@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring/Core Spring/Understanding Inversion of Control with Example.md",
+                "file": "Spring/Spring/Core Spring/2..md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring/Core Spring/Understanding Inversion of Control with Example.md",
+                "file": "Spring/Spring/Core Spring/2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring/Core Spring/Understanding Inversion of Control with Example.md",
+                "file": "Spring/Spring/Core Spring/2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring/Core Spring/Understanding Inversion of Control with Example.md"
+                "file": "Spring/Spring/Core Spring/2..md"
               }
             }
           }
@@ -156,9 +156,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e49c65dc00784e25",
+  "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
-    "Spring/Spring/Core Spring/Understanding Inversion of Control with Example.md",
+    "Spring/Spring/Core Spring/1. 예제를 통한 IoC 이해하기.md",
+    "Spring/Spring/Core Spring/2..md",
     "Spring/Spring/의존성 주입 (Dependency Injection).md",
     "Spring/Spring/Core Spring/Core Spring.md",
     "Spring/Spring/Core Spring",
@@ -187,7 +188,6 @@
     "Spring/인프런) 테스트",
     "SiniNote.md",
     "SQL/Type.md",
-    "SQL/SQL.md",
     "SQL",
     "JAVA/기사",
     "IntelliJ",
