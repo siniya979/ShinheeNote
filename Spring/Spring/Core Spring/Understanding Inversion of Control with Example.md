@@ -62,3 +62,27 @@ public class Jio implements Sim{
 ```
 
 이제 메서드를 기본(Main) 메서드에서 호출해보자. 런타임 다형성을 개념을 구현함으로서 다음과 같은 작업을 수행할 수 있다.
+
+```JAVA
+public class Mobile {
+
+	// Main driver method
+	public static void main(String[] args)
+	{
+		Sim sim = new Jio();
+
+		// Sim sim = new Airtel();
+
+		sim.calling();
+		sim.data();
+	}
+}
+```
+
+만약 나중에 또 다른 새로운 Sim 인 Vodafone이 필요해, 다음과 같이 코드에서 하위 클래스 이름을 다시 변경해야 한다면 어떻게 될까? 
+
+```JAVA
+Sim sim = new Vodafone();
+```
+
+소스 코드의 구성을 
