@@ -29,3 +29,36 @@ public interface Sim
 	void data();
 }
 ```
+
+위 Sim 을 상속 받아 Sim 의 메서드를 오버라이드하는 Airtel 그리고 Jio 라는 두 개의 클래스가 있다. 
+
+```JAVA
+public class Airtel implements Sim {
+
+	@Override public void calling()
+	{
+		System.out.println("Airtel Calling");
+	}
+
+	@Override public void data()
+	{
+		System.out.println("Airtel Data");
+	}
+}
+```
+
+```JAVA
+public class Jio implements Sim{
+	@Override
+	public void calling() {
+		System.out.println("Jio Calling");
+	}
+
+	@Override
+	public void data() {
+		System.out.println("Jio Data");
+	}
+}
+```
+
+이제 메서드를 기본(Main) 메서드에서 호출해보자. 런타임 다형성을 개념을 구현함으로서 다음과 같은 작업을 수행할 수 있다.
