@@ -57,7 +57,8 @@
     "//TIL/TIL/2023_12",
     "//TIL",
     "//Spring",
-    "//Spring/Spring/Spring"
+    "//Spring/Spring/Spring",
+    "//Algorithm"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -83,7 +84,8 @@
     "도서",
     "트러블슈팅",
     "트러블슈팅/시니",
-    "CICD"
+    "CICD",
+    "Spring/Spring/Core Spring"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -127,7 +129,8 @@
     "토익스피킹",
     "Spring/인프런)Spring",
     "Spring/FastCampus",
-    "Spring/Spring"
+    "Spring/Spring",
+    "Spring/Spring/Core Spring"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",

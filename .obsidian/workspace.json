@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring/IoC Container.md",
+                "file": "Spring/Spring/Core Spring/Understanding Inversion of Control with Example.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring/IoC Container.md",
+                "file": "Spring/Spring/Core Spring/Understanding Inversion of Control with Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring/IoC Container.md",
+                "file": "Spring/Spring/Core Spring/Understanding Inversion of Control with Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring/IoC Container.md"
+                "file": "Spring/Spring/Core Spring/Understanding Inversion of Control with Example.md"
               }
             }
           }
@@ -158,12 +158,15 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "Spring/Spring/Core Spring/Understanding Inversion of Control with Example.md",
     "Spring/Spring/의존성 주입 (Dependency Injection).md",
+    "Spring/Spring/Core Spring/Core Spring.md",
+    "Spring/Spring/Core Spring",
     "Spring/Spring/IoC Container.md",
+    "Spring/Spring/Exception.md",
     "240123.md",
     "앞으로 공부할 것.md",
     "Spring/JPA/New Note 1.md",
-    "Spring/Spring/Exception.md",
     "Spring/New Note.md",
     "Spring/Spring/Spring.md",
     "Spring/Spring",
@@ -186,15 +189,12 @@
     "SQL/Type.md",
     "SQL/SQL.md",
     "SQL",
-    "JAVA/기사/재사용 가능한 자바 코드 작성 가이드라인 8가지.md",
-    "JAVA/기사/기사.md",
     "JAVA/기사",
     "IntelliJ",
     "Spring.canvas",
     "Spring/인프런)Spring",
     "도서",
     "TIL/2023_12",
-    "TIL",
     "Canvas.canvas"
   ]
 }
