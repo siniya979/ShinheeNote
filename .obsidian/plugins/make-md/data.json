@@ -56,10 +56,13 @@
     "//TIL/TIL/2023_12",
     "//TIL/TIL/2023_12",
     "//TIL",
-    "//Spring",
     "//Spring/Spring/Spring",
-    "//Algorithm",
-    "//Spring/Spring/Spring/Spring/Spring/Core Spring"
+    "//Spring/Spring/Spring/Spring/Spring/Core Spring",
+    "//SQL",
+    "//CICD",
+    "//SQL",
+    "//CICD",
+    "//SQL"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -76,7 +79,6 @@
     "JAVA/기사",
     "JAVA/자바의신",
     "SQL",
-    "도서",
     "Spring",
     "Spring/FastCampus",
     "Spring/JPA",
@@ -85,6 +87,7 @@
     "Spring/Spring Security",
     "Spring/인프런) 테스트",
     "Spring/인프런)Spring",
+    "도서",
     "트러블슈팅",
     "트러블슈팅/시니"
   ],

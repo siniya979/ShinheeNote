@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring/Core Spring/New Note.md",
+                "file": "SQL/New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring/Core Spring/New Note.md",
+                "file": "SQL/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring/Core Spring/New Note.md",
+                "file": "SQL/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring/Core Spring/New Note.md"
+                "file": "SQL/New Note.md"
               }
             }
           }
@@ -158,8 +158,12 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
-    "Spring/Spring/Core Spring/2. BeanFactory  vs ApplicationContext.md",
+    "SQL/Type.md",
+    "ShinheeNote.md",
+    "SQL/New Note.md",
+    "SQL/New Note 1.md",
     "Spring/Spring/Core Spring/New Note.md",
+    "Spring/Spring/Core Spring/2. BeanFactory  vs ApplicationContext.md",
     "Spring/Spring/Core Spring/1. 예제를 통한 IoC 이해하기.md",
     "Spring/Spring/의존성 주입 (Dependency Injection).md",
     "Spring/Spring/Core Spring/Core Spring.md",
@@ -183,11 +187,7 @@
     "Spring/인프런) 테스트/section 4.md",
     "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "Spring/인프런)Spring/스프링 입문.md",
-    "Spring/인프런) 테스트/인프런) 테스트.md",
-    "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
-    "Spring/인프런) 테스트/section 2_테스트코드.md",
     "Spring/인프런) 테스트",
-    "SiniNote.md",
     "SQL",
     "JAVA/기사",
     "IntelliJ",
