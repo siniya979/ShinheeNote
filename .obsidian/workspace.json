@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa45d9fdaa401cd",
+        "id": "e1092d00192cfee9",
         "type": "tabs",
         "children": [
           {
-            "id": "e5af92d26a7b43e5",
+            "id": "8628bbc8b3a65fc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/New Note.md",
+                "file": "SQL/New Note 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "e49c65dc00784e25",
+            "id": "c684d7eec15413da",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/New Note.md",
+                "file": "SQL/New Note 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/New Note.md",
+                "file": "SQL/New Note 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/New Note.md"
+                "file": "SQL/New Note 1.md"
               }
             }
           }
@@ -147,54 +147,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:마크다운 형식 가져오기 열기": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": true,
+      "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "e5af92d26a7b43e5",
+  "active": "8628bbc8b3a65fc7",
   "lastOpenFiles": [
-    "SQL/Type.md",
-    "ShinheeNote.md",
     "SQL/New Note.md",
-    "SQL/New Note 1.md",
+    "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
+    "conflict-files-obsidian-git.md",
     "Spring/Spring/Core Spring/New Note.md",
     "Spring/Spring/Core Spring/2. BeanFactory  vs ApplicationContext.md",
+    "Spring/Spring/Core Spring/Core Spring.md",
     "Spring/Spring/Core Spring/1. 예제를 통한 IoC 이해하기.md",
     "Spring/Spring/의존성 주입 (Dependency Injection).md",
-    "Spring/Spring/Core Spring/Core Spring.md",
-    "Spring/Spring/Core Spring",
+    "Spring/Spring/Spring.md",
     "Spring/Spring/IoC Container.md",
     "Spring/Spring/Exception.md",
-    "240123.md",
-    "앞으로 공부할 것.md",
-    "Spring/JPA/New Note 1.md",
-    "Spring/New Note.md",
-    "Spring/Spring/Spring.md",
+    "Spring/Spring/Core Spring",
     "Spring/Spring",
+    "Spring/New Note.md",
+    "Spring/JPA/New Note 1.md",
+    "ShinheeNote.md",
+    "SQL/New Note 1.md",
+    "240123.md",
+    "Spring/인프런) 테스트/section 2_테스트코드.md",
+    "Spring/인프런) 테스트/section 4.md",
     "파일 저장 로직 따라가기.md",
-    "conflict-files-obsidian-git.md",
-    "Spring/FastCampus/New Note.md",
     "Spring/패캠) 남궁성.md",
     "Spring/FastCampus/New Note 1.md",
-    "Spring/FastCampus/.md",
+    "Spring/FastCampus/New Note.md",
+    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+    ".md",
     "Spring/FastCampus/FastCampus.md",
     "Spring/FastCampus",
-    "Spring/인프런) 테스트/section 4.md",
-    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
-    "Spring/인프런)Spring/스프링 입문.md",
-    "Spring/인프런) 테스트",
-    "SQL",
-    "JAVA/기사",
+    "README.md",
+    "Spring/JPA/New Note.md",
     "IntelliJ",
     "Spring.canvas",
+    "SQL",
+    "JAVA/기사",
+    "Spring/인프런) 테스트",
     "Spring/인프런)Spring",
     "도서",
-    "TIL/2023_12",
     "Canvas.canvas"
   ]
 }
