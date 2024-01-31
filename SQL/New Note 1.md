@@ -8,23 +8,10 @@ FROM EMP;
 두 컬럼 데이터가 서로 연결되어 출력 
 ```SQL
 SELECT ENAME || ' s SALARY IS ' || SAL || '!' AS 월급정보
-FROM
-
+FROM EMP; 
 ```
 
 
 
 
-```SQL
-
-```
-
-
-```SQL
-
-```
-
-
-```SQL
-
-```
+## 중복 제거 
