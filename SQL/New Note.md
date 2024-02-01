@@ -6,4 +6,5 @@ select case
 	end as 'nm'
 from table
 group by;
-```
+
+
