@@ -16,6 +16,15 @@ select case
             else 'Scalene'
         end
 from triangles;
+```
 
 
 
+```sql
+
+select case when categoryid = 1 then price 
+	else null end
+from products;
+
+
+```
