@@ -75,3 +75,17 @@ FROM TEST;
 
 # LAPD / RPAD 
 
+문자 출력시 특정 철자를 N개 만큼 채워서 출력 
+```SQL
+LPAD(컬럼명, 자릿수, 대체 문자)
+RPAD(컬럼명, 자릿수, 대체 문자)
+```
+![](https://i.imgur.com/xh5BWWB.png)
+
+
+## TRIM / RTRIM / LTRIM
+
+문자 출력시 특정 철자를 잘라내어 출력
+``` SQL
+
+```
