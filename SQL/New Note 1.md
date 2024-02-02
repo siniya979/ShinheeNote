@@ -65,3 +65,13 @@ INSTR('SMITH' ,'T')
 REPLACE(컬럼명, 철자, 교체될 철자)
 ```
 
+
+```SQL
+SELECT REPLACE(ENAME, SUBSTR(ENAME, 2, 1 ), '*')
+FROM TEST;
+```
+
+이름의 두 번째 자리의 한글을 *로 변경 
+
+# LAPD / RPAD 
+
