@@ -32,3 +32,11 @@ select *
 from NLS_SESSION_PARAMETERS
 WHERE PARAMETER = 'NLS_DATE_FORMAT'
 ```
+
+
+
+# 2
+
+## UPPER, LOWER, INITCAP
+각 대문자 / 소문자/ 첫번째 철자 대문자 
+
