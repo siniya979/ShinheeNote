@@ -14,4 +14,6 @@ FROM EMP;
 
 
 
-## 중복 제거 
+
+중복제거 DISTICT / UNIQUE
+
