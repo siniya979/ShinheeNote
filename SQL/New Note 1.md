@@ -25,3 +25,10 @@ IS NULL
 > but where 절은 불가능 . 오라클 sql 실행순서가 아래와 같기 때문
 > ![](https://i.imgur.com/Pfia9PL.png)
 
+
+## 현재 세션의 날짜 형식 조회 
+```
+select *
+from NLS_SESSION_PARAMETERS
+WHERE PARAMETER = 'NLS_DATE_FORMAT'
+```
