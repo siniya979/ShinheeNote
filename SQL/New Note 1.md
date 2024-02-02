@@ -60,3 +60,8 @@ INSTR('SMITH' ,'T')
 ```
 츨략 ; 4
 
+## REPLACE 
+```SQL
+REPLACE(컬럼명, 철자, 교체될 철자)
+```
+
