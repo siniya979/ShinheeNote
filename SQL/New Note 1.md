@@ -56,5 +56,7 @@ LENGTHB : 바이트 길이 반환
 
 # INSTR
 ```SQL
-INSTR('SMITH' ,' 검색할 S')
+INSTR('SMITH' ,'T')
 ```
+츨략 ; 4
+
