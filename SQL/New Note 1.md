@@ -40,3 +40,21 @@ WHERE PARAMETER = 'NLS_DATE_FORMAT'
 ## UPPER, LOWER, INITCAP
 각 대문자 / 소문자/ 첫번째 철자 대문자 
 
+## SUBSTR
+
+```sql
+SUBSTR('문자열', 시작위치, 철자 개수)
+```
+
+# LENGTH
+문자열 길이 출력 
+```SQL
+LENGTH(컬럼명)
+```
+
+LENGTHB : 바이트 길이 반환 
+
+# INSTR
+```SQL
+INSTR('SMITH' ,' 검색할 S')
+```
