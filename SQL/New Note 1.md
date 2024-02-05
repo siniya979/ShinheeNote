@@ -120,6 +120,6 @@ RANK() OVER ( PARTITION BY JOB ORDER BY 'colNm' DESC)
 DENSE_RANK -> 순위가 중복되는 경우 다음 순위는 중복 수만큼 + 됨 즉 1 위가 2명이면 2위가 없고 3위 
 
 
-select 직업, 이름 , 월급, rank() over(order by sal desc)
+select 직업, 이름 , 월급, rank() over(patition by job order by sal desc)
 where 입사년도 = 1981 
 
