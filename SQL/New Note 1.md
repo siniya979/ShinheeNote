@@ -130,3 +130,8 @@ NULL 을 맨 아래에 출력, 해당 컬럼명을 기준으로  내림차순, �
 
 ## PIVOT
 ![](https://i.imgur.com/Us0oQuY.png)
+
+
+
+## ROLLUP
+![](https://i.imgur.com/TzIDgnz.png)
