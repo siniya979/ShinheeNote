@@ -111,3 +111,9 @@ TRUNC(123.4567, -2) -- 십의 자리에서 버림, 결과 : 100
 
 
 ![](https://i.imgur.com/c0gYK1N.png)
+
+
+## RANK() OVER ( ORDER BY 'colNm' DESC)
+RANK() OVER ( PARTITION BY JOB ORDER BY 'colNm' DESC)
+![](https://i.imgur.com/pPWR0GN.png)
+
