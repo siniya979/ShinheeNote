@@ -107,3 +107,7 @@ TRUNC(123.4567, -2) -- 십의 자리에서 버림, 결과 : 100
 
 
 ## MONTH-BETWEEN /ADD-MONTHS
+
+
+
+![](https://i.imgur.com/c0gYK1N.png)

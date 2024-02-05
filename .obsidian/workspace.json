@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/New Note.md",
+                "file": "SQL/New Note 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/New Note.md",
+                "file": "SQL/New Note 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/New Note.md",
+                "file": "SQL/New Note 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/New Note.md"
+                "file": "SQL/New Note 1.md"
               }
             }
           }
@@ -158,8 +158,8 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
-    "SQL/New Note 1.md",
     "SQL/New Note.md",
+    "SQL/New Note 1.md",
     "SQL/Type.md",
     "ShinheeNote.md",
     "Spring/Spring/Core Spring/New Note.md",
