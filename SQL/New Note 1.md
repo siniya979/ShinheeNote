@@ -123,3 +123,8 @@ DENSE_RANK -> 순위가 중복되는 경우 다음 순위는 중복 수만큼 + 
 select 직업, 이름 , 월급, rank() over(patition by job order by sal desc)
 where 입사년도 = 1981 
 
+# NTILE(등급 개수) OVER( ORDER BY 'colNm' DESC NULLS LAST)
+NULL 을 맨 아래에 출력, 해당 컬럼명을 기준으로  내림차순, 데이터를 등급 개수에 맞게 등급 정해줌 
+
+
+
