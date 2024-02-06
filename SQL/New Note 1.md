@@ -146,3 +146,9 @@ NULL 을 맨 아래에 출력, 해당 컬럼명을 기준으로  내림차순, �
 
 
 DML = INSERT, DELETE, MERGE, UPDATE
+
+
+![](https://i.imgur.com/3zKu0R3.png)
+
+## DDL ( Data Definition Language)
+CREATE / ALTER / DROP / TRUNCATE/ RENAME
