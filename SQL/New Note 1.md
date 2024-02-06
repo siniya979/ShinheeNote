@@ -152,3 +152,8 @@ DML = INSERT, DELETE, MERGE, UPDATE
 
 ## DDL ( Data Definition Language)
 CREATE / ALTER / DROP / TRUNCATE/ RENAME
+
+
+
+
+![](https://i.imgur.com/dv7FRnk.png)
