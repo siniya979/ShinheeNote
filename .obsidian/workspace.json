@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "JSP/무작정 JSP 분석.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "JSP/무작정 JSP 분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "JSP/무작정 JSP 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md"
+                "file": "JSP/무작정 JSP 분석.md"
               }
             }
           }
@@ -158,6 +158,11 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "JSP/무작정 JSP 분석.md",
+    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+    "JSP/JSP.md",
+    "JSP",
+    "New Note.md",
     "Spring/인프런) 테스트/section 4.md",
     "Spring/FastCampus/New Note.md",
     "Spring/FastCampus/New Note 1.md",
@@ -182,11 +187,7 @@
     "Spring/JPA/New Note 1.md",
     "Spring/Spring/Spring.md",
     "Spring/Spring",
-    "conflict-files-obsidian-git.md",
-    "Spring/FastCampus/.md",
-    "Spring/FastCampus/FastCampus.md",
     "Spring/FastCampus",
-    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "Spring/인프런) 테스트",
     "SQL",
     "JAVA/기사",
@@ -194,7 +195,6 @@
     "Spring.canvas",
     "Spring/인프런)Spring",
     "도서",
-    "TIL/2023_12",
     "Canvas.canvas"
   ]
 }
