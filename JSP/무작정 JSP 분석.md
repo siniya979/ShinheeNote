@@ -40,3 +40,11 @@ action : 폼 데이터를 전송할 대상. 주로 서버 측 프로그램의 ur
 - `name` : 폼 데이터를 서버로 전송할 때 사용될 변수명 정의 
 - `value` : `<c:out>`은 JSP의 표현언어(EL, Expression Language)를 사용하여 서버측 데이터를 출력하는 데 사용. `${sample.test}`는 서버 측의 sample 객체에서 test1 변수의 값을 가져오는 역할
 
+```html
+<div class="selectbox_wrap">
+	<select class="selectbox" id="region" onChange="doChangeArea(this.value)">
+		<option value="01" <c:if test="${gaspayMgt.gaspayArea == '01'}"> selected</c:if>>서울</option>
+		<option value="02" <c:if test="${gaspayMgt.gaspayArea == '02'}"> selected</c:if>>경기</option>
+	</select>
+</div>
+```
