@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/무작정 JSP 분석.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/무작정 JSP 분석.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/무작정 JSP 분석.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/무작정 JSP 분석.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,6 +158,7 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "240123.md",
     "JSP/무작정 JSP 분석.md",
     "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "JSP/JSP.md",
@@ -169,7 +170,6 @@
     "Spring/New Note.md",
     "Spring/패캠) 남궁성.md",
     "앞으로 공부할 것.md",
-    "240123.md",
     "ShinheeNote.md",
     "파일 저장 로직 따라가기.md",
     "도서/객체 지향의 사실과 오해.md",
