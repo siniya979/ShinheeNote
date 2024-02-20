@@ -29,6 +29,13 @@ method : 폼 데이터를 서버로 전송할 때 사용할 HTTP 메소드 ( GET
 action : 폼 데이터를 전송할 대상. 주로 서버 측 프로그램의 url 이나 다른 리소스 url. 클라이언트가 폼 제출시 이 url 로 이동하거나 해당 url 로 post 또는 get 요청 
 
 ```html
-<input type="hidden" id="" name=""  value=""/>
+<input type="hidden" id="" name=""  value="<c:out value='${sample.test1}'/>"/>
 ```
 
+- `<input>` : 폼 요소 생성  
+	- `type` :  `text` `password` `checkbox` `radio` `submit` `button` `file` `hidden`
+	- `hidden` : 사용자에게 표시되지 않는 숨겨진 필드. 서버로 데이터 전송하거나 데이터 저장할 수 있음 
+
+- `id` : input 고유 식별자 
+- `name` : 폼 데이터를 서버로 전송할 때 사용될 변수명 정의 
+- `value` : `<c:out>`은 JSP의 표현언어(EL, Expression Language)를 사용하여 서버측 데이터를 출력하는 데 사용. `${sample.test}`는 서버 측의 sample 객체에서 test1 변수의 값을 가져오는 역할
