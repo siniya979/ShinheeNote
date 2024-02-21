@@ -13,7 +13,7 @@
 ```
 
 > `content = "width=device-width, initial-scale=1" `
-> 너비를 디바이스 너비 만큼
+> 너비를 디바이스 너비 만큼(동적 조정), 초기회면 배율 1 
 
 
 ```html
@@ -22,7 +22,10 @@
     헤더 삽입부
     <hr>
 </header>
+```
+임시 
 
+```html
 <main class="container">
 
     <div class="row">
@@ -61,7 +64,9 @@
             </div>
         </div>
     </div>
+```
 
+``` html
     <table class="table" id="article-table">
         <thead>
         <tr>
