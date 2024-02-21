@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQLD.md",
+                "file": "Thymeleaf/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQLD.md",
+                "file": "Thymeleaf/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQLD.md",
+                "file": "Thymeleaf/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQLD.md"
+                "file": "Thymeleaf/1.md"
               }
             }
           }
@@ -158,13 +158,14 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "Thymeleaf/무작정 JSP 분석.md",
+    "Thymeleaf/1.md",
     "SQL/SQLD.md",
     "README.md",
     "240123.md",
-    "JSP/무작정 JSP 분석.md",
     "Spring/인프런) 테스트/section1 _ 이론 수업.md",
-    "JSP/JSP.md",
-    "JSP",
+    "Thymeleaf/Thymeleaf.md",
+    "Thymeleaf",
     "New Note.md",
     "Spring/인프런) 테스트/section 4.md",
     "Spring/FastCampus/New Note.md",
@@ -185,7 +186,6 @@
     "Spring/Spring/Core Spring/Core Spring.md",
     "Spring/Spring/Core Spring",
     "Spring/Spring/IoC Container.md",
-    "Spring/Spring/Exception.md",
     "Spring/Spring",
     "Spring/FastCampus",
     "Spring/인프런) 테스트",

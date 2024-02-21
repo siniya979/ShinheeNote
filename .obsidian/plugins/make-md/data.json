@@ -58,7 +58,9 @@
     "//TIL",
     "//Spring/Spring/FastCampus",
     "//Spring/Spring/인프런) 테스트",
-    "//SQL"
+    "//SQL",
+    "//JSP",
+    "//Thymeleaf"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -74,7 +76,6 @@
     "JAVA/java",
     "JAVA/기사",
     "JAVA/자바의신",
-    "JSP",
     "Spring",
     "Spring/FastCampus",
     "Spring/Spring",
@@ -86,7 +87,8 @@
     "SQL",
     "도서",
     "트러블슈팅",
-    "트러블슈팅/시니"
+    "트러블슈팅/시니",
+    "Thymeleaf"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
