@@ -1,3 +1,23 @@
+#  ThymeleafConfig
+```java
+@Configuration
+public class ThymeleafConfig {
+
+    @Bean
+    public SpringResourceTemplateResolver thymeleafTemplateResolver(
+            SpringResourceTemplateResolver defaultTemplateResolver,
+            Thymeleaf3Properties thymeleaf3Properties) {
+        defaultTemplateResolver.setUseDecoupledLogic(thymeleaf3Properties.decoupledLogic());
+
+        return defaultTemplateResolver;
+    }
+
+    // 사용자 정의 디펜던시
+    @ConfigurationProperties("spring.thymeleaf3")
+    public record Thymeleaf3Properties(boolean decoupledLogic) {}
+}
+```
+
 # Index.html
 
 ```html
