@@ -129,10 +129,13 @@
 
 > `thlogic` : 타임리프 가장 상위 레벨에 위치, html 의 `<body>`와 유사한 역할, 시작과 끝 정의 
 > `attr` : attribute 즉 html 속성을 조작하거나 설정. 
-> `sel` : 선택자(selector) , 특정 html 요소 선택, 해당 요소에 대한 
+> `sel` : 선택자(selector) , 특정 html 요소 선택, 해당 요소에 대한 타임리프 속성 적용하는데 사용. css 선택자와 유사한 형태.  
+> `th:replace` : 해당 요소를 다른 템플릿으로 대체(replace) 하는데 사용한다. 
 
 
-```
+
+
+
 
 ``` html
     <attr sel="#article-table">
