@@ -149,7 +149,14 @@
     ```
 
 > ` th:remove="all-but-first"` : tbody 에서 첫 번째 요소를 제외한 모든 요소(행)를 제거. 
-> 즉, index.html 에서 구조를 위해 임의로 하드 코딩 해둔 부분을 삭제한다는 뜻. 
+> 	즉, index.html 에서 구조를 위해 임의로 하드 코딩 해둔 부분을 삭제한다는 뜻. 
+> `tr[0]` : tr 의 첫 요소부터 시작 
+> `th:each` : 타임리프의 반복문. articles 라는 컬렉션의 각 요소를 반복하며 article 이라는 변수에 할당. 
+> `sel="td.title/a"` : `<td class="title"><a>첫글</a></td>`  a 마크 다운 선택 
+> `th:text="${article.title}"` : th 의 text 요소에 article 의 title 데이터를 할당. 
+> `th:href="@{'/articles/' + ${article.id}}"` : href _ 링크 독적 생성 
+> 	 
+> 
 
 ``` html
     <attr sel="#pagination">
