@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thymeleaf/1.md",
+                "file": "Spring/FastCampus/10개의 백엔드 프로젝트/New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thymeleaf/1.md",
+                "file": "Spring/FastCampus/10개의 백엔드 프로젝트/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thymeleaf/1.md",
+                "file": "Spring/FastCampus/10개의 백엔드 프로젝트/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thymeleaf/1.md"
+                "file": "Spring/FastCampus/10개의 백엔드 프로젝트/New Note.md"
               }
             }
           }
@@ -158,8 +158,13 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
-    "Thymeleaf/무작정 JSP 분석.md",
+    "Spring/FastCampus/10개의 백엔드 프로젝트/1 번째.md",
+    "Spring/FastCampus/10개의 백엔드 프로젝트/New Note.md",
+    "Spring/FastCampus/New Note 1.md",
+    "Spring/FastCampus/10개의 백엔드 프로젝트/10개의 백엔드 프로젝트.md",
+    "Spring/FastCampus/10개의 백엔드 프로젝트",
     "Thymeleaf/1.md",
+    "Thymeleaf/무작정 JSP 분석.md",
     "SQL/SQLD.md",
     "README.md",
     "240123.md",
@@ -168,8 +173,6 @@
     "Thymeleaf",
     "New Note.md",
     "Spring/인프런) 테스트/section 4.md",
-    "Spring/FastCampus/New Note.md",
-    "Spring/FastCampus/New Note 1.md",
     "Spring/New Note.md",
     "Spring/패캠) 남궁성.md",
     "앞으로 공부할 것.md",
@@ -183,9 +186,7 @@
     "Spring/Spring/Core Spring/2. BeanFactory  vs ApplicationContext.md",
     "Spring/Spring/Core Spring/1. 예제를 통한 IoC 이해하기.md",
     "Spring/Spring/의존성 주입 (Dependency Injection).md",
-    "Spring/Spring/Core Spring/Core Spring.md",
     "Spring/Spring/Core Spring",
-    "Spring/Spring/IoC Container.md",
     "Spring/Spring",
     "Spring/FastCampus",
     "Spring/인프런) 테스트",
@@ -194,7 +195,6 @@
     "IntelliJ",
     "Spring.canvas",
     "Spring/인프런)Spring",
-    "도서",
     "Canvas.canvas"
   ]
 }
