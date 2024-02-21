@@ -1,14 +1,15 @@
 #  ThymeleafConfig
+
 ```java
 @Configuration
 public class ThymeleafConfig {
 
     @Bean
     public SpringResourceTemplateResolver thymeleafTemplateResolver(
-            SpringResourceTemplateResolver defaultTemplateResolver,
-            Thymeleaf3Properties thymeleaf3Properties) {
+		            SpringResourceTemplateResolver defaultTemplateResolver,
+		            Thymeleaf3Properties thymeleaf3Properties) {
+		            
         defaultTemplateResolver.setUseDecoupledLogic(thymeleaf3Properties.decoupledLogic());
-
         return defaultTemplateResolver;
     }
 
@@ -18,6 +19,9 @@ public class ThymeleafConfig {
 }
 ```
 
+> 1. thymeleafTemplateResolver 빈으로 등록 
+> 2. Thymeleaf 템플릿 리졸버를 생성하고 설정합니다. 이 리졸버는 Thymeleaf에서 템플릿 파일을 찾고 해석하는 역할
+> 3.  `Thymeleaf3Properties`:  Thymeleaf 관련 프로퍼티를 정의
 # Index.html
 
 ```html
@@ -209,5 +213,7 @@ public class ThymeleafConfig {
 > 	이전 페이지 링크의 주소를 설정한다. `${articles.number - 1}`는 현재 페이지 번호에서 1을 뺀 값
 > `th:class="'page-link' + (${articles.number} <= 0 ? ' disabled' `: 
 > 	 이전 페이지 링크의 클래스를 설정, 현재 페이지 번호가 0보다 작거나 같은 경우 `disabled` (비활성화)
+
+
 
 
