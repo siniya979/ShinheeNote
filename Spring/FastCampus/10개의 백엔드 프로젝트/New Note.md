@@ -117,3 +117,53 @@
 </body>
 </html>
 ```
+
+# index.th.xml
+
+``` html
+<?xml version="1.0"?>
+<thlogic>
+    <attr sel = "#header" th:replace = "header :: header" />
+    <attr sel = "#footer" th:replace = "footer :: footer" />
+```
+
+> `thlogic` : 타임리프 가장 상위 레벨에 위치, html 의 `<body>`와 유사한 역할, 시작과 끝 정의 
+> `attr` : attribute 즉 html 속성을 조작하거나 설정. 
+> `sel` : 선택자(selector) , 특정 html 요소 선택, 해당 요소에 대한 
+
+
+```
+
+``` html
+    <attr sel="#article-table">
+        <attr sel="tbody" th:remove="all-but-first">
+            <attr sel="tr[0]" th:each="article : ${articles}">
+                <attr sel="td.title/a" th:text="${article.title}" th:href="@{'/articles/' + ${article.id}}" />
+                <attr sel="td.hashtag" th:text="${article.hashtag}" />
+                <attr sel="td.user-id" th:text="${article.nickname}" />
+                <attr sel="td.created-at/time" th:datetime="${article.createdAt}" th:text="${#temporals.format(article.createdAt, 'yyyy-MM-dd')}" />
+            </attr>
+        </attr>
+    </attr>
+
+    <attr sel="#pagination">
+        <attr sel="li[0]/a"
+              th:text="'previous'"
+              th:href="@{/articles(page=${articles.number - 1})}"
+              th:class="'page-link' + (${articles.number} <= 0 ? ' disabled' : '')"
+        />
+        <attr sel="li[1]" th:class="page-item" th:each="pageNumber : ${paginationBarNumbers}">
+            <attr sel="a"
+                  th:text="${pageNumber + 1}"
+                  th:href="@{/articles(page=${pageNumber})}"
+                  th:class="'page-link' + (${pageNumber} == ${articles.number} ? ' disabled' : '')"
+            />
+        </attr>
+        <attr sel="li[2]/a"
+              th:text="'next'"
+              th:href="@{/articles(page=${articles.number + 1})}"
+              th:class="'page-link' + (${articles.number} >= ${articles.totalPages - 1} ? ' disabled' : '')"
+        />
+    </attr>
+</thlogic>
+```
