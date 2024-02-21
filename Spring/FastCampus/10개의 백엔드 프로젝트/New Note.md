@@ -132,9 +132,7 @@
 > `sel` : 선택자(selector) , 특정 html 요소 선택, 해당 요소에 대한 타임리프 속성 적용하는데 사용. css 선택자와 유사한 형태.  
 > `th:replace` : 해당 요소를 다른 템플릿으로 대체(replace) 하는데 사용한다. 
 
-
-
-
+즉, html 에서 `header` 라는 id 를 가진 요소를 선택하여 header 템플릿으로 대체한다. footer 로 마찬가지
 
 
 ``` html
