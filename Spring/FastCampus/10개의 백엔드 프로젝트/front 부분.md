@@ -155,9 +155,10 @@
 > `sel="td.title/a"` : `<td class="title"><a>첫글</a></td>`  a 마크 다운 선택 
 > `th:text="${article.title}"` : th 의 text 요소에 article 의 title 데이터를 할당. 
 > `th:href="@{'/articles/' + ${article.id}}"` : href _ 링크 독적 생성 
-> 	 
+> 	 `@{...}` 는 url 표현식이다. 
+> 	`/articles/`: 기본 URL 경로
+> 	`${article.id}`: 현재 반복되고 있는 `article` 객체의 `id` 속성값
 > 
-
 ``` html
     <attr sel="#pagination">
         <attr sel="li[0]/a"
@@ -180,3 +181,8 @@
     </attr>
 </thlogic>
 ```
+
+> 페이지 네이션을 위한 부분 
+> 
+> `<attr sel="li[0]/a" ...>` : 첫 번째 `<li>` 요소를 선택
+> `th:href="@{/articles(page=${articles.number - 1})}"`
