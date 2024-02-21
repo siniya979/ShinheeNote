@@ -186,3 +186,8 @@
 > 
 > `<attr sel="li[0]/a" ...>` : 첫 번째 `<li>` 요소를 선택
 > `th:href="@{/articles(page=${articles.number - 1})}"`
+> 	이전 페이지 링크의 주소를 설정한다. `${articles.number - 1}`는 현재 페이지 번호에서 1을 뺀 값
+> `th:class="'page-link' + (${articles.number} <= 0 ? ' disabled' `: 
+> 	 이전 페이지 링크의 클래스를 설정, 현재 페이지 번호가 0보다 작거나 같은 경우 `disabled` (비활성화)
+
+
