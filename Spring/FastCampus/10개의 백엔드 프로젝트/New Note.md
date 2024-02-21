@@ -148,6 +148,8 @@
     </attr>
     ```
 
+> ` th:remove="all-but-first"` : tbody 에서 첫 번째 요소를 제외한 모든 요소(행)를 제거. 
+> 즉, index.html 에서 구조를 위해 임의로 하드 코딩 해둔 부분을 삭제한다는 뜻. 
 
 ``` html
     <attr sel="#pagination">
