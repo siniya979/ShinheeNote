@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
+                "file": "Spring/인프런) 테스트/section 2_테스트코드.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
+                "file": "Spring/인프런) 테스트/section 2_테스트코드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
+                "file": "Spring/인프런) 테스트/section 2_테스트코드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md"
+                "file": "Spring/인프런) 테스트/section 2_테스트코드.md"
               }
             }
           }
@@ -158,6 +158,8 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "Spring/인프런) 테스트/section 4.md",
+    "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
     "Spring/인프런) 테스트/section 2_테스트코드.md",
     "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트/1 번째.md",
@@ -173,7 +175,6 @@
     "Thymeleaf/Thymeleaf.md",
     "Thymeleaf",
     "New Note.md",
-    "Spring/인프런) 테스트/section 4.md",
     "Spring/New Note.md",
     "Spring/패캠) 남궁성.md",
     "앞으로 공부할 것.md",
@@ -185,7 +186,6 @@
     "SQL/Type.md",
     "Spring/Spring/Core Spring/New Note.md",
     "Spring/Spring/Core Spring/2. BeanFactory  vs ApplicationContext.md",
-    "Spring/Spring/Core Spring/1. 예제를 통한 IoC 이해하기.md",
     "Spring/Spring/Core Spring",
     "Spring/Spring",
     "Spring/FastCampus",
