@@ -79,3 +79,52 @@ JPA BUDDY  플러그인 활용버
 
 
 # Entitiy 와 DTO
+
+## ArticleCommentDto
+``` JAVA
+public record ArticleCommentDto(
+        Long id,
+        Long articleId,
+        UserAccountDto userAccountDto,
+        String content,
+        LocalDateTime createdAt,
+        String createdBy,
+        LocalDateTime modifiedAt,
+        String modifiedBy
+) {
+    public static ArticleCommentDto of(Long id,
+                                       Long articleId,
+                                       UserAccountDto userAccountDto,
+                                       String content,
+                                       LocalDateTime createdAt,
+                                       String createdBy,
+                                       LocalDateTime modifiedAt,
+                                       String modifiedBy){
+        return new ArticleCommentDto(id, articleId, userAccountDto, content, createdAt, createdBy, modifiedAt, modifiedBy);
+    }
+
+    public static ArticleCommentDto from(ArticleComment entity){
+        return new ArticleCommentDto(
+                entity.getId(),
+                entity.getArticle().getId(),
+                UserAccountDto.from(entity.getUserAccount()),
+                entity.getContent(),
+                entity.getCreatedAt(),
+                entity.getCreatedBy(),
+                entity.getModifiedAt(),
+                entity.getModifiedBy()
+        );
+    }
+
+    public ArticleComment toEntity(Article entity){
+        return ArticleComment.of(
+                entity,
+                userAccountDto.toEntity(),
+                content
+        );
+    }
+}
+```
+
+-  DTO 는 RECORD 로 선언했다. Record 의 필드는 모두 private final 로 선언된다. 
+- Entity가 아니라 DTO 에서 엔티티 -> DTO 로 변경하느
