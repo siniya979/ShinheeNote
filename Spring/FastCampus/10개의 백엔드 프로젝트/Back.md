@@ -77,3 +77,5 @@ JPA BUDDY  플러그인 활용버
 
 기본 CRUD 작업에 대한 엔드포인트 자동생성. 컨트롤러 없이 API 요청이 가능 
 
+
+# Entitiy 와 DTO
