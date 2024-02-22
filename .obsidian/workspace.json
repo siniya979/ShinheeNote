@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/java/Thread 쓰레드.md",
+                "file": "JAVA/java/New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/java/Thread 쓰레드.md",
+                "file": "JAVA/java/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/java/Thread 쓰레드.md",
+                "file": "JAVA/java/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/java/Thread 쓰레드.md"
+                "file": "JAVA/java/New Note.md"
               }
             }
           }
@@ -158,8 +158,9 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
-    "JAVA/자바의신/자바의 신 2권 요약.md",
     "JAVA/java/Thread 쓰레드.md",
+    "JAVA/java/New Note.md",
+    "JAVA/자바의신/자바의 신 2권 요약.md",
     "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
     "JAVA/java/서블릿.md",
     "JAVA/java/디자인 패턴.md",
@@ -185,7 +186,6 @@
     "New Note.md",
     "Spring/New Note.md",
     "Spring/패캠) 남궁성.md",
-    "ShinheeNote.md",
     "Spring/Spring/Core Spring",
     "Spring/Spring",
     "Spring/FastCampus",
