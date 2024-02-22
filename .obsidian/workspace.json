@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#FF0000",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,16 +156,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e5af92d26a7b43e5",
+  "active": "f702db24645f9d87",
   "lastOpenFiles": [
     "JAVA/java/람다, 스트림, 익명클래스.md",
+    "JAVA/java/GC.md",
     "JAVA/java/Thread 쓰레드.md",
     "JAVA/자바의신/자바의 신 2권 요약.md",
     "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
     "JAVA/java/서블릿.md",
     "JAVA/java/디자인 패턴.md",
     "JAVA/java/Date vs LocalDateTime.md",
-    "JAVA/java/GC.md",
     "앞으로 공부할 것.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트/Back.md",
     "Spring/인프런) 테스트/section 4.md",
