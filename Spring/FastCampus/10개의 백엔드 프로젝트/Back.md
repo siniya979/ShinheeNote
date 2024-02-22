@@ -80,35 +80,31 @@ JPA BUDDY  플러그인 활용버
 
 # Entitiy 와 DTO
 
-## ArticleCommentDto
+## ArticleDto
 ``` JAVA
-public record ArticleCommentDto(
+public record ArticleDto(
         Long id,
-        Long articleId,
         UserAccountDto userAccountDto,
+        String title,
         String content,
+        String hashtag,
         LocalDateTime createdAt,
         String createdBy,
         LocalDateTime modifiedAt,
         String modifiedBy
 ) {
-    public static ArticleCommentDto of(Long id,
-                                       Long articleId,
-                                       UserAccountDto userAccountDto,
-                                       String content,
-                                       LocalDateTime createdAt,
-                                       String createdBy,
-                                       LocalDateTime modifiedAt,
-                                       String modifiedBy){
-        return new ArticleCommentDto(id, articleId, userAccountDto, content, createdAt, createdBy, modifiedAt, modifiedBy);
+    public static ArticleDto of(Long id, UserAccountDto userAccountDto, String title, String content,
+                                String hashtag,LocalDateTime createdAt, String createdBy, LocalDateTime modifiedAt, String modifiedBy) {
+        return new ArticleDto(id, userAccountDto, title, content, hashtag,createdAt, createdBy, modifiedAt, modifiedBy);
     }
 
-    public static ArticleCommentDto from(ArticleComment entity){
-        return new ArticleCommentDto(
+    public static ArticleDto from(Article entity){
+        return new ArticleDto(
                 entity.getId(),
-                entity.getArticle().getId(),
                 UserAccountDto.from(entity.getUserAccount()),
+                entity.getTitle(),
                 entity.getContent(),
+                entity.getHashtag(),
                 entity.getCreatedAt(),
                 entity.getCreatedBy(),
                 entity.getModifiedAt(),
@@ -116,15 +112,16 @@ public record ArticleCommentDto(
         );
     }
 
-    public ArticleComment toEntity(Article entity){
-        return ArticleComment.of(
-                entity,
+    public Article toEntity(){
+        return Article.of(
                 userAccountDto.toEntity(),
-                content
+                title,
+                content,
+                hashtag
         );
     }
 }
 ```
 
 -  DTO 는 RECORD 로 선언했다. Record 의 필드는 모두 private final 로 선언된다. 
-- Entity가 아니라 DTO 에서 엔티티 -> DTO 로 변경하느
+- Entity가 아니라 DTO 에서 엔티티 -> DTO 로 변경, DTO 에서 -> Entity 로 변경하는 메서드가 있다. 
