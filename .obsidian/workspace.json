@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQLD.md",
+                "file": "쿠키와 세션.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQLD.md",
+                "file": "쿠키와 세션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQLD.md",
+                "file": "쿠키와 세션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQLD.md"
+                "file": "쿠키와 세션.md"
               }
             }
           }
@@ -158,6 +158,8 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "쿠키와 세션.md",
+    "SQL/SQLD.md",
     "JAVA/java/GC.md",
     "JAVA/java/람다, 스트림, 익명클래스.md",
     "JAVA/java/Thread 쓰레드.md",
@@ -178,12 +180,10 @@
     "Spring/FastCampus/10개의 백엔드 프로젝트",
     "Thymeleaf/1.md",
     "Thymeleaf/무작정 JSP 분석.md",
-    "SQL/SQLD.md",
     "README.md",
     "240123.md",
     "Thymeleaf/Thymeleaf.md",
     "Thymeleaf",
-    "New Note.md",
     "Spring/New Note.md",
     "Spring/패캠) 남궁성.md",
     "Spring/Spring/Core Spring",
