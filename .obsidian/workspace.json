@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "Spring/Spring/의존성 주입 (Dependency Injection).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "Spring/Spring/의존성 주입 (Dependency Injection).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "Spring/Spring/의존성 주입 (Dependency Injection).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md"
+                "file": "Spring/Spring/의존성 주입 (Dependency Injection).md"
               }
             }
           }
@@ -158,6 +158,10 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "Spring/Spring/IoC Container.md",
+    "Spring/Spring/의존성 주입 (Dependency Injection).md",
+    "Spring/Spring/Exception.md",
+    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "쿠키와 세션.md",
     "SQL/SQLD.md",
     "JAVA/java/GC.md",
@@ -174,7 +178,6 @@
     "Spring/FastCampus/10개의 백엔드 프로젝트/front _ 타임리프.md",
     "Spring/인프런) 테스트/section 2_테스트코드.md",
     "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
-    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "Spring/FastCampus/New Note 1.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트/10개의 백엔드 프로젝트.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트",
@@ -182,10 +185,7 @@
     "Thymeleaf/무작정 JSP 분석.md",
     "README.md",
     "240123.md",
-    "Thymeleaf/Thymeleaf.md",
     "Thymeleaf",
-    "Spring/New Note.md",
-    "Spring/패캠) 남궁성.md",
     "Spring/Spring/Core Spring",
     "Spring/Spring",
     "Spring/FastCampus",
