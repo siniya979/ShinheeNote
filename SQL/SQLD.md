@@ -1,5 +1,4 @@
 # 다차원 집계 
-
 ```SQL
 CREATE TABLE Sales (
     Region VARCHAR(50),
@@ -79,3 +78,11 @@ NULL    | Brazil    | 170
 NULL    | Argentina | 210
 NULL    | NULL      | 880
 ```
+
+
+# 집합 연산자
+
+UNION : 합집합
+UNION ALL : 합집한 + 중복 허용 
+INTERSECT : 교집합 
+EXCEPT (=MINUS): 앞 결과 - 뒤 결과 
