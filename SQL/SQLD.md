@@ -412,4 +412,5 @@ TOP N 쿼리
 ![](https://i.imgur.com/oEMoX6F.png)
 
 
-11- 
+cube, rollup, grouping sets 공부하기 
+
