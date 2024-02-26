@@ -211,6 +211,8 @@ LEVEL 1에서 진입하기 전에 정렬을 한 후 정렬한 결과의 첫 번�
 
 
 기타
+![](https://i.imgur.com/JX7oQtW.png)
+
 DML ; select, delete, update, insert
 DDL : create, drop, alter, rename
 DCL : grant(권한 부여), revoke (권한 취소)
