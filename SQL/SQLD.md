@@ -237,6 +237,9 @@ ALTER TABLE Employees ADD COLUMN Age INT;
 ALTER TABLE Employees MODIFY COLUMN Name VARCHAR(100) DEFAULT 'SAMPLE'; 
 ALTER TABLE Employees DROP COLUMN Department;
 
+ALTER TABLE Employees DROP CONSTRAINT PK_Employees; -- 제약 조건 삭제 
+ALTER TABLE Employees ADD CONSTRAINT PK_Employees PRIMARY KEY (Employee_ID); -- 제약 조건 추가 
+
 DROP OBJECT_TYPE OBJECT_NAME;
 DROP TABLE Employees;
 
@@ -248,6 +251,14 @@ RENAME PLAYER TO PLAYER_BACKUP;
 ```
 
 `DROP` `TRUNCATE` 의 차이는 DROP 은 테이블(객체)를 삭제하고, TRUNCATE 는 테이블의 모든 데이터를 삭제하고 구조는 유지된다. 
+
+DDL 명령어의 경우 실행시 AUTO COMMIT, DML 은 COMMIT 입력 해야 한다. 
+
+```SQL
+INSERT INTO 테이블명(컬럼명) VALUES('입력값');
+UPDATE 테이블명 SET 컬럼명 = '입력값';
+DELETE FROM 테이블명;
+```
 
 
 테이블 
