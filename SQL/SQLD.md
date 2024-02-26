@@ -103,6 +103,8 @@ CONNECT BY PRIOR 부모 컬럼 = 자식 컬럼 : 자식 → 부모 역방향 전
 
 ORDER SIBLINGS : 계층형 쿼리에서 정렬을 수행합니다.
 
+LEVEL : ROOT 의 레밸은 1 
+
 
 ```sql
 select parent_c as p, child_c as c from t1;
@@ -331,6 +333,11 @@ WITH TIES : 랭킹이 같은 경우도 포함
 
 - Natural join  : 두 테이블 간 동일한 이름을 갖는 모든 칼럼들에 대해 EQUI JOIN 수행
   BUT WEHRE 절에서 JOIN 조건을 정의 못함. (USING, ON 사용 X ), SQL SERVER 에서 지원 X 
+- USING 조건절 : ALIAS 사용 불가, SQL SERVER 지원 X 
+
+
+OUTER JOIN 
+- (+) 안 붙은 쪽으로 JOIN ,즉 안 붙은 쪽이 기준 
 
 일반 집합 연산자
 - UNION : 합집합 (중복행 1개로)
@@ -352,6 +359,17 @@ SELECT deptNo FROM emp;
 
 
 
+
+
+
+뷰 사용 장점 
+독립성, 편리성, 보안성 
+
+```SQL
+CREATE VIEW V_EMPLOYEE AS 쿼리 ...;
+
+DROP VIEW V_EMPLOYEE;
+```
 
 # PIVOT ,UNPIVOT 
 TOP N 쿼리 
