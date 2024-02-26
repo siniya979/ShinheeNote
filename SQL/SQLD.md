@@ -414,3 +414,28 @@ TOP N 쿼리
 
 cube, rollup, grouping sets 공부하기 
 
+# 문제 풀이 
+
+
+**SELECT NVL(COUNT(*), 9999) FROM TABLE WHERE 1 = 2 의 결과값은?** 
+답 : 0 
+집계 함수에서 COUNT(*) 함수는 조건절이 거짓일 때 0을 반환한다.
+
+
+```sql
+인덱스 생성 / 삭제 구문
+-- 생성 
+CREATE INDEX 인덱스명   ON 테이블명 ( 속성명 , 속성명,…) 
+
+-- 삭제
+DROP INDEX 인덱스명   ON 테이블명
+
+-- 수정 
+인덱스 삭제 후 다시 만들어주는 방법을 사용해야 한다
+
+-- 인덱스 조회
+SELECT 테이블명, 인덱스명, 컬럼명 
+FROM ALL_IND_COLUMNS 
+WHERE TABLE_NAME = '테이블명';
+```
+
