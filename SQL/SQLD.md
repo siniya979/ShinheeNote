@@ -104,3 +104,47 @@ CONNECT BY PRIOR 부모 컬럼 = 자식 컬럼 : 자식 → 부모 역방향 전
 ORDER SIBLINGS : 계층형 쿼리에서 정렬을 수행합니다.
 
 
+```sql
+select parent_c as p, child_c as c from t1;
+```
+
+
+```sql
+P  C
+-- --
+a  b
+b  c
+a  c
+c  d
+c  e
+e  f
+```
+
+**[부모→자식 순방향 전개 계층형 쿼리 예제]**
+
+```sql
+select parent_c as p, child_c as c, level 
+from t1
+start with parent_c = 'a'
+connect by prior child_c = parent_c;
+```
+
+```sql
+P  C       LEVEL
+-- -- ----------
+a  b           1 <- 첫번째 부모행을 시작으로 자식 탐색
+b  c           2
+c  d           3
+c  e           3
+e  f           4 <- 첫번째 부모행의 자식 탐색 종료
+a  c           1 <- 두번째 부모행의 자식 탐색 시작
+c  d           2
+c  e           2
+e  f           3 <- 두번째 부모행의 자식 탐색 종료
+```
+
+**[실행 결과 해석]**
+
+LEVEL을 보면 첫 번째 최상위 부모 행을 찾으면 자식이 없을 때까지 계속 타고 들어갔다가 마지막까지 탐색 후 두 번째 최상위 부모 행의 자식을 탐색합니다.
+
+
