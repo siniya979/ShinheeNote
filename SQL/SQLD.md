@@ -301,4 +301,10 @@ NULL 관련 함수
 - NULLIF(표현식1, 표현식2) : 표현식1 == 표현식2 면, NULL 아니면 표현식1 리턴 
 - COALESCE(표현식1, 표현식2, ....) : NULL 이 아닌 최초 표현식 나타낸다. 모든 표현식이 NULL 이면 NULL 리턴
 
+다중행 집계 함수
+- COUNT(*) : NULL 집계
+- COUNT(표현식) : NULL 제외 
 
+
+
+PIVOT ,UNPI
