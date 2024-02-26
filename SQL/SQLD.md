@@ -207,6 +207,8 @@ LEVEL 1에서 진입하기 전에 정렬을 한 후 정렬한 결과의 첫 번�
 
 
 
+
+기타
 DML ; select, delete, update, insert
 DDL : create, drop, alter, rename
 DCL : grant(권한 부여), revoke (권한 취소)
@@ -310,6 +312,19 @@ CASE WHEN LOC = 'A' THEN 'B'
 
 CASE LOC WHEN 'A' THEN 'B'
 = DECODE(LOC, 'A', 'B')
+
+
+ORDER BY 
+- ORACLE 에서는 NULL을 가장 큰 값으로 
+- SQL SERVER 에서는 NULL 을 가장 작은 값으로 취급 
+
+
+TOP(NUM) WITH TIES
+TOP(N) : 순ㅇ
+WITH TIES : 같은 경우도 포함 
+
+
+
 
 PIVOT ,UNPIVOT 
 TOP N 쿼리 
