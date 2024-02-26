@@ -307,4 +307,7 @@ NULL 관련 함수
 
 
 
-PIVOT ,UNPI
+PIVOT ,UNPIVOT 
+TOP N 쿼리 
+정규 표현식 
+윈도우 함수 
