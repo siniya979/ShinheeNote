@@ -329,6 +329,9 @@ WITH TIES : 랭킹이 같은 경우도 포함
 - EQUI JOIN : INNER JOIN / NATURAL JOIN / JOIN USING 
 - NON EQUI JOIN : 2개의 테이블 간에 칼럼 값들이 서로 정확하게 일치하지 않는 경우에 사용 ‘=’ BETWEEN, >, <= 연산자가 아닌 등 연산자 사용
 
+- Natural join  : 두 테이블 간 동일한 이름을 갖는 모든 칼럼들에 대해 EQUI JOIN 수행
+  BUT WEHRE 절에서 JOIN 조건을 정의 못함. (USING, ON 사용 X ), SQL SERVER 에서 지원 X 
+
 일반 집합 연산자
 - UNION : 합집합 (중복행 1개로)
 - UNION ALL  : 합집합 (중복 허용)
@@ -346,6 +349,10 @@ SELECT deptNo FROM dept
 MINUS
 SELECT deptNo FROM emp;
 ```
+
+
+
+
 # PIVOT ,UNPIVOT 
 TOP N 쿼리 
 정규 표현식 
