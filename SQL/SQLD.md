@@ -306,6 +306,10 @@ NULL 관련 함수
 - COUNT(표현식) : NULL 제외 
 
 
+CASE WHEN LOC = 'A' THEN 'B'
+
+CASE LOC WHEN 'A' THEN 'B'
+= DECODE(LOC, 'A', 'B')
 
 PIVOT ,UNPIVOT 
 TOP N 쿼리 
