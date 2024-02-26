@@ -265,3 +265,24 @@ DELETE FROM 테이블명;
 - 가로 = 행 = 로우 = 튜플 = 인스턴스 
 - 세로 = 열 = 컬럼 
 
+숫자형 함수 
+```SQL
+SIGN(NUM) : 양수면 1 음수면 0
+MOD(NUM1, NUM2) : NUM % NUM2
+CEIL(NUM)  : 올림
+FLOOR(NUM) : 내림
+ROUND(38.5235, 3 ) : 38.524
+TRUNC(38.5235, 3 ) : 38.523 , 3번째 자리에서 잘라 버림 
+```
+
+날짜형
+
+```SQL
+EXTRACT : 날짜에서 데이터 출력
+TO_NUMBER(TO_CHAR(D,'YYYY'))  연도를 숫자로 
+```
+
+```
+1 = 하루 
+1/24 
+```
