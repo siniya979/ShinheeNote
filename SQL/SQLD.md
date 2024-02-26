@@ -449,3 +449,10 @@ PL/SQL
 27-4
 ![](https://i.imgur.com/q37NXsW.png)
 
+
+
+-  인덱스에 대해서 연산을 하면 인덱스가 변형이 되므로 인덱스를 사용할수가 없다.
+
+![](https://i.imgur.com/6k6w1Wv.png)
+
+
