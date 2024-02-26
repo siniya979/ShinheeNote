@@ -439,3 +439,11 @@ FROM ALL_IND_COLUMNS
 WHERE TABLE_NAME = '테이블명';
 ```
 
+
+PL/SQL 
+- 절차형 언어 
+- 내부에서 테이블 생성할 수 XXX 없음 
+- := 바인딩 
+
+
+27-4
