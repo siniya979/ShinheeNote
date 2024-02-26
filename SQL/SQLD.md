@@ -267,7 +267,8 @@ DELETE FROM 테이블명;
 
 숫자형 함수 
 ```SQL
-SIGN(NUM) : 양수면 1 음수면 0
+ABS : 절대값
+SIGN(NUM) : 양수면 1 음수면 -1 , 0이면 0
 MOD(NUM1, NUM2) : NUM % NUM2
 CEIL(NUM)  : 올림
 FLOOR(NUM) : 내림
@@ -291,3 +292,13 @@ TO_NUMBER(TO_CHAR(D,'YYYY'))  연도를 숫자로
 연산자 우선순위 
 
 ( ) -> NOT -> 비교연산자 -> AND -> OR 
+
+
+NULL 관련 함수 
+
+- NVL ( 표현식1, 표현식 2 ) : 표현식1 의 결과값이 NULL 이면 표현식2 출력
+- ISNULL(표현식1, 표현식2) : 위와 같음 
+- NULLIF(표현식1, 표현식2) : 표현식1 == 표현식2 면, NULL 아니면 표현식1 리턴 
+- COALESCE(표현식1, 표현식2, ....) : NULL 이 아닌 최초 표현식 나타낸다. 모든 표현식이 NULL 이면 NULL 리턴
+
+
