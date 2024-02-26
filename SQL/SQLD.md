@@ -334,9 +334,18 @@ WITH TIES : 랭킹이 같은 경우도 포함
 - UNION ALL  : 합집합 (중복 허용)
 - INTERSECT : 교집합 (중복행 1개로)
 - MINUS : 차집합 (중복행은 1개로 )
-- CROSS JOIN : 곱집합 ( M * N )
+- CROSS JOIN : 곱집합 ( M * N ),  카타시안 곱
 
+#### MINUS : 차집합
 
+MINUS는 첫 번째 SELECT문에 의해 반환되는 행 중에서 두 번째 SELECT문에 의해 반환되는 행에 존재하지 않는 행들을 반환 한다.
+
+```SQL
+-- 사원이 없는 부서를 조회하는 MINUS 예제.
+SELECT deptNo FROM dept
+MINUS
+SELECT deptNo FROM emp;
+```
 # PIVOT ,UNPIVOT 
 TOP N 쿼리 
 정규 표현식 
