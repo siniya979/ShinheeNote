@@ -326,8 +326,16 @@ WITH TIES : 랭킹이 같은 경우도 포함
 
 # 조인 종류 
 
-- EQUI JOIN 
+- EQUI JOIN : INNER JOIN / NATURAL JOIN / JOIN USING 
 - NON EQUI JOIN : 2개의 테이블 간에 칼럼 값들이 서로 정확하게 일치하지 않는 경우에 사용 ‘=’ BETWEEN, >, <= 연산자가 아닌 등 연산자 사용
+
+일반 집합 연산자
+- UNION : 합집합 (중복행 1개로)
+- UNION ALL  : 합집합 (중복 허용)
+- INTERSECT : 교집합 (중복행 1개로)
+- MINUS : 차집합 (중복행은 1개로 )
+- CROSS JOIN : 곱집합 ( M * N )
+
 
 # PIVOT ,UNPIVOT 
 TOP N 쿼리 
