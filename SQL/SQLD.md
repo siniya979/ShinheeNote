@@ -447,3 +447,5 @@ PL/SQL
 
 
 27-4
+![](https://i.imgur.com/q37NXsW.png)
+
