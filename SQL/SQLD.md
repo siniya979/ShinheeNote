@@ -148,3 +148,57 @@ e  f           3 <- 두번째 부모행의 자식 탐색 종료
 LEVEL을 보면 첫 번째 최상위 부모 행을 찾으면 자식이 없을 때까지 계속 타고 들어갔다가 마지막까지 탐색 후 두 번째 최상위 부모 행의 자식을 탐색합니다.
 
 
+**[CONNECT BY에 조건절을 넣을 경우 예제]**
+
+```
+select parent_c as p, child_c as c, level 
+from t1
+start with parent_c = 'a'
+connect by prior child_c = parent_c and parent_c='c';
+```
+
+**[실행 결과]**
+
+```
+P  C       LEVEL
+-- -- ----------
+a  b           1
+a  c           1
+c  d           2
+c  e           2
+```
+
+**[실행 결과 해석]**
+
+start with 절에서 선택된 부모 데이터는 무조건 포함이 되고 자식 데이터들에 의해 parent_c='c' 조건으로 필터링된 결과가 나타납니다.
+
+
+**[ORDER SIBLINGS 사용한 계층형 쿼리 예제]**
+
+```sql
+select parent_c as p, child_c as c, level 
+from t1
+start with parent_c = 'a'
+connect by prior child_c = parent_c
+order siblings by child_c desc;
+```
+
+**[실행 결과]**
+
+```
+P  C       LEVEL
+-- -- ----------
+a  c           1 <- LEVEL 1 중에서 child_c desc 정렬했을 때 c가 가장 맨위에 옴
+c  e           2 <- LEVEL 2 중에서(위 LEVEL 1의 자식 기준) child_c desc 정렬했을 때 e가 가장 맨위에 옴
+e  f           3
+c  d           2
+a  b           1 <- LEVEL 1 중에서 child_c desc 정렬했을 때 두번째인 b가 옴
+b  c           2
+c  e           3
+e  f           4
+c  d           3
+```
+
+**[실행 결과 해석]**
+
+LEVEL 1에서 진입하기 전에 정렬을 한 후 정렬한 결과의 첫 번째 행부터 자식 행을 찾습니다. 이는 자식행을 들어가서도 같은 LEVEL 내에서 정렬이 된 후 첫 번째 행부터 타고 들어갑니다.
