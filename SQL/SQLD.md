@@ -456,3 +456,5 @@ PL/SQL
 ![](https://i.imgur.com/6k6w1Wv.png)
 
 
+ROWNUM은 논리적인 숫자이므로 "ROWNUM = 2" 와 같이 조회하면 찾을 수 없다.
+
