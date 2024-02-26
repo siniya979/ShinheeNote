@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0453535b8f5b97c7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e5af92d26a7b43e5",
+  "active": "0453535b8f5b97c7",
   "lastOpenFiles": [
     "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
     "Spring/Spring/의존성 주입 (Dependency Injection).md",
