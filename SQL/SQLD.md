@@ -320,13 +320,16 @@ ORDER BY
 
 
 TOP(NUM) WITH TIES
-TOP(N) : 순ㅇ
-WITH TIES : 같은 경우도 포함 
+TOP(N) : 정렬된 컬럼 기준으로 N 번째(등급)까지 출력 
+WITH TIES : 랭킹이 같은 경우도 포함 
 
 
+# 조인 종류 
 
+- EQUI JOIN 
+- NON EQUI JOIN : 2개의 테이블 간에 칼럼 값들이 서로 정확하게 일치하지 않는 경우에 사용 ‘=’ BETWEEN, >, <= 연산자가 아닌 등 연산자 사용
 
-PIVOT ,UNPIVOT 
+# PIVOT ,UNPIVOT 
 TOP N 쿼리 
 정규 표현식 
 윈도우 함수 
