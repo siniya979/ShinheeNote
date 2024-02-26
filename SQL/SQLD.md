@@ -89,7 +89,7 @@ EXCEPT (=MINUS): 앞 결과 - 뒤 결과
 
 
 
-계층형 쿼리 
+# 계층형 쿼리 
 
 START WITH : 트리 구조의 최상위 행을 지정합니다.
 
@@ -202,3 +202,36 @@ c  d           3
 **[실행 결과 해석]**
 
 LEVEL 1에서 진입하기 전에 정렬을 한 후 정렬한 결과의 첫 번째 행부터 자식 행을 찾습니다. 이는 자식행을 들어가서도 같은 LEVEL 내에서 정렬이 된 후 첫 번째 행부터 타고 들어갑니다.
+
+
+
+
+
+DML ; select, delete, update, insert
+DDL : create, drop, alter, rename
+DCL : grant(권한 부여), revoke (권한 취소)
+TCL : rollback, commit
+
+```SQL
+REVOKE 권한 ON 객체 FROM 사용자 또는 롤; 
+REVOKE SELECT ON TABLE_NAME FROM USERNAME;
+
+GRANT 권한 ON 객체 TO 사용자;
+GRANT SELECT ON EMPLOYEE TO USER1;
+```
+
+
+```SQL
+CREATE TABLE Employees (
+    Employee_ID INT,
+    Name VARCHAR(50),
+    Department VARCHAR(50)
+);
+
+ALTER OBJECT_TYPE OBJECT_NAME ADD COLUMN COLUMN_NAME COLUMN_TYPE; ALTER OBJECT_TYPE OBJECT_NAME MODIFY COLUMN COLUMN_NAME NEW_COLUMN_TYPE; ALTER OBJECT_TYPE OBJECT_NAME DROP COLUMN COLUMN_NAME;
+ALTER TABLE Employees ADD COLUMN Age INT; 
+ALTER TABLE Employees MODIFY COLUMN Name VARCHAR(100); 
+ALTER TABLE Employees DROP COLUMN Department;
+
+
+```
