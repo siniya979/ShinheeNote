@@ -86,3 +86,21 @@ UNION : 합집합
 UNION ALL : 합집한 + 중복 허용 
 INTERSECT : 교집합 
 EXCEPT (=MINUS): 앞 결과 - 뒤 결과 
+
+
+
+계층형 쿼리 
+
+START WITH : 트리 구조의 최상위 행을 지정합니다.
+
+CONNECT BY : 부모, 자식의 관계를 지정합니다.
+
+PRIOR : CONNECT BY 절에 사용되며 PRIOR에 지정된 컬럼이 맞은편 컬럼을 찾아갑니다.
+
+CONNECT BY PRIOR 자식 컬럼 = 부모 컬럼 : 부모 → 자식 순방향 전개
+
+CONNECT BY PRIOR 부모 컬럼 = 자식 컬럼 : 자식 → 부모 역방향 전개
+
+ORDER SIBLINGS : 계층형 쿼리에서 정렬을 수행합니다.
+
+

@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "SQL/SQLD.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0453535b8f5b97c7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "SQL/SQLD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "SQL/SQLD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md"
+                "file": "SQL/SQLD.md"
               }
             }
           }
@@ -167,11 +156,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0453535b8f5b97c7",
+  "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
     "Spring/Spring/의존성 주입 (Dependency Injection).md",
-    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "Spring/Spring/IoC Container.md",
     "Spring/Spring/Exception.md",
     "쿠키와 세션.md",
