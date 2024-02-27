@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQLD.md",
+                "file": "Spring/Spring Security/내 코드.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQLD.md",
+                "file": "Spring/Spring Security/내 코드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQLD.md",
+                "file": "Spring/Spring Security/내 코드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQLD.md"
+                "file": "Spring/Spring Security/내 코드.md"
               }
             }
           }
@@ -158,13 +158,14 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "Spring/Spring Security/JWT.md",
+    "SQL/SQLD.md",
     "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
     "Spring/Spring/의존성 주입 (Dependency Injection).md",
     "Spring/Spring/IoC Container.md",
     "Spring/Spring/Exception.md",
     "쿠키와 세션.md",
-    "SQL/SQLD.md",
     "JAVA/java/GC.md",
     "JAVA/java/람다, 스트림, 익명클래스.md",
     "JAVA/java/Thread 쓰레드.md",
@@ -184,7 +185,6 @@
     "Thymeleaf/1.md",
     "Thymeleaf/무작정 JSP 분석.md",
     "README.md",
-    "240123.md",
     "Thymeleaf",
     "Spring/Spring/Core Spring",
     "Spring/Spring",
