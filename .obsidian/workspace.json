@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring Security/내 코드.md",
+                "file": "Spring/Spring Security/OAuth2.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring Security/내 코드.md",
+                "file": "Spring/Spring Security/OAuth2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring Security/내 코드.md",
+                "file": "Spring/Spring Security/OAuth2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring Security/내 코드.md"
+                "file": "Spring/Spring Security/OAuth2.md"
               }
             }
           }
@@ -158,6 +158,8 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "Spring/Spring Security/OAuth2.md",
+    "Spring/Spring Security/내 코드.md",
     "Spring/Spring Security/JWT.md",
     "SQL/SQLD.md",
     "Spring/인프런) 테스트/section1 _ 이론 수업.md",
@@ -183,8 +185,6 @@
     "Spring/FastCampus/10개의 백엔드 프로젝트/10개의 백엔드 프로젝트.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트",
     "Thymeleaf/1.md",
-    "Thymeleaf/무작정 JSP 분석.md",
-    "README.md",
     "Thymeleaf",
     "Spring/Spring/Core Spring",
     "Spring/Spring",
