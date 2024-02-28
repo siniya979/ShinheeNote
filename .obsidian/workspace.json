@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "65d977f6c269403d",
@@ -156,7 +157,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e5af92d26a7b43e5",
+  "active": "e49c65dc00784e25",
   "lastOpenFiles": [
     "Spring/Spring Security/OAuth2.md",
     "Spring/Spring Security/JWT와 CSRF.md",
