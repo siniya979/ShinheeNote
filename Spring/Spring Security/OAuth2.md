@@ -14,3 +14,5 @@
 
 ![](https://i.imgur.com/9OmDMN5.png)
 
+(A) : 고객 -> 인증 요청
+(B) : 리소스 주인 -> 
