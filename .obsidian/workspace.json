@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring Security/내 코드.md",
+                "file": "Spring/Spring Security/코드.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring Security/내 코드.md",
+                "file": "Spring/Spring Security/코드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring Security/내 코드.md",
+                "file": "Spring/Spring Security/코드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring Security/내 코드.md"
+                "file": "Spring/Spring Security/코드.md"
               }
             }
           }
@@ -160,7 +160,7 @@
   "lastOpenFiles": [
     "Spring/Spring Security/OAuth2.md",
     "Spring/Spring Security/JWT와 CSRF.md",
-    "Spring/Spring Security/내 코드.md",
+    "Spring/Spring Security/코드.md",
     "Spring/Spring Security/.csrf().disable()`.md",
     "Spring/Spring Security/JWT.md",
     "Spring/Spring Security/.csrf().disable().md",
