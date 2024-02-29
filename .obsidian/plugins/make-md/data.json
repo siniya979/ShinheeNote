@@ -66,7 +66,9 @@
     "//Spring/Spring/인프런) 테스트",
     "//SQL",
     "//Spring/Spring/Spring Security",
-    "//Spring/Spring/Spring Security"
+    "//Spring/Spring/Spring Security",
+    "//Spring/Spring/JPA",
+    "//JAVA"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
