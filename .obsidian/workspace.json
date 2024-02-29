@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +155,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "35f6c849d9d50e29",
+  "active": "17731d7e0c28f9fe",
   "lastOpenFiles": [
     "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
