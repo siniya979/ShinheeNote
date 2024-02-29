@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring Security/OAuth2.md",
+                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring Security/OAuth2.md",
+                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring Security/OAuth2.md",
+                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring Security/OAuth2.md"
+                "file": "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md"
               }
             }
           }
@@ -158,6 +158,9 @@
   },
   "active": "35f6c849d9d50e29",
   "lastOpenFiles": [
+    "Spring/인프런) 테스트/section 2_테스트코드.md",
+    "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
+    "Spring/Spring Security/OAuth2.md",
     "Spring/Spring Security/JWT와 CSRF.md",
     "Spring/Spring Security/HS256  vs RS256.md",
     "Spring/JPA/김영한 강의 JPA - 기본편.md",
@@ -169,10 +172,7 @@
     "JAVA/java/람다, 스트림, 익명클래스.md",
     "README.md",
     "Spring/인프런) 테스트/section 4.md",
-    "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
-    "Spring/인프런) 테스트/section 2_테스트코드.md",
     "Spring/Spring Security/코드.md",
-    "Spring/Spring Security/OAuth2.md",
     "Spring/Spring Security/.csrf().disable()`.md",
     "Spring/Spring Security/JWT.md",
     "Spring/Spring Security/.csrf().disable().md",
