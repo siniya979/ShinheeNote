@@ -14,5 +14,3 @@
 
 ![](https://i.imgur.com/9OmDMN5.png)
 
-(A) : 고객은 리소스주인(ex. 구글, 네이버 등)에게 인가(Authorization)를 요청한다.  
-(B) : 고객은 

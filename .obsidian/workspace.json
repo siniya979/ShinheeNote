@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring/테스트.md",
+                "file": "Spring/Spring Security/OAuth2.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
   "right": {
     "id": "65d977f6c269403d",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring/테스트.md",
+                "file": "Spring/Spring Security/OAuth2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring/테스트.md",
+                "file": "Spring/Spring Security/OAuth2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring/테스트.md"
+                "file": "Spring/Spring Security/OAuth2.md"
               }
             }
           }
@@ -159,17 +158,21 @@
   },
   "active": "35f6c849d9d50e29",
   "lastOpenFiles": [
-    "JAVA/java/람다, 스트림, 익명클래스.md",
+    "Spring/Spring Security/JWT와 CSRF.md",
+    "Spring/Spring Security/HS256  vs RS256.md",
+    "Spring/JPA/김영한 강의 JPA - 기본편.md",
+    "Spring/JPA/New Note.md",
+    "Spring/인프런)Spring/스프링 입문.md",
+    "Spring/FastCampus/10개의 백엔드 프로젝트/front _ 타임리프.md",
+    "Spring/FastCampus/10개의 백엔드 프로젝트/Back.md",
     "Spring/Spring/테스트.md",
+    "JAVA/java/람다, 스트림, 익명클래스.md",
     "README.md",
     "Spring/인프런) 테스트/section 4.md",
     "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
     "Spring/인프런) 테스트/section 2_테스트코드.md",
-    "Spring/인프런)Spring/스프링 입문.md",
     "Spring/Spring Security/코드.md",
     "Spring/Spring Security/OAuth2.md",
-    "Spring/Spring Security/JWT와 CSRF.md",
-    "Spring/Spring Security/HS256  vs RS256.md",
     "Spring/Spring Security/.csrf().disable()`.md",
     "Spring/Spring Security/JWT.md",
     "Spring/Spring Security/.csrf().disable().md",
@@ -181,10 +184,6 @@
     "쿠키와 세션.md",
     "JAVA/java/GC.md",
     "JAVA/java/Thread 쓰레드.md",
-    "JAVA/자바의신/자바의 신 2권 요약.md",
-    "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
-    "JAVA/java/서블릿.md",
-    "JAVA/java/디자인 패턴.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트",
     "Thymeleaf",
     "Spring/Spring/Core Spring",
