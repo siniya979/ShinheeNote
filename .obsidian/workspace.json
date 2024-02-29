@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring/TDD.md",
+                "file": "Spring/Spring/테스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 355.5,
+    "collapsed": true
   },
   "right": {
     "id": "65d977f6c269403d",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring/TDD.md",
+                "file": "Spring/Spring/테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring/TDD.md",
+                "file": "Spring/Spring/테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring/TDD.md"
+                "file": "Spring/Spring/테스트.md"
               }
             }
           }
@@ -158,10 +159,11 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "README.md",
+    "Spring/Spring/테스트.md",
     "Spring/인프런) 테스트/section 4.md",
     "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
     "Spring/인프런) 테스트/section 2_테스트코드.md",
-    "Spring/Spring/TDD.md",
     "JAVA/java/람다, 스트림, 익명클래스.md",
     "Spring/인프런)Spring/스프링 입문.md",
     "Spring/Spring Security/코드.md",
@@ -183,7 +185,6 @@
     "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
     "JAVA/java/서블릿.md",
     "JAVA/java/디자인 패턴.md",
-    "JAVA/java/Date vs LocalDateTime.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트",
     "Thymeleaf",
     "Spring/Spring/Core Spring",
