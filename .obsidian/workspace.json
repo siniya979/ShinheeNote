@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/java/람다, 스트림, 익명클래스.md",
+                "file": "Spring/Spring/TDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/java/람다, 스트림, 익명클래스.md",
+                "file": "Spring/Spring/TDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/java/람다, 스트림, 익명클래스.md",
+                "file": "Spring/Spring/TDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/java/람다, 스트림, 익명클래스.md"
+                "file": "Spring/Spring/TDD.md"
               }
             }
           }
@@ -158,6 +158,11 @@
   },
   "active": "e5af92d26a7b43e5",
   "lastOpenFiles": [
+    "Spring/인프런) 테스트/section 4.md",
+    "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
+    "Spring/인프런) 테스트/section 2_테스트코드.md",
+    "Spring/Spring/TDD.md",
+    "JAVA/java/람다, 스트림, 익명클래스.md",
     "Spring/인프런)Spring/스프링 입문.md",
     "Spring/Spring Security/코드.md",
     "Spring/Spring Security/OAuth2.md",
@@ -168,22 +173,17 @@
     "Spring/Spring Security/.csrf().disable().md",
     "SQL/SQLD.md",
     "Spring/인프런) 테스트/section1 _ 이론 수업.md",
-    "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
     "Spring/Spring/의존성 주입 (Dependency Injection).md",
     "Spring/Spring/IoC Container.md",
     "Spring/Spring/Exception.md",
     "쿠키와 세션.md",
     "JAVA/java/GC.md",
-    "JAVA/java/람다, 스트림, 익명클래스.md",
     "JAVA/java/Thread 쓰레드.md",
     "JAVA/자바의신/자바의 신 2권 요약.md",
     "JAVA/자바의신/자바의 신 1권 중요 체크 포인트.md",
     "JAVA/java/서블릿.md",
     "JAVA/java/디자인 패턴.md",
     "JAVA/java/Date vs LocalDateTime.md",
-    "앞으로 공부할 것.md",
-    "Spring/FastCampus/10개의 백엔드 프로젝트/Back.md",
-    "Spring/인프런) 테스트/section 4.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트",
     "Thymeleaf",
     "Spring/Spring/Core Spring",
