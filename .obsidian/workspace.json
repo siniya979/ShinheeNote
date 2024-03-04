@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d242c209eb0e317b",
+        "id": "5aa45d9fdaa401cd",
         "type": "tabs",
         "children": [
           {
-            "id": "35f6c849d9d50e29",
+            "id": "8bb2288b8a68a162",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Grammer.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/240304.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FF0000",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Grammer.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/240304.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Grammer.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/240304.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Grammer.md"
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/240304.md"
               }
             }
           }
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,37 +156,37 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "35f6c849d9d50e29",
+  "active": "8bb2288b8a68a162",
   "lastOpenFiles": [
-    "Python/Grammer.md",
-    "Python/Python.md",
-    "Python",
-    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
-    "앞으로 공부할 것.md",
-    "240123.md",
-    "Spring/인프런) 테스트/section 2_테스트코드.md",
-    "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
+    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/240304.md",
+    "SiniNote.md",
+    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;.md",
+    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;",
+    "쿠키와 세션.md",
+    "conflict-files-obsidian-git.md",
+    "SQL/New Note.md",
+    "Spring/Spring/테스트.md",
+    "Spring/Spring Security/코드.md",
     "Spring/Spring Security/OAuth2.md",
     "Spring/Spring Security/JWT와 CSRF.md",
     "Spring/Spring Security/HS256  vs RS256.md",
-    "Spring/JPA/김영한 강의 JPA - 기본편.md",
-    "Spring/JPA/New Note.md",
-    "Spring/인프런)Spring/스프링 입문.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트/front _ 타임리프.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트/Back.md",
-    "Spring/Spring/테스트.md",
-    "JAVA/java/람다, 스트림, 익명클래스.md",
-    "README.md",
-    "Spring/인프런) 테스트/section 4.md",
-    "Spring/Spring Security/코드.md",
-    "Spring/Spring Security/.csrf().disable()`.md",
-    "Spring/Spring Security/JWT.md",
-    "Spring/Spring Security/.csrf().disable().md",
-    "SQL/SQLD.md",
-    "Spring/Spring/의존성 주입 (Dependency Injection).md",
-    "Spring/Spring/IoC Container.md",
+    "Spring/FastCampus/10개의 백엔드 프로젝트/10개의 백엔드 프로젝트.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트",
-    "Thymeleaf",
+    "SQL/프로그래머스 문제.md",
+    "SQL/SQLD.md",
+    "Python/Python.md",
+    "Python/Grammer.md",
+    "Python",
+    "JAVA/java/서블릿.md",
+    "JAVA/java/람다, 스트림, 익명클래스.md",
+    "JAVA/java/Thread 쓰레드.md",
+    "SQL/New Note 1.md",
+    "SQL/Type.md",
+    "ShinheeNote.md",
+    "Spring/Spring/Core Spring/New Note.md",
+    "Spring/Spring/Core Spring/2. BeanFactory  vs ApplicationContext.md",
     "Spring/Spring/Core Spring",
     "Spring/Spring",
     "Spring/FastCampus",
