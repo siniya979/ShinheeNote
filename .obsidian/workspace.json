@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
-                "mode": "preview",
+                "file": "Python/Grammer.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "Python/Grammer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
+                "file": "Python/Grammer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md"
+                "file": "Python/Grammer.md"
               }
             }
           }
@@ -157,9 +157,12 @@
   },
   "active": "35f6c849d9d50e29",
   "lastOpenFiles": [
+    "Python/Grammer.md",
+    "Python/Python.md",
+    "Python",
+    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "앞으로 공부할 것.md",
     "240123.md",
-    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
     "Spring/인프런) 테스트/section 2_테스트코드.md",
     "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
     "Spring/Spring Security/OAuth2.md",
@@ -181,8 +184,6 @@
     "SQL/SQLD.md",
     "Spring/Spring/의존성 주입 (Dependency Injection).md",
     "Spring/Spring/IoC Container.md",
-    "Spring/Spring/Exception.md",
-    "쿠키와 세션.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트",
     "Thymeleaf",
     "Spring/Spring/Core Spring",
@@ -193,7 +194,6 @@
     "JAVA/기사",
     "IntelliJ",
     "Spring.canvas",
-    "Spring/인프런)Spring",
     "Canvas.canvas"
   ]
 }

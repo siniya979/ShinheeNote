@@ -42,8 +42,6 @@
     "//ShinHee",
     "//ShinHee/ShinHee/Diary",
     "//ShinHee/ShinHee/Diary",
-    "//JAVA/JAVA/java",
-    "//JAVA/JAVA/java",
     "//JAVA/JAVA/java/JAVA/java/자바의신",
     "//ShinHee/ShinHee/잡동사니",
     "//ShinHee/ShinHee/잡동사니",
@@ -59,11 +57,7 @@
     "//Thymeleaf",
     "//Spring/Spring/FastCampus/Spring/FastCampus/10개의 백엔드 프로젝트",
     "//Spring/Spring/FastCampus/Spring/FastCampus/10개의 백엔드 프로젝트",
-    "//JAVA/JAVA/java",
-    "//Spring",
     "//Spring/Spring/Spring/Spring/Spring/Core Spring",
-    "//SQL",
-    "//JAVA",
     "//Spring/Spring/Spring Security",
     "//Spring/Spring/인프런) 테스트"
   ],
@@ -93,7 +87,8 @@
     "SQL",
     "도서",
     "트러블슈팅",
-    "트러블슈팅/시니"
+    "트러블슈팅/시니",
+    "Python"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -138,7 +133,8 @@
     "Spring/인프런)Spring",
     "Spring/FastCampus",
     "JSP",
-    "Spring/FastCampus/10개의 백엔드 프로젝트"
+    "Spring/FastCampus/10개의 백엔드 프로젝트",
+    "Python"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
