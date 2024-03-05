@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/240304.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/240304.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/240304.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md"
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/240304.md"
               }
             }
           }
@@ -155,10 +155,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f702db24645f9d87",
+  "active": "35f6c849d9d50e29",
   "lastOpenFiles": [
-    "CICD/New Note.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md",
+    "CICD/New Note.md",
     "assertJ/New Note.md",
     "assertJ/assertJ.md",
     "assertJ",
