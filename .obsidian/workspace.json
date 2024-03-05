@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/일급 컬렉션.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240305.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/일급 컬렉션.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/일급 컬렉션.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/일급 컬렉션.md"
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240305.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "35f6c849d9d50e29",
   "lastOpenFiles": [
+    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240305.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/넥스트스텝_TDD, 클린코드 with Java 18기.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/일급 컬렉션.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md",
@@ -185,7 +186,6 @@
     "Spring/FastCampus/10개의 백엔드 프로젝트/Back.md",
     "Spring/Spring/테스트.md",
     "JAVA/java/람다, 스트림, 익명클래스.md",
-    "README.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트",
     "Thymeleaf",
     "Spring/Spring/Core Spring",
