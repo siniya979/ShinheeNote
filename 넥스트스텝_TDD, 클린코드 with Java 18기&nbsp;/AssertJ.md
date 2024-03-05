@@ -19,3 +19,18 @@ isLowerCase() / isUpperCase()
 
 
 containsKey()
+
+
+### 컬렉션과 배열에 대한 체이닝 단언
+```java
+import static org.assertj.core.api.Assertions.assertThat;
+
+List<String> list = Arrays.asList("apple", "banana", "cherry");
+
+assertThat(list)
+    .hasSize(3)
+    .contains("banana")
+    .doesNotContain("date")
+    .containsExactly("apple", "banana", "cherry"); // 순서까지 검증
+```
+
