@@ -11,3 +11,8 @@ assertThat("".isEmpty()).isTrue();
 
 
 contains / isNotEmpty() / startsWith() 
+
+isNotEqualTo() / isGreaterThanOrEqualTo() 
+
+isLowerCase() / isUpperCase() 
+
