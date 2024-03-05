@@ -10,3 +10,4 @@ assertThat("".isEmpty()).isTrue();
 ```
 
 
+contains / isNotEmpty() / startsWith() 
