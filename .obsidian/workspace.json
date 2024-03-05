@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
+                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
+                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
+                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md"
+                "file": "Spring/인프런) 테스트/section1 _ 이론 수업.md"
               }
             }
           }
@@ -158,9 +158,12 @@
   },
   "active": "1490630bf00afc1e",
   "lastOpenFiles": [
+    "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
+    "Spring/인프런) 테스트/section 4.md",
+    "Spring/인프런) 테스트/section 2_테스트코드.md",
+    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
     "240123.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/일급 컬렉션.md",
-    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240305.md",
     "도서/객체 지향의 사실과 오해.md",
     "SiniNote.md",
@@ -184,9 +187,6 @@
     "Spring/FastCampus/10개의 백엔드 프로젝트/10개의 백엔드 프로젝트.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트",
     "SQL/프로그래머스 문제.md",
-    "SQL/SQLD.md",
-    "Python/Python.md",
-    "Python/Grammer.md",
     "Python",
     "Spring/Spring/Core Spring",
     "Spring/Spring",
