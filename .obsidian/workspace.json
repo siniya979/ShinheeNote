@@ -11,9 +11,11 @@
             "id": "35f6c849d9d50e29",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "assertJ"
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md"
+              }
             }
           }
         ]
@@ -151,6 +157,9 @@
   },
   "active": "35f6c849d9d50e29",
   "lastOpenFiles": [
+    "CICD/New Note.md",
+    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md",
+    "assertJ/New Note.md",
     "assertJ/assertJ.md",
     "assertJ",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/240304.md",
@@ -177,9 +186,6 @@
     "JAVA/java/람다, 스트림, 익명클래스.md",
     "README.md",
     "Spring/인프런) 테스트/section 4.md",
-    "Spring/Spring Security/코드.md",
-    "Spring/Spring Security/.csrf().disable()`.md",
-    "Spring/Spring Security/JWT.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트",
     "Thymeleaf",
     "Spring/Spring/Core Spring",
