@@ -16,3 +16,6 @@ isLowerCase() / isUpperCase()
    .canWrite();
 ```
 
+
+
+containsKey()
