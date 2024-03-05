@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d242c209eb0e317b",
+        "id": "e7948efce2b18db8",
         "type": "tabs",
         "children": [
           {
-            "id": "35f6c849d9d50e29",
+            "id": "1490630bf00afc1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#객체",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,44 +156,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "35f6c849d9d50e29",
+  "active": "1490630bf00afc1e",
   "lastOpenFiles": [
-    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240305.md",
-    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/넥스트스텝_TDD, 클린코드 with Java 18기.md",
+    "SiniNote.md",
+    "conflict-files-obsidian-git.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/일급 컬렉션.md",
+    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/넥스트스텝_TDD, 클린코드 with Java 18기.md",
+    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240305.md",
+    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/240304.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md",
     "CICD/New Note.md",
-    "assertJ/New Note.md",
     "assertJ/assertJ.md",
     "assertJ",
-    "conflict-files-obsidian-git.md",
-    "Python/Grammer.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;",
-    "Python/Python.md",
-    "Python",
-    "Spring/인프런) 테스트/section1 _ 이론 수업.md",
-    "앞으로 공부할 것.md",
-    "240123.md",
-    "Spring/인프런) 테스트/section 2_테스트코드.md",
-    "Spring/인프런) 테스트/section 3 _ 방향성 탐색.md",
+    "쿠키와 세션.md",
+    "SQL/New Note.md",
+    "Spring/Spring/테스트.md",
+    "Spring/Spring Security/코드.md",
     "Spring/Spring Security/OAuth2.md",
     "Spring/Spring Security/JWT와 CSRF.md",
     "Spring/Spring Security/HS256  vs RS256.md",
-    "Spring/JPA/김영한 강의 JPA - 기본편.md",
-    "Spring/JPA/New Note.md",
-    "Spring/인프런)Spring/스프링 입문.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트/front _ 타임리프.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트/Back.md",
-    "Spring/Spring/테스트.md",
-    "JAVA/java/람다, 스트림, 익명클래스.md",
+    "Spring/FastCampus/10개의 백엔드 프로젝트/10개의 백엔드 프로젝트.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트",
-    "Thymeleaf",
+    "SQL/프로그래머스 문제.md",
+    "SQL/SQLD.md",
+    "Python/Python.md",
+    "Python/Grammer.md",
+    "Python",
+    "JAVA/java/서블릿.md",
+    "JAVA/java/람다, 스트림, 익명클래스.md",
     "Spring/Spring/Core Spring",
     "Spring/Spring",
     "Spring/FastCampus",
     "Spring/인프런) 테스트",
     "SQL",
+    "JAVA/기사",
     "Spring.canvas",
     "Canvas.canvas"
   ]
