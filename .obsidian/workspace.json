@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
+                "file": "240123.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
+                "file": "240123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
+                "file": "240123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md"
+                "file": "240123.md"
               }
             }
           }
@@ -156,13 +156,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e49c65dc00784e25",
+  "active": "1490630bf00afc1e",
   "lastOpenFiles": [
+    "도서/객체 지향의 사실과 오해.md",
+    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240305.md",
     "SiniNote.md",
     "conflict-files-obsidian-git.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/일급 컬렉션.md",
-    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/240304.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md",
     "CICD/New Note.md",
@@ -187,7 +188,6 @@
     "Python/Grammer.md",
     "Python",
     "JAVA/java/서블릿.md",
-    "JAVA/java/람다, 스트림, 익명클래스.md",
     "Spring/Spring/Core Spring",
     "Spring/Spring",
     "Spring/FastCampus",
