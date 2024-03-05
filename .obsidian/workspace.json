@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "240123.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240123.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240123.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240123.md"
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md"
               }
             }
           }
@@ -158,12 +158,13 @@
   },
   "active": "1490630bf00afc1e",
   "lastOpenFiles": [
-    "도서/객체 지향의 사실과 오해.md",
+    "240123.md",
+    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/일급 컬렉션.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/20240305.md",
+    "도서/객체 지향의 사실과 오해.md",
     "SiniNote.md",
     "conflict-files-obsidian-git.md",
-    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/일급 컬렉션.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/240304.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md",
     "CICD/New Note.md",
@@ -187,7 +188,6 @@
     "Python/Python.md",
     "Python/Grammer.md",
     "Python",
-    "JAVA/java/서블릿.md",
     "Spring/Spring/Core Spring",
     "Spring/Spring",
     "Spring/FastCampus",
