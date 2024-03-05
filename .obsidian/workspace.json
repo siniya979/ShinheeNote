@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FF0000",
+                "query": "tag:#객체",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +155,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "35f6c849d9d50e29",
+  "active": "f702db24645f9d87",
   "lastOpenFiles": [
     "CICD/New Note.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/AssertJ.md",
