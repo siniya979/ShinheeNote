@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/20240311.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/20240312.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/20240311.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/20240312.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/20240311.md",
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/20240312.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/20240311.md"
+                "file": "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/20240312.md"
               }
             }
           }
@@ -158,6 +158,7 @@
   },
   "active": "fb5e6603ebcbd2b2",
   "lastOpenFiles": [
+    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/20240312.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/20240311.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/20240304 _ 넥스트스텝_TDD, 클린코드 with Java 18기 시작.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/단계1_자동차경주.md",
@@ -186,7 +187,6 @@
     "SQL/New Note.md",
     "Spring/Spring/테스트.md",
     "Spring/Spring Security/코드.md",
-    "Spring/Spring Security/OAuth2.md",
     "Spring/FastCampus/10개의 백엔드 프로젝트",
     "Python",
     "Spring/Spring/Core Spring",
