@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Note.md",
+                "file": "람다.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Note.md",
+                "file": "람다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Note.md",
+                "file": "람다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Note.md"
+                "file": "람다.md"
               }
             }
           }
@@ -159,8 +159,8 @@
   "active": "fb5e6603ebcbd2b2",
   "lastOpenFiles": [
     "().md",
+    "람다.md",
     "New Note.md",
-    "New Note 1.md",
     "분리전/New Note.md",
     "분리전/분리전.md",
     "분리전",
