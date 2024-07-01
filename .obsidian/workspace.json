@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/그림으로 이해하는 SQL 서버의 구조/New Note.md",
+                "file": "SQL/2024/회사에서 정말 많이 쓰는 SQL 문법.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/그림으로 이해하는 SQL 서버의 구조/New Note.md",
+                "file": "SQL/2024/회사에서 정말 많이 쓰는 SQL 문법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/그림으로 이해하는 SQL 서버의 구조/New Note.md",
+                "file": "SQL/2024/회사에서 정말 많이 쓰는 SQL 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/그림으로 이해하는 SQL 서버의 구조/New Note.md"
+                "file": "SQL/2024/회사에서 정말 많이 쓰는 SQL 문법.md"
               }
             }
           }
@@ -158,6 +158,7 @@
   },
   "active": "fb5e6603ebcbd2b2",
   "lastOpenFiles": [
+    "SQL/2024/회사에서 정말 많이 쓰는 SQL 문법.md",
     "SQL/그림으로 이해하는 SQL 서버의 구조/New Note.md",
     "SQL/그림으로 이해하는 SQL 서버의 구조/그림으로 이해하는 SQL 서버의 구조.md",
     "SQL/그림으로 이해하는 SQL 서버의 구조",
@@ -187,7 +188,6 @@
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/일급 컬렉션.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/넥스트스텝_TDD, 클린코드 with Java 18기 1.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주/20240314.md",
-    "conflict-files-obsidian-git.md",
     "도서/Http NetWork Basic",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주",
     "assertJ",
