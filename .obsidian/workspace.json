@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/2024/회사에서 정말 많이 쓰는 SQL 문법 ( 오라클 ).md",
+                "file": "분리전/IT 용어 사전.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/2024/회사에서 정말 많이 쓰는 SQL 문법 ( 오라클 ).md",
+                "file": "분리전/IT 용어 사전.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/2024/회사에서 정말 많이 쓰는 SQL 문법 ( 오라클 ).md",
+                "file": "분리전/IT 용어 사전.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/2024/회사에서 정말 많이 쓰는 SQL 문법 ( 오라클 ).md"
+                "file": "분리전/IT 용어 사전.md"
               }
             }
           }
@@ -158,6 +158,8 @@
   },
   "active": "fb5e6603ebcbd2b2",
   "lastOpenFiles": [
+    "New Note.md",
+    "분리전/IT 용어 사전.md",
     "SQL/2024/회사에서 정말 많이 쓰는 SQL 문법 ( 오라클 ).md",
     "SQL/그림으로 이해하는 SQL 서버의 구조/New Note.md",
     "SQL/그림으로 이해하는 SQL 서버의 구조/그림으로 이해하는 SQL 서버의 구조.md",
@@ -174,8 +176,6 @@
     "SQL/New Note 1.md",
     "람다.md",
     "().md",
-    "New Note.md",
-    "분리전/New Note.md",
     "분리전/분리전.md",
     "분리전",
     "분리전/앞으로 공부할 것.md",
