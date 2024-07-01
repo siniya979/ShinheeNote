@@ -74,7 +74,7 @@
     "//분리전",
     "//SQL",
     "//SQL",
-    "//SQL/SQL/2024"
+    "//SQL"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -109,7 +109,8 @@
     "트러블슈팅",
     "트러블슈팅/시니",
     "SQL/2024",
-    "SQL/알고리즘"
+    "SQL/알고리즘",
+    "SQL/그림으로 이해하는 SQL 서버의 구조"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -159,7 +160,8 @@
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주",
     "도서/Http NetWork Basic",
     "SQL/2024",
-    "SQL/알고리즘"
+    "SQL/알고리즘",
+    "SQL/그림으로 이해하는 SQL 서버의 구조"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
