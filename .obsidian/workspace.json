@@ -11,9 +11,11 @@
             "id": "fb5e6603ebcbd2b2",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "JAVA"
+                "file": "CS/쉘스크립트.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/쉘스크립트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/쉘스크립트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/쉘스크립트.md"
+              }
             }
           }
         ]
@@ -150,8 +156,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e49c65dc00784e25",
+  "active": "fb5e6603ebcbd2b2",
   "lastOpenFiles": [
+    "CS/쉘스크립트.md",
     "금융/New Note.md",
     "CS/도대체 Tomcat 이 뭐에요.md",
     "금융/금융.md",
@@ -183,7 +190,6 @@
     "분리전/분리전.md",
     "분리전",
     "분리전/앞으로 공부할 것.md",
-    "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/.md",
     "도서/Http NetWork Basic",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주",
     "assertJ",
