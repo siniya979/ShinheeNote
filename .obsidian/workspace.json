@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/도대체 Tomcat 이 뭐에요.md",
+                "file": "금융/New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/도대체 Tomcat 이 뭐에요.md",
+                "file": "금융/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/도대체 Tomcat 이 뭐에요.md",
+                "file": "금융/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/도대체 Tomcat 이 뭐에요.md"
+                "file": "금융/New Note.md"
               }
             }
           }
@@ -158,8 +158,11 @@
   },
   "active": "fb5e6603ebcbd2b2",
   "lastOpenFiles": [
-    "CS/Thread 가 뭐에요.md",
+    "금융/New Note.md",
     "CS/도대체 Tomcat 이 뭐에요.md",
+    "금융/금융.md",
+    "금융",
+    "CS/Thread 가 뭐에요.md",
     "CS/CS.md",
     "CS",
     "분리전/New Note.md",
@@ -187,13 +190,10 @@
     "분리전",
     "분리전/앞으로 공부할 것.md",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/.md",
-    "분리전/쿠키와 세션.md",
-    "분리전/240123.md",
     "도서/Http NetWork Basic",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;/단계1_자동차경주",
     "assertJ",
     "넥스트스텝_TDD, 클린코드 with Java 18기&nbsp;",
-    "Spring/FastCampus/10개의 백엔드 프로젝트",
     "Spring.canvas",
     "Canvas.canvas"
   ]

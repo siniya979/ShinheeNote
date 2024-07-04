@@ -103,7 +103,8 @@
     "분리전",
     "트러블슈팅",
     "트러블슈팅/시니",
-    "CS"
+    "CS",
+    "금융"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -155,7 +156,8 @@
     "SQL/2024",
     "SQL/알고리즘",
     "SQL/그림으로 이해하는 SQL 서버의 구조",
-    "CS"
+    "CS",
+    "금융"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
