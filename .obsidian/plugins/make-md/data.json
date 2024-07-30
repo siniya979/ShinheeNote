@@ -68,7 +68,10 @@
     "//SQL/SQL/그림으로 이해하는 SQL 서버의 구조",
     "//트러블슈팅/트러블슈팅/시니",
     "//트러블슈팅/트러블슈팅/시니",
-    "//CS"
+    "//CS",
+    "//Algorithm",
+    "//Algorithm/Algorithm/FC_Study",
+    "//Algorithm"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -76,7 +79,6 @@
     "spaces://$waypoints",
     "/",
     "Algorithm",
-    "Algorithm/FC_Study",
     "CICD",
     "CS",
     "IT_World",
